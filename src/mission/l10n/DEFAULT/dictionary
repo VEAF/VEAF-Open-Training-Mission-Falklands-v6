@@ -1,0 +1,12 @@
+dictionary = 
+{
+  DictKey_MCP_subtitle_1 = "TOR — Las Torres",
+  DictKey_MCP_subtitle_2 = "PAI — Cerro Paine Grande",
+  DictKey_MCP_subtitle_3 = "GRE — Glaciar Grey",
+  DictKey_MCP_subtitle_4 = "BEA — Canal Beagle",
+  DictKey_MCP_subtitle_5 = "WOL — Îles Wollaston",
+  DictKey_MCP_subtitle_6 = "HRN — Cap Horn",
+  DictKey_MCP_subtitle_7 = "PEB — Pebble Island",
+  DictKey_MCP_subtitle_8 = "EGM — Port Egmont",
+  DictKey_MCP_subtitle_9 = "CAR — Carcass Island",
+}

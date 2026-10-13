@@ -1,0 +1,431 @@
+{
+ "theatre": "Falklands",
+ "candidates": [
+  {
+   "airdrome_id": 19,
+   "name": "Almirante Schroeders",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 229.0,
+    "vhf": 118.25,
+    "fm": 38.6
+   },
+   "tacan": null,
+   "channel": "Base-Almirante Schroeders",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 24,
+   "name": "Goose Green",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.65,
+    "vhf": 126.0,
+    "fm": 39.05
+   },
+   "tacan": null,
+   "channel": "Base-Goose Green",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 29,
+   "name": "Gull Point",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 234.5,
+    "vhf": 126.5,
+    "fm": 39.5
+   },
+   "tacan": null,
+   "channel": "Base-Gull Point",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 2,
+   "name": "Mount Pleasant",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.8,
+    "vhf": 133.35,
+    "fm": 39.2
+   },
+   "tacan": "59X",
+   "channel": "Base-Mount Pleasant",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 18,
+   "name": "Porvenir",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.4,
+    "vhf": 126.7,
+    "fm": 38.8
+   },
+   "tacan": null,
+   "channel": "Base-Porvenir",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 13,
+   "name": "Puerto Natales",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.15,
+    "vhf": 128.1,
+    "fm": 38.55
+   },
+   "tacan": null,
+   "channel": "Base-Puerto Natales",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 12,
+   "name": "Puerto Williams",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.1,
+    "vhf": 118.5,
+    "fm": 38.5
+   },
+   "tacan": null,
+   "channel": "Base-Puerto Williams",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 9,
+   "name": "Punta Arenas",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.1,
+    "vhf": 118.7,
+    "fm": 39.5
+   },
+   "tacan": null,
+   "channel": "Base-Punta Arenas",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 5,
+   "name": "Rio Gallegos",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.9,
+    "vhf": 119.1,
+    "fm": 39.3
+   },
+   "tacan": null,
+   "channel": "Base-Rio Gallegos",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 6,
+   "name": "Rio Grande",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.95,
+    "vhf": 118.3,
+    "fm": 39.35
+   },
+   "tacan": "31X",
+   "channel": "Base-Rio Grande",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 3,
+   "name": "San Carlos FOB",
+   "coalition": "blue",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.85,
+    "vhf": 134.35,
+    "fm": 39.25
+   },
+   "tacan": null,
+   "channel": "Base-San Carlos FOB",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 11,
+   "name": "San Julian",
+   "coalition": "red",
+   "dynamic_slots": true,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.05,
+    "vhf": 118.05,
+    "fm": 38.45
+   },
+   "tacan": null,
+   "channel": "Base-San Julian",
+   "tier": 0
+  },
+  {
+   "airdrome_id": 16,
+   "name": "Comandante Luis Piedrabuena",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.3,
+    "vhf": 122.1,
+    "fm": 38.7
+   },
+   "tacan": null,
+   "channel": "Base-Comandante Luis Piedrabuena",
+   "tier": 1
+  },
+  {
+   "airdrome_id": 14,
+   "name": "El Calafate",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.2,
+    "vhf": 119.95,
+    "fm": 38.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 23,
+   "name": "Franco Bianco",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.6,
+    "vhf": 128.5,
+    "fm": 39.0
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 26,
+   "name": "Gobernador Gregores",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.7,
+    "vhf": 118.1,
+    "fm": 39.1
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 25,
+   "name": "Hipico Flying Club",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 235.0,
+    "vhf": 131.5,
+    "fm": 39.6
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 27,
+   "name": "O'Higgins",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.75,
+    "vhf": 118.25,
+    "fm": 39.15
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 10,
+   "name": "Pampa Guanaco",
+   "coalition": "blue",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.0,
+    "vhf": 118.0,
+    "fm": 38.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 1,
+   "name": "Port Stanley",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.45,
+    "vhf": 118.1,
+    "fm": 38.85
+   },
+   "tacan": null,
+   "channel": "Base-Port Stanley",
+   "tier": 1
+  },
+  {
+   "airdrome_id": 15,
+   "name": "Puerto Santa Cruz",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.25,
+    "vhf": 118.6,
+    "fm": 38.65
+   },
+   "tacan": null,
+   "channel": "Base-Puerto Santa Cruz",
+   "tier": 1
+  },
+  {
+   "airdrome_id": 21,
+   "name": "Rio Chico",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.55,
+    "vhf": 118.2,
+    "fm": 38.95
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 20,
+   "name": "Rio Turbio",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.5,
+    "vhf": 118.1,
+    "fm": 38.9
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 17,
+   "name": "Tolhuin",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 250.35,
+    "vhf": 118.15,
+    "fm": 38.75
+   },
+   "tacan": null,
+   "channel": "Base-Tolhuin",
+   "tier": 1
+  },
+  {
+   "airdrome_id": 7,
+   "name": "Ushuaia",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.0,
+    "vhf": 118.1,
+    "fm": 39.4
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  },
+  {
+   "airdrome_id": 8,
+   "name": "Ushuaia Helo Port",
+   "coalition": "red",
+   "dynamic_slots": false,
+   "parked_slots": 0,
+   "freqs": {
+    "uhf": 251.05,
+    "vhf": 118.5,
+    "fm": 39.45
+   },
+   "tacan": null,
+   "channel": null,
+   "tier": 1
+  }
+ ],
+ "bases_channels": [
+  "Base-Almirante Schroeders",
+  "Base-Comandante Luis Piedrabuena",
+  "Base-Goose Green",
+  "Base-Gull Point",
+  "Base-Mount Pleasant",
+  "Base-Port Stanley",
+  "Base-Porvenir",
+  "Base-Puerto Natales",
+  "Base-Puerto Santa Cruz",
+  "Base-Puerto Williams",
+  "Base-Punta Arenas",
+  "Base-Rio Gallegos",
+  "Base-Rio Grande",
+  "Base-San Carlos FOB",
+  "Base-San Julian",
+  "Base-Tolhuin"
+ ],
+ "on_a_radio": [
+  "Base-Almirante Schroeders",
+  "Base-Comandante Luis Piedrabuena",
+  "Base-Goose Green",
+  "Base-Gull Point",
+  "Base-Mount Pleasant",
+  "Base-Port Stanley",
+  "Base-Porvenir",
+  "Base-Puerto Natales",
+  "Base-Puerto Santa Cruz",
+  "Base-Puerto Williams",
+  "Base-Punta Arenas",
+  "Base-Rio Gallegos",
+  "Base-Rio Grande",
+  "Base-San Carlos FOB",
+  "Base-San Julian",
+  "Base-Tolhuin"
+ ]
+}

@@ -1,0 +1,233 @@
+[
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Mount Pleasant",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Goose Green",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Gull Point",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "San Carlos FOB",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Punta Arenas",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Porvenir",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Puerto Natales",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Puerto Williams",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Almirante Schroeders",
+   "coalition": "blue"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Franco Bianco",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Pampa Guanaco",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "O'Higgins",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Rio Gallegos",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Rio Grande",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "San Julian",
+   "coalition": "red"
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Port Stanley",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Rio Chico",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Rio Turbio",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "El Calafate",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Comandante Luis Piedrabuena",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Puerto Santa Cruz",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Gobernador Gregores",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Hipico Flying Club",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Cullen",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Tolhuin",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Ushuaia",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "name": "Ushuaia Helo Port",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ }
+]

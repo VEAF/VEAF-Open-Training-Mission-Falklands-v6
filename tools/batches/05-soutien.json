@@ -1,0 +1,1306 @@
+[
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Texaco 1",
+   "unit_type": "KC-135",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -25000,
+    "y": -40000
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 400,
+   "frequency_mhz": 290.0,
+   "task": "Refueling",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1",
+   "operation": "add",
+   "position": {
+    "x": -25000,
+    "y": 25000
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 400
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "activate_beacon",
+   "task_params": {
+    "channel": 50,
+    "mode": "Y",
+    "callsign": "TX1",
+    "bearing": true,
+    "aa": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "tanker",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 22000,
+    "speed_kt": 400
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "name": "Texaco 1 - Escort",
+   "unit_type": "F-15C",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -28000,
+    "y": -43000
+   },
+   "altitude_ft": 22000,
+   "speed_kt": 400,
+   "frequency_mhz": 290.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-9*4,AIM-120*4,Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Texaco 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arco 1",
+   "unit_type": "KC135MPRS",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -45000,
+    "y": -45000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 380,
+   "frequency_mhz": 291.0,
+   "task": "Refueling",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1",
+   "operation": "add",
+   "position": {
+    "x": -45000,
+    "y": 20000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 380
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "activate_beacon",
+   "task_params": {
+    "channel": 51,
+    "mode": "Y",
+    "callsign": "AR1",
+    "bearing": true,
+    "aa": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "tanker",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 18000,
+    "speed_kt": 380
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "name": "Arco 1 - Escort",
+   "unit_type": "F-15C",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -48000,
+    "y": -48000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 380,
+   "frequency_mhz": 291.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-9*4,AIM-120*4,Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Arco 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Texaco 2",
+   "unit_type": "KC-135",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -100000,
+    "y": -880000
+   },
+   "altitude_ft": 24000,
+   "speed_kt": 400,
+   "frequency_mhz": 292.0,
+   "task": "Refueling",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2",
+   "operation": "add",
+   "position": {
+    "x": -100000,
+    "y": -960000
+   },
+   "altitude_ft": 24000,
+   "speed_kt": 400
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "activate_beacon",
+   "task_params": {
+    "channel": 52,
+    "mode": "Y",
+    "callsign": "TX2",
+    "bearing": true,
+    "aa": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "tanker",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 24000,
+    "speed_kt": 400
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "name": "Texaco 2 - Escort",
+   "unit_type": "F-16C bl.50",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -103000,
+    "y": -883000
+   },
+   "altitude_ft": 24000,
+   "speed_kt": 400,
+   "frequency_mhz": 292.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Texaco 2 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Texaco 2",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arco 2",
+   "unit_type": "KC135MPRS",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -60000,
+    "y": -905000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380,
+   "frequency_mhz": 293.0,
+   "task": "Refueling",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2",
+   "operation": "add",
+   "position": {
+    "x": -60000,
+    "y": -985000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "activate_beacon",
+   "task_params": {
+    "channel": 53,
+    "mode": "Y",
+    "callsign": "AR2",
+    "bearing": true,
+    "aa": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "tanker",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 20000,
+    "speed_kt": 380
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "name": "Arco 2 - Escort",
+   "unit_type": "F-16C bl.50",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -63000,
+    "y": -908000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380,
+   "frequency_mhz": 293.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Arco 2 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Arco 2",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Overlord 1",
+   "unit_type": "E-3A",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 20000,
+    "y": -155000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 282.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add",
+   "position": {
+    "x": 80000,
+    "y": -155000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "name": "Overlord 1 - Escort",
+   "unit_type": "F-15C",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 17000,
+    "y": -158000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 282.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-9*4,AIM-120*4,Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Overlord 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Magic 1",
+   "unit_type": "E-3A",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -190000,
+    "y": -800000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 283.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1",
+   "operation": "add",
+   "position": {
+    "x": -190000,
+    "y": -740000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "name": "Magic 1 - Escort",
+   "unit_type": "F-16C bl.50",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -193000,
+    "y": -803000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 283.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Magic 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Magic 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Shell 1",
+   "unit_type": "IL-78M",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 60000,
+    "y": -620000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380,
+   "frequency_mhz": 294.0,
+   "task": "Refueling",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1",
+   "operation": "add",
+   "position": {
+    "x": 60000,
+    "y": -540000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "tanker",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 20000,
+    "speed_kt": 380
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Shell 1 - Escort",
+   "unit_type": "Su-27",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 57000,
+    "y": -623000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380,
+   "frequency_mhz": 294.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "R-73*4,R-27ER*6"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Shell 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Shell 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Wizard 1",
+   "unit_type": "A-50",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -60000,
+    "y": -520000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 284.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1",
+   "operation": "add",
+   "position": {
+    "x": -120000,
+    "y": -520000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Wizard 1 - Escort",
+   "unit_type": "Su-27",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": -63000,
+    "y": -523000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 284.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "R-73*4,R-27ER*6"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Wizard 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Wizard 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Darkstar 1",
+   "unit_type": "E-3A",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -120000,
+    "y": -170000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 285.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add",
+   "position": {
+    "x": -120000,
+    "y": -100000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Focus 1",
+   "unit_type": "A-50",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -280000,
+    "y": -170000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 286.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Focus 1",
+   "operation": "add",
+   "position": {
+    "x": -280000,
+    "y": -100000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 1",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 60000,
+    "y": -70000
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ }
+]

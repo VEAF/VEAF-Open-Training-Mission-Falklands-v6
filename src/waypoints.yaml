@@ -1,0 +1,184 @@
+# Plans de vol injectés dans les groupes joueurs (Open Training Falklands) — écrit par tools/gen_13_waypoints.py.
+# TX1/AR1/TX2/AR2 = début de piste des ravitailleurs bleus ; SH1 = ravitailleur rouge ; RNG_H/A/S = champs de tir
+# hélicoptères (Port Howard), attaque (Mount Adam), SEAD (Port Stephens) ; FARP_PH / TI / TP / SOM = FARP Port Howard,
+# Teal Inlet, Torres del Paine, Sombrero ; TOUR_T1/T2/T3 = tourisme (Torres del Paine, cap Horn, Falkland occidentales).
+# Le build ajoute le BULLSEYE (cap Vierges) à chaque plan.
+waypoints:
+  TX1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6706
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -25000
+    y: -40000
+    name: TX1
+  AR1:
+    type: Turning Point
+    action: Turning Point
+    alt: 5486
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -45000
+    y: -45000
+    name: AR1
+  TX2:
+    type: Turning Point
+    action: Turning Point
+    alt: 7315
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: -100000
+    y: -880000
+    name: TX2
+  AR2:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -60000
+    y: -905000
+    name: AR2
+  SH1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 60000
+    y: -620000
+    name: SH1
+  RNG_A:
+    type: Turning Point
+    action: Turning Point
+    alt: 914
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: 95250
+    y: -74000
+    name: RNG_A
+  RNG_S:
+    type: Turning Point
+    action: Turning Point
+    alt: 4572
+    alt_type: BARO
+    speed: 180.1
+    speed_type: TAS
+    x: 43750
+    y: -106750
+    name: RNG_S
+  RNG_H:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 78250
+    y: -38750
+    name: RNG_H
+  FARP_PH:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 88000
+    y: -32250
+    name: FARP_PH
+  FARP_TI:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 102500
+    y: 43250
+    name: FARP_TI
+  FARP_TP:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 39927
+    y: -960794
+    name: FARP_TP
+  FARP_SOM:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -105831
+    y: -679874
+    name: FARP_SOM
+  TOUR_T1:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 45094
+    y: -963184
+    name: TOUR_T1
+  TOUR_T2:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -320519
+    y: -526730
+    name: TOUR_T2
+  TOUR_T3:
+    type: Turning Point
+    action: Turning Point
+    alt: 457
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: 120000
+    y: -67000
+    name: TOUR_T3
+settings:
+  blue_planes:
+    category: plane
+    coalition: blue
+    waypoints:
+    - TX1
+    - AR1
+    - TX2
+    - AR2
+    - RNG_A
+    - RNG_S
+  blue_helicopters:
+    category: helicopter
+    coalition: blue
+    waypoints:
+    - FARP_PH
+    - FARP_TI
+    - FARP_TP
+    - FARP_SOM
+    - RNG_H
+    - TOUR_T1
+    - TOUR_T2
+    - TOUR_T3
+  red_planes:
+    category: plane
+    coalition: red
+    waypoints:
+    - SH1

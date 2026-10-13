@@ -1,0 +1,31 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "EWR Santa Cruz"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Santa Cruz",
+   "position": {
+    "x": 201884,
+    "y": -683970
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Santa-Cruz"
+    }
+   ]
+  }
+ }
+]

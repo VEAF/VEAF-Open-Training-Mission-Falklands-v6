@@ -1,0 +1,533 @@
+[
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-TOR.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise TOR",
+   "position": {
+    "x": 49143,
+    "y": -970721
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise TOR"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise TOR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 30.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise TOR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-TOR.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "TOR — Las Torres"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-PAI.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise PAI",
+   "position": {
+    "x": 43369,
+    "y": -978521
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise PAI"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise PAI",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 31.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise PAI",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-PAI.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "PAI — Cerro Paine Grande"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-GRE.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise GRE",
+   "position": {
+    "x": 51474,
+    "y": -1000713
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise GRE"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise GRE",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 32.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise GRE",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-GRE.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "GRE — Glaciar Grey"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-BEA.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise BEA",
+   "position": {
+    "x": -327273,
+    "y": -530368
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise BEA"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise BEA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 33.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise BEA",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-BEA.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "BEA — Canal Beagle"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-WOL.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise WOL",
+   "position": {
+    "x": -409331,
+    "y": -502968
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise WOL"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise WOL",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 34.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise WOL",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-WOL.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "WOL — Îles Wollaston"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-HRN.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "Balise HRN",
+   "position": {
+    "x": -434716,
+    "y": -492609
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise HRN"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise HRN",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 35.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise HRN",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-HRN.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "HRN — Cap Horn"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-PEB.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise PEB",
+   "position": {
+    "x": 129300,
+    "y": -27208
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise PEB"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise PEB",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 36.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise PEB",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-PEB.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "PEB — Pebble Island"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-EGM.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise EGM",
+   "position": {
+    "x": 121867,
+    "y": -65958
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise EGM"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise EGM",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 37.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise EGM",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-EGM.wav",
+    "loop": true,
+    "duration_s": 5,
+    "subtitle": "EGM — Port Egmont"
+   }
+  }
+ },
+ {
+  "name": "add_sound",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sound_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6/tools/sons/balise-CAR.wav"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "Balise CAR",
+   "position": {
+    "x": 128290,
+    "y": -100757
+   },
+   "units": [
+    {
+     "type": "Hummer",
+     "name": "Balise CAR"
+    }
+   ],
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise CAR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_frequency",
+   "task_params": {
+    "frequency_mhz": 38.0,
+    "modulation": "FM"
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Balise CAR",
+   "operation": "add_task",
+   "index": 1,
+   "task": "transmit_message",
+   "task_params": {
+    "sound": "balise-CAR.wav",
+    "loop": true,
+    "duration_s": 6,
+    "subtitle": "CAR — Carcass Island"
+   }
+  }
+ }
+]

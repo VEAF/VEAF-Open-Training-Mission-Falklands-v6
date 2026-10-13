@@ -1,0 +1,494 @@
+{
+ "Stanley, Falkland Islands": {
+  "x": 88169,
+  "y": 88438,
+  "osm": "city",
+  "name": "Stanley, Falkland Islands"
+ },
+ "Mount Longdon, Falkland Islands": {
+  "x": 90499,
+  "y": 79980,
+  "osm": "peak",
+  "name": "Mount Longdon, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Wireless Ridge, Falkland Islands": {
+  "x": 89652,
+  "y": 82862,
+  "osm": "peak",
+  "name": "Wireless Ridge, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Mount Tumbledown, Falkland Islands": {
+  "x": 87802,
+  "y": 81142,
+  "osm": "peak",
+  "name": "Mount Tumbledown, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Mount William, Falkland Islands": {
+  "x": 86749,
+  "y": 82251,
+  "osm": "peak",
+  "name": "Mount William, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Two Sisters, Falkland Islands": {
+  "x": 88357,
+  "y": 76512,
+  "osm": "peak",
+  "name": "Two Sisters, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Mount Harriet, Falkland Islands": {
+  "x": 86409,
+  "y": 77718,
+  "osm": "peak",
+  "name": "Mount Harriet, Tierra del Fuego, FIQQ 1ZZ, Falkland Islands"
+ },
+ "Sapper Hill, Falkland Islands": {
+  "x": 86949,
+  "y": 85932,
+  "osm": "peak",
+  "name": "Sapper Hill, Falkland Islands"
+ },
+ "Mount Kent, Falkland Islands": {
+  "x": 90113,
+  "y": 70886,
+  "osm": "peak",
+  "name": "Mount Kent, Tierra del Fuego, Falkland Islands"
+ },
+ "Mount Challenger, Falkland Islands": {
+  "x": 85946,
+  "y": 71547,
+  "osm": "peak",
+  "name": "Mount Challenger, Falkland Islands"
+ },
+ "Goose Green, Falkland Islands": {
+  "x": 71704,
+  "y": 11693,
+  "osm": "village",
+  "name": "Goose Green, Falkland Islands"
+ },
+ "Darwin, Falkland Islands": {
+  "x": 74027,
+  "y": 12597,
+  "osm": "hamlet",
+  "name": "Darwin, Goose Green, Tierra del Fuego, Falkland Islands"
+ },
+ "Fitzroy, Falkland Islands": {
+  "x": 77381,
+  "y": 62752,
+  "osm": "village",
+  "name": "Fitzroy, Falkland Islands"
+ },
+ "Bluff Cove, Falkland Islands": {
+  "x": 82128,
+  "y": 67322,
+  "osm": "bay",
+  "name": "Bluff Cove, Falkland Islands"
+ },
+ "San Carlos, Falkland Islands": {
+  "x": 99720,
+  "y": 6803,
+  "osm": "village",
+  "name": "San Carlos, Falkland Islands"
+ },
+ "Port San Carlos, Falkland Islands": {
+  "x": 107857,
+  "y": 9347,
+  "osm": "hamlet",
+  "name": "Port San Carlos, Smylies, Falkland Islands"
+ },
+ "Mount Usborne, Falkland Islands": {
+  "x": 87078,
+  "y": 20858,
+  "osm": "peak",
+  "name": "Mount Usborne, Falkland Islands"
+ },
+ "Volunteer Point, Falkland Islands": {
+  "x": 108362,
+  "y": 96171,
+  "osm": "cape",
+  "name": "Volunteer Point, Johnson's Harbour, Falkland Islands"
+ },
+ "Cape Pembroke, Falkland Islands": {
+  "x": 89433,
+  "y": 97900,
+  "osm": "locality",
+  "name": "Cape Pembroke, Stanley Common, Falkland Islands"
+ },
+ "Port Louis, Falkland Islands": {
+  "x": 105921,
+  "y": 69386,
+  "osm": "hamlet",
+  "name": "Port Louis, Falkland Islands"
+ },
+ "Camilla Creek, Falkland Islands": {
+  "x": 76576,
+  "y": 11625,
+  "osm": "tidal_channel",
+  "name": "Camilla Creek, Falkland Islands"
+ },
+ "Teal Inlet, Falkland Islands": {
+  "x": 102594,
+  "y": 47986,
+  "osm": "village",
+  "name": "Teal Inlet, Falkland Islands"
+ },
+ "Estancia, Falkland Islands": {
+  "x": 93266,
+  "y": 65987,
+  "osm": "residential",
+  "name": "Estancia House, Estancia, Tierra del Fuego, Falkland Islands"
+ },
+ "Salvador, Falkland Islands": {
+  "x": 116229,
+  "y": 52292,
+  "osm": "hamlet",
+  "name": "Salvador, Gibraltar Station, Tierra del Fuego, Falkland Islands"
+ },
+ "Pebble Island, Falkland Islands": {
+  "x": 129300,
+  "y": -27208,
+  "osm": "island",
+  "name": "Pebble Island, Falkland Islands"
+ },
+ "Fox Bay, Falkland Islands": {
+  "x": 54834,
+  "y": -63378,
+  "osm": "village",
+  "name": "Fox Bay, Falkland Islands"
+ },
+ "Port Howard, Falkland Islands": {
+  "x": 94553,
+  "y": -26875,
+  "osm": "village",
+  "name": "Port Howard, Falkland Islands"
+ },
+ "Hill Cove, Falkland Islands": {
+  "x": 104886,
+  "y": -69744,
+  "osm": "residential",
+  "name": "Hill Cove, Falkland Islands"
+ },
+ "Port Stephens, Falkland Islands": {
+  "x": 36659,
+  "y": -114870,
+  "osm": "hamlet",
+  "name": "Port Stephens, Falkland Islands"
+ },
+ "Weddell Island, Falkland Islands": {
+  "x": 60802,
+  "y": -124538,
+  "osm": "island",
+  "name": "Weddell Island, Tierra del Fuego, Falkland Islands"
+ },
+ "Sea Lion Island, Falkland Islands": {
+  "x": 3924,
+  "y": 3809,
+  "osm": "island",
+  "name": "Sea Lion Island, Tierra del Fuego, Falkland Islands"
+ },
+ "Carcass Island, Falkland Islands": {
+  "x": 128290,
+  "y": -101007,
+  "osm": "island",
+  "name": "Carcass Island, Tierra del Fuego, Falkland Islands"
+ },
+ "Saunders Island, Falkland Islands": {
+  "x": 123296,
+  "y": -70144,
+  "osm": "island",
+  "name": "Saunders Island, Tierra del Fuego, Falkland Islands"
+ },
+ "Mount Adam, Falkland Islands": {
+  "x": 97061,
+  "y": -65544,
+  "osm": "peak",
+  "name": "Mount Adam, Tierra del Fuego, Falkland Islands"
+ },
+ "Chartres, Falkland Islands": {
+  "x": 82002,
+  "y": -65066,
+  "osm": "village",
+  "name": "Chartres, Falkland Islands"
+ },
+ "Dunnose Head, Falkland Islands": {
+  "x": 75931,
+  "y": -88421,
+  "osm": "hamlet",
+  "name": "Dunnose Head, Falkland Islands"
+ },
+ "Port Egmont, Falkland Islands": {
+  "x": 121367,
+  "y": -63208,
+  "osm": "bay",
+  "name": "Port Egmont, Falkland Islands"
+ },
+ "Keppel Island, Falkland Islands": {
+  "x": 125688,
+  "y": -60111,
+  "osm": "island",
+  "name": "Keppel Island, Falkland Islands"
+ },
+ "Rio Gallegos, Argentina": {
+  "x": 26135,
+  "y": -688854,
+  "osm": "bay",
+  "name": "Río Gallegos, Güer Aike, Santa Cruz, Argentina"
+ },
+ "Rio Turbio, Argentina": {
+  "x": -20181,
+  "y": -888535,
+  "osm": "river",
+  "name": "Río Turbio, Santa Cruz, Argentina"
+ },
+ "El Calafate, Argentina": {
+  "x": 126640,
+  "y": -936756,
+  "osm": "administrative",
+  "name": "Municipio de El Calafate, Lago Argentino, Santa Cruz, Argentina"
+ },
+ "Comandante Luis Piedrabuena, Argentina": {
+  "x": 210242,
+  "y": -705739,
+  "osm": "administrative",
+  "name": "Comandante Luis Piedrabuena, Corpen Aike, Santa Cruz, Argentina"
+ },
+ "Puerto Santa Cruz, Argentina": {
+  "x": 210675,
+  "y": -676629,
+  "osm": "administrative",
+  "name": "Puerto Santa Cruz, Corpen Aike, Santa Cruz, Argentina"
+ },
+ "San Julian, Argentina": {
+  "x": 3105652,
+  "y": -631091,
+  "osm": "neighbourhood",
+  "name": "San Julian, Santa Clara, Municipio de Santa Clara, Departamento Santa Bárbara, Jujuy, Y450"
+ },
+ "Gobernador Gregores, Argentina": {
+  "x": 330393,
+  "y": -825022,
+  "osm": "administrative",
+  "name": "Gobernador Gregores, Río Chico, Santa Cruz, Argentina"
+ },
+ "Rio Grande, Tierra del Fuego, Argentina": {
+  "x": -197853,
+  "y": -555832,
+  "osm": "bank",
+  "name": "Banco Nación, 219, 9 de Julio, Centro, Municipio de Río Grande, Departamento Río Grande, V"
+ },
+ "Tolhuin, Argentina": {
+  "x": -272948,
+  "y": -511297,
+  "osm": "administrative",
+  "name": "Municipio de Tolhuin, Departamento Tolhuin, Tierra del Fuego, 9412, Argentina"
+ },
+ "Ushuaia, Argentina": {
+  "x": -316738,
+  "y": -577597,
+  "osm": "administrative",
+  "name": "Ushuaia, Departamento Ushuaia, Argentina"
+ },
+ "Cullen, Tierra del Fuego": {
+  "x": -104241,
+  "y": -619820,
+  "osm": "river",
+  "name": "Río Cullen, Departamento Río Grande, Tierra del Fuego, Argentina"
+ },
+ "Cabo Virgenes, Argentina": {
+  "x": -43561,
+  "y": -624965,
+  "osm": "cape",
+  "name": "Cabo Vírgenes, Güer Aike, Santa Cruz, Argentina"
+ },
+ "Lago Argentino, Argentina": {
+  "x": 129310,
+  "y": -948031,
+  "osm": "lake",
+  "name": "Lago Argentino, Santa Cruz, Argentina"
+ },
+ "Perito Moreno Glacier": {
+  "x": 85838,
+  "y": -998355,
+  "osm": "glacier",
+  "name": "Glaciar Perito Moreno, Lago Argentino, Santa Cruz, Argentina"
+ },
+ "Lago Viedma, Argentina": {
+  "x": 203710,
+  "y": -976104,
+  "osm": "lake",
+  "name": "Lago Viedma, Lago Argentino, Santa Cruz, Argentina"
+ },
+ "El Chalten, Argentina": {
+  "x": 618248,
+  "y": -662255,
+  "osm": "suburb",
+  "name": "El Chaltén, Humedal, Caleta Olivia, Deseado, Santa Cruz, 9011, Argentina"
+ },
+ "Monte Fitz Roy": {
+  "x": 232727,
+  "y": -1016978,
+  "osm": "peak",
+  "name": "Monte Fitz Roy, Lago Argentino, Santa Cruz, Argentina"
+ },
+ "Estancia La Anita, Argentina": {
+  "x": 403612,
+  "y": -653669,
+  "osm": "isolated_dwelling",
+  "name": "Estancia La Anita, Magallanes, Santa Cruz, Argentina"
+ },
+ "28 de Noviembre, Argentina": {
+  "x": -9330,
+  "y": -903445,
+  "osm": "administrative",
+  "name": "Veintiocho de Noviembre, Río Turbio, Güer Aike, Santa Cruz, 9408, Argentina"
+ },
+ "Cerro Dorotea, Argentina": {
+  "x": 20232,
+  "y": -916901,
+  "osm": "peak",
+  "name": "Cerro Cancha Carrera, Güer Aike, Santa Cruz, Argentina"
+ },
+ "Puerto Almanza, Argentina": {
+  "x": -316092,
+  "y": -528902,
+  "osm": "administrative",
+  "name": "Puerto Almanza, Departamento Ushuaia, Tierra del Fuego, Argentina"
+ },
+ "Isla de los Estados": {
+  "x": -284208,
+  "y": -330225,
+  "osm": "island",
+  "name": "Isla de los Estados, Departamento Ushuaia, Tierra del Fuego, 9410, Argentina"
+ },
+ "Estrecho de Le Maire": {
+  "x": -284567,
+  "y": -363235,
+  "osm": "strait",
+  "name": "Estrecho de Le Maire, Argentina"
+ },
+ "Punta Arenas, Chile": {
+  "x": -165772,
+  "y": -779567,
+  "osm": "city",
+  "name": "Punta Arenas, Provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, 620"
+ },
+ "Puerto Natales, Chile": {
+  "x": -29843,
+  "y": -920157,
+  "osm": "city",
+  "name": "Puerto Natales, Provincia de Última Esperanza, Región de Magallanes y de la Antártica Chil"
+ },
+ "Porvenir, Chile": {
+  "x": 1789926,
+  "y": -1177238,
+  "osm": "village",
+  "name": "El Porvenir, Talca, Provincia de Talca, Región del Maule, Chile"
+ },
+ "Puerto Williams, Chile": {
+  "x": -323853,
+  "y": -530573,
+  "osm": "town",
+  "name": "Puerto Williams, Cabo de Hornos, Provincia de la Antártica Chilena, Región de Magallanes y"
+ },
+ "Torres del Paine": {
+  "x": 34712,
+  "y": -964665,
+  "osm": "administrative",
+  "name": "Torres del Paine, Provincia de Última Esperanza, Región de Magallanes y de la Antártica Ch"
+ },
+ "Cerro Paine Grande": {
+  "x": 41869,
+  "y": -978021,
+  "osm": "peak",
+  "name": "Cerro Paine Grande, Torres del Paine, Provincia de Última Esperanza, Región de Magallanes "
+ },
+ "Grey Glacier, Chile": {
+  "x": 51974,
+  "y": -1001713,
+  "osm": "glacier",
+  "name": "Glaciar Grey, Provincia de Última Esperanza, Región de Magallanes y de la Antártica Chilen"
+ },
+ "Lago Grey, Chile": {
+  "x": 34986,
+  "y": -982538,
+  "osm": "lake",
+  "name": "Lago Grey, Torres del Paine, Provincia de Última Esperanza, Región de Magallanes y de la A"
+ },
+ "Villa O'Higgins": {
+  "x": 328963,
+  "y": -1000608,
+  "osm": "village",
+  "name": "Villa O'Higgins, O’Higgins, Provincia de Capitán Prat, Región Aysén del General Carlos Ibá"
+ },
+ "Cabo de Hornos": {
+  "x": -436216,
+  "y": -493109,
+  "osm": "cape",
+  "name": "Cabo de Hornos, Provincia de la Antártica Chilena, Región de Magallanes y de la Antártica "
+ },
+ "Isla Hornos": {
+  "x": -432864,
+  "y": -492617,
+  "osm": "island",
+  "name": "Isla Hornos, Cabo de Hornos, Provincia de la Antártica Chilena, Región de Magallanes y de "
+ },
+ "Cerro Sombrero, Chile": {
+  "x": -103124,
+  "y": -679716,
+  "osm": "village",
+  "name": "Cerro Sombrero, Primavera, Provincia de Tierra del Fuego, Región de Magallanes y de la Ant"
+ },
+ "Estrecho de Magallanes": {
+  "x": -255303,
+  "y": -789768,
+  "osm": "strait",
+  "name": "Estrecho de Magallanes, Chile"
+ },
+ "Bahia Inutil, Chile": {
+  "x": -194341,
+  "y": -699252,
+  "osm": "bay",
+  "name": "Bahía Inútil, Región de Magallanes y de la Antártica Chilena, Chile"
+ },
+ "Puerto Harris, Chile": {
+  "x": -234102,
+  "y": -735153,
+  "osm": "hamlet",
+  "name": "Puerto Harris, Punta Arenas, Provincia de Magallanes, Región de Magallanes y de la Antárti"
+ },
+ "Pali Aike": {
+  "x": -20879,
+  "y": -726114,
+  "osm": "isolated_dwelling",
+  "name": "Pali Aike, Güer Aike, Santa Cruz, Argentina"
+ },
+ "Cerro Castillo, Chile": {
+  "x": 24359,
+  "y": -920243,
+  "osm": "hamlet",
+  "name": "Cerro Castillo, Torres del Paine, Provincia de Última Esperanza, Región de Magallanes y de"
+ },
+ "Cabo Froward": {
+  "x": -251889,
+  "y": -789671,
+  "osm": "cape",
+  "name": "Cabo Froward, Punta Arenas, Provincia de Magallanes, Región de Magallanes y de la Antártic"
+ },
+ "Isla Navarino": {
+  "x": -343379,
+  "y": -527576,
+  "osm": "island",
+  "name": "Isla Navarino, Región de Magallanes y de la Antártica Chilena, Chile"
+ },
+ "Canal Beagle": {
+  "x": -329160,
+  "y": -587464,
+  "osm": "strait",
+  "name": "Canal Beagle, Región de Magallanes y de la Antártica Chilena, Chile"
+ },
+ "Wollaston Islands": {
+  "x": 14145865,
+  "y": -583247,
+  "osm": "archipelago",
+  "name": "Wollaston Islands, ᕿᑭᖅᑖᓗᒃ Qikiqtaaluk Region, ᓄᓇᕗᑦ Nunavut, Canada"
+ }
+}

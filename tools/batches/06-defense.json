@@ -1,0 +1,1014 @@
+[
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Mount Pleasant Patriot",
+   "position": {
+    "x": 69089,
+    "y": 45630
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 90, country uk\"] #Mount-Pleasant-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Mount Pleasant Rapier",
+   "position": {
+    "x": 75667,
+    "y": 48024
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "rapier_fsa_launcher",
+     "name": "#veafInterpreter[\"-rapier, hdg 90, country uk\"] #Mount-Pleasant-Rapier"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Mount Pleasant Avenger",
+   "position": {
+    "x": 72463,
+    "y": 49518
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country uk\"] #Mount-Pleasant-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Goose Green Hawk",
+   "position": {
+    "x": 72590,
+    "y": 8061
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country uk\"] #Goose-Green-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Goose Green Rapier",
+   "position": {
+    "x": 72590,
+    "y": 11862
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "rapier_fsa_launcher",
+     "name": "#veafInterpreter[\"-rapier, hdg 90, country uk\"] #Goose-Green-Rapier"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Gull Point NASAMS",
+   "position": {
+    "x": 30518,
+    "y": 20977
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 90, country uk\"] #Gull-Point-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD Gull Point Avenger",
+   "position": {
+    "x": 34695,
+    "y": 21314
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country uk\"] #Gull-Point-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD San Carlos Hawk",
+   "position": {
+    "x": 111439,
+    "y": 8484
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country uk\"] #San-Carlos-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "AD San Carlos Avenger",
+   "position": {
+    "x": 106139,
+    "y": 8484
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country uk\"] #San-Carlos-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Punta Arenas Patriot",
+   "position": {
+    "x": -147785,
+    "y": -783609
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 90, country chile\"] #Punta-Arenas-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Punta Arenas Hawk",
+   "position": {
+    "x": -152285,
+    "y": -779609
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country chile\"] #Punta-Arenas-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Punta Arenas Avenger",
+   "position": {
+    "x": -147785,
+    "y": -777109
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country chile\"] #Punta-Arenas-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Porvenir Hawk",
+   "position": {
+    "x": -168264,
+    "y": -735141
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country chile\"] #Porvenir-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Porvenir Avenger",
+   "position": {
+    "x": -168264,
+    "y": -740441
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country chile\"] #Porvenir-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Schroeders NASAMS",
+   "position": {
+    "x": -211714,
+    "y": -741523
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 90, country chile\"] #Schroeders-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Schroeders Avenger",
+   "position": {
+    "x": -207414,
+    "y": -741523
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country chile\"] #Schroeders-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Natales Hawk",
+   "position": {
+    "x": -26571,
+    "y": -922525
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country chile\"] #Natales-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Natales NASAMS",
+   "position": {
+    "x": -24059,
+    "y": -925509
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 90, country chile\"] #Natales-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Natales Avenger",
+   "position": {
+    "x": -22259,
+    "y": -923009
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country chile\"] #Natales-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Williams Hawk",
+   "position": {
+    "x": -327019,
+    "y": -531926
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 90, country chile\"] #Williams-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Williams NASAMS",
+   "position": {
+    "x": -323590,
+    "y": -529855
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 90, country chile\"] #Williams-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "AD Williams Avenger",
+   "position": {
+    "x": -323801,
+    "y": -533623
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0, country chile\"] #Williams-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "EWR Mount Usborne",
+   "position": {
+    "x": 88578,
+    "y": 20858
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0, country uk\"] #EWR-Mount-Usborne"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "name": "EWR Mount Adam",
+   "position": {
+    "x": 98561,
+    "y": -65544
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0, country uk\"] #EWR-Mount-Adam"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "EWR Punta Arenas",
+   "position": {
+    "x": -154679,
+    "y": -785394
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0, country chile\"] #EWR-Punta-Arenas"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "EWR Natales",
+   "position": {
+    "x": -37131,
+    "y": -923086
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0, country chile\"] #EWR-Natales"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "name": "EWR Navarino",
+   "position": {
+    "x": -339379,
+    "y": -527576
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117 Dome",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0, country chile\"] #EWR-Navarino"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Port Stanley SA-6",
+   "position": {
+    "x": 89438,
+    "y": 97533
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Kub 2P25 ln",
+     "name": "#veafInterpreter[\"-sa6, hdg 270\"] #Port-Stanley-SA-6"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Port Stanley SA-15",
+   "position": {
+    "x": 89995,
+    "y": 93347
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Port-Stanley-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Rio Gallegos SA-10",
+   "position": {
+    "x": 29592,
+    "y": -697727
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "S-300PS 5P85C ln",
+     "name": "#veafInterpreter[\"-sa10, hdg 270\"] #Rio-Gallegos-SA-10"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Rio Gallegos SA-15",
+   "position": {
+    "x": 23839,
+    "y": -704092
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Rio-Gallegos-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Rio Grande SA-11",
+   "position": {
+    "x": -196068,
+    "y": -556563
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 270\"] #Rio-Grande-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Rio Grande SA-15",
+   "position": {
+    "x": -199024,
+    "y": -560172
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Rio-Grande-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD San Julian SA-11",
+   "position": {
+    "x": 297478,
+    "y": -641918
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 90\"] #San-Julian-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD San Julian SA-15",
+   "position": {
+    "x": 297478,
+    "y": -634918
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #San-Julian-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Rio Turbio SA-15",
+   "position": {
+    "x": -12262,
+    "y": -901620
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Rio-Turbio-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Ushuaia SA-15",
+   "position": {
+    "x": -320410,
+    "y": -575022
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Ushuaia-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Piedrabuena SA-10",
+   "position": {
+    "x": 213541,
+    "y": -707861
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "S-300PS 5P85C ln",
+     "name": "#veafInterpreter[\"-sa10, hdg 270\"] #Piedrabuena-SA-10"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Piedrabuena SA-15",
+   "position": {
+    "x": 206541,
+    "y": -707861
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Piedrabuena-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Santa Cruz SA-11",
+   "position": {
+    "x": 214341,
+    "y": -680892
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 270\"] #Santa-Cruz-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Tolhuin SA-15",
+   "position": {
+    "x": -269633,
+    "y": -510005
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Tolhuin-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Port Stanley",
+   "position": {
+    "x": 89349,
+    "y": 97389
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Port-Stanley"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Rio Gallegos",
+   "position": {
+    "x": 31316,
+    "y": -701698
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Rio-Gallegos"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Rio Grande",
+   "position": {
+    "x": -194306,
+    "y": -558514
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Rio-Grande"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR San Julian",
+   "position": {
+    "x": 302176,
+    "y": -635208
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-San-Julian"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Santa Cruz",
+   "position": {
+    "x": 210740,
+    "y": -676157
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Santa-Cruz"
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,2249 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_CretesStanley",
+   "position": {
+    "x": 90076,
+    "y": 81421
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z01-1",
+     "position": {
+      "x": 90876,
+      "y": 81421
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 2, country russia\" #Z01-1"
+      }
+     ]
+    },
+    {
+     "name": "Z01-2",
+     "position": {
+      "x": 89626,
+      "y": 82200
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country russia\" #Z01-2"
+      }
+     ]
+    },
+    {
+     "name": "Z01-3",
+     "position": {
+      "x": 90076,
+      "y": 82021
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #spawnchance=50 #Z01-3"
+      }
+     ]
+    },
+    {
+     "name": "Z01-4",
+     "position": {
+      "x": 89726,
+      "y": 80815
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country russia\" #Z01-4"
+      }
+     ]
+    },
+    {
+     "name": "Z01-5",
+     "position": {
+      "x": 90676,
+      "y": 80382
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z01-5"
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": 90076,
+      "y": 82721
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SAU Msta",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z01 Front des îles — crêtes de Mount Longdon et Wireless Ridge",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "Les crêtes à l'ouest de Port Stanley, tenues par une brigade mécanisée rouge : chars, blindés et lance-roquettes en position, à 21 nm de Mount Pleasant. Détruire les blindés et l'artillerie ; défense courte portée (SA-15, SA-13) et artillerie antiaérienne, sous la QRA de Port Stanley.\nPosition : bullseye 079°/388 nm (S51°40.508' W057°57.460'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 80 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 69 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": 90826,
+    "y": 82720
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_CretesStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": 90657,
+    "y": 83018
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_CretesStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_RioTurbio",
+   "position": {
+    "x": -5592,
+    "y": -902433
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z02-1",
+     "position": {
+      "x": -4899,
+      "y": -902033
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country russia\" #Z02-1"
+      }
+     ]
+    },
+    {
+     "name": "Z02-2",
+     "position": {
+      "x": -6371,
+      "y": -901983
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "name": "#command=\"-armor, defense 0, country russia\" #Z02-2"
+      }
+     ]
+    },
+    {
+     "name": "Z02-3",
+     "position": {
+      "x": -5592,
+      "y": -903133
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country russia\" #Z02-3"
+      }
+     ]
+    },
+    {
+     "name": "Z02-4",
+     "position": {
+      "x": -5592,
+      "y": -901933
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z02-4"
+      }
+     ]
+    },
+    {
+     "name": "Artillerie",
+     "position": {
+      "x": -6631,
+      "y": -903033
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SAU Msta",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z02 Front de Patagonie — frontière de Rio Turbio",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La ligne de défense rouge de Rio Turbio, à 15 nm de Puerto Natales, côté argentin : chars enterrés, blindés et artillerie automotrice. Défense courte portée seulement (SA-13, Shilka) : le drone Reaper 2 la désigne au laser.\nPosition : bullseye 278°/151 nm (S51°32.940' W072°11.178'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 29 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 51 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Barracks-1",
+   "position": {
+    "x": -4466,
+    "y": -903083
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_RioTurbio",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Barracks-2",
+   "position": {
+    "x": -4182,
+    "y": -902946
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_RioTurbio",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_SanSebastian",
+   "position": {
+    "x": -100135,
+    "y": -632605
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Z03-1",
+     "position": {
+      "x": -99442,
+      "y": -633005
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 2, country russia\" #Z03-1"
+      }
+     ]
+    },
+    {
+     "name": "Z03-2",
+     "position": {
+      "x": -100135,
+      "y": -631705
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "name": "#command=\"-armor, defense 1, country russia\" #Z03-2"
+      }
+     ]
+    },
+    {
+     "name": "Z03-3",
+     "position": {
+      "x": -100699,
+      "y": -632810
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8, country russia\" #Z03-3"
+      }
+     ]
+    },
+    {
+     "name": "Z03-4",
+     "position": {
+      "x": -99269,
+      "y": -632105
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z03-4"
+      }
+     ]
+    },
+    {
+     "name": "Lance-roquettes",
+     "position": {
+      "x": -100580,
+      "y": -633827
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Grad-URAL",
+       "count": 4
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z03 Front de Terre de Feu — carrefour de San Sebastián",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "Le poste frontière de San Sebastián, sur la route de Rio Grande, face au Chili : une brigade mécanisée rouge et ses lance-roquettes. Détruire les blindés et les Grad ; défense SA-8 et artillerie antiaérienne. Aucune QRA ne couvre le secteur (Rio Grande est à 66 nm).\nPosition : bullseye 188°/31 nm (S52°49.200' W068°36.000'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 149 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 134 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": -99735,
+    "y": -632605
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_SanSebastian",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": -100360,
+    "y": -632215
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_SanSebastian",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": -100345,
+    "y": -632969
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_SanSebastian",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_MountKent",
+   "position": {
+    "x": 90113,
+    "y": 70886
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z04-1",
+     "position": {
+      "x": 90113,
+      "y": 70886
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country russia\" #Z04-1"
+      }
+     ]
+    },
+    {
+     "name": "Z04-2",
+     "position": {
+      "x": 90113,
+      "y": 72386
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country russia\" #Z04-2"
+      }
+     ]
+    },
+    {
+     "name": "Z04-3",
+     "position": {
+      "x": 89643,
+      "y": 70715
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z04-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z04 SEAD — site SA-6 du Mount Kent",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site SA-6 perché sur Mount Kent, au-dessus de la vallée de Stanley, relié à un radar d'alerte avancée en réseau Skynet, à 16 nm de Mount Pleasant. Détruire le radar de conduite de tir et les lanceurs ; un Shilka protège le site.\nPosition : bullseye 079°/383 nm (S51°40.408' W058°06.600'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 78 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PaliAike",
+   "position": {
+    "x": -20879,
+    "y": -726114
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z05-1",
+     "position": {
+      "x": -20879,
+      "y": -726114
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11, country russia\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-1"
+      }
+     ]
+    },
+    {
+     "name": "Z05-2",
+     "position": {
+      "x": -20729,
+      "y": -725854
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country russia\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-2"
+      }
+     ]
+    },
+    {
+     "name": "Z05-3",
+     "position": {
+      "x": -22079,
+      "y": -726114
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country russia\" #Z05-3"
+      }
+     ]
+    },
+    {
+     "name": "Z05-4",
+     "position": {
+      "x": -20629,
+      "y": -726547
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z05-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z05 SEAD — site SA-11 de Pali Aike",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site sol-air qui couvre la steppe de Pali Aike, entre Rio Gallegos et la frontière : une batterie SA-11 ou SA-6 tirée au sort, son radar d'alerte avancée et un Shilka. Sous la couverture lointaine du SA-10 de Rio Gallegos.\nPosition : bullseye 283°/56 nm (S51°58.981' W069°44.932'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 99 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 93 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_RioGrandeSAM",
+   "position": {
+    "x": -207537,
+    "y": -553488
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z06-1",
+     "position": {
+      "x": -207537,
+      "y": -553488
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11, country russia\" #Z06-1"
+      }
+     ]
+    },
+    {
+     "name": "Z06-2",
+     "position": {
+      "x": -207537,
+      "y": -551988
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country russia\" #Z06-2"
+      }
+     ]
+    },
+    {
+     "name": "Z06-3",
+     "position": {
+      "x": -208101,
+      "y": -553693
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #Z06-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z06 SEAD — site SA-11 de Rio Grande",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site SA-11 au sud-sud-est de Rio Grande, sur la côte atlantique de la Terre de Feu, avec son radar d'alerte avancée en réseau Skynet et un SA-15. Détruire le radar de conduite de tir et les lanceurs.\nPosition : bullseye 156°/97 nm (S53°52.649' W067°41.041'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 206 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 186 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_ConvoiStanley",
+   "position": {
+    "x": 87528,
+    "y": 86858
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 87528,
+      "y": 86858
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      },
+      {
+       "type": "Ural-375",
+       "count": 4
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      },
+      {
+       "type": "Strela-1 9P31",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 87528,
+       "y": 86858
+      },
+      {
+       "x": 86558,
+       "y": 83300
+      },
+      {
+       "x": 85418,
+       "y": 79707
+      },
+      {
+       "x": 85756,
+       "y": 75818
+      },
+      {
+       "x": 84907,
+       "y": 72151
+      },
+      {
+       "x": 83195,
+       "y": 68320
+      },
+      {
+       "x": 82498,
+       "y": 65488
+      },
+      {
+       "x": 80705,
+       "y": 62732
+      },
+      {
+       "x": 78817,
+       "y": 62356
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z07 Convoi — Stanley vers Fitzroy",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de renforts quitte Port Stanley par la route de Fitzroy, vers le sud-ouest. L'arrêter avant Fitzroy, à 9 nm de Mount Pleasant ; il porte sa propre artillerie antiaérienne (ZU-23) et un SA-9.\nPosition : bullseye 080°/391 nm (S51°41.919' W057°52.770'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 80 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 69 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_ConvoiRuta3",
+   "position": {
+    "x": 23604,
+    "y": -708934
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 23604,
+      "y": -708934
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 2
+      },
+      {
+       "type": "BMP-2",
+       "count": 2
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      },
+      {
+       "type": "Strela-10M3",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 23604,
+       "y": -708934
+      },
+      {
+       "x": 23353,
+       "y": -710402
+      },
+      {
+       "x": 22706,
+       "y": -713126
+      },
+      {
+       "x": 21851,
+       "y": -716648
+      },
+      {
+       "x": 19808,
+       "y": -721110
+      },
+      {
+       "x": 19985,
+       "y": -724931
+      },
+      {
+       "x": 22546,
+       "y": -726135
+      },
+      {
+       "x": 26278,
+       "y": -726848
+      },
+      {
+       "x": 28760,
+       "y": -727075
+      },
+      {
+       "x": 28760,
+       "y": -727075
+      },
+      {
+       "x": 28760,
+       "y": -727075
+      },
+      {
+       "x": 53199,
+       "y": -729010
+      },
+      {
+       "x": 53199,
+       "y": -729010
+      },
+      {
+       "x": 53199,
+       "y": -729010
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z08 Convoi — route 3, de Rio Gallegos vers Piedrabuena",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi blindé quitte Rio Gallegos par la route 3 vers Piedrabuena pour renforcer le nord. Le détruire en route ; il est escorté par un SA-13, sous la QRA de Rio Gallegos au départ.\nPosition : bullseye 309°/58 nm (S51°37.145' W069°23.720'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 115 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 114 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_ConvoiTolhuin",
+   "position": {
+    "x": -200039,
+    "y": -551862
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": -200039,
+      "y": -551862
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      },
+      {
+       "type": "ATZ-10",
+       "count": 3
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -200039,
+       "y": -551862
+      },
+      {
+       "x": -202351,
+       "y": -547503
+      },
+      {
+       "x": -206090,
+       "y": -547199
+      },
+      {
+       "x": -208982,
+       "y": -545973
+      },
+      {
+       "x": -212579,
+       "y": -542729
+      },
+      {
+       "x": -213310,
+       "y": -539304
+      },
+      {
+       "x": -216713,
+       "y": -536621
+      },
+      {
+       "x": -218244,
+       "y": -532063
+      },
+      {
+       "x": -219551,
+       "y": -529277
+      },
+      {
+       "x": -222806,
+       "y": -528055
+      },
+      {
+       "x": -225072,
+       "y": -526488
+      },
+      {
+       "x": -228773,
+       "y": -525292
+      },
+      {
+       "x": -233447,
+       "y": -521494
+      },
+      {
+       "x": -233645,
+       "y": -521399
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z09 Convoi — route 3, de Rio Grande vers Tolhuin",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de carburant roule de Rio Grande vers Tolhuin, sur la route 3 de Terre de Feu, pour ravitailler le front de San Sebastián et du canal Beagle. Le détruire avant Tolhuin ; il porte sa propre artillerie antiaérienne.\nPosition : bullseye 155°/93 nm (S53°48.806' W067°38.563'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 205 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 185 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_EtatMajorGallegos",
+   "position": {
+    "x": 25302,
+    "y": -696666
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z10-1",
+     "position": {
+      "x": 24738,
+      "y": -696871
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #Z10-1"
+      }
+     ]
+    },
+    {
+     "name": "Z10-2",
+     "position": {
+      "x": 25502,
+      "y": -696320
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z10-2"
+      }
+     ]
+    },
+    {
+     "name": "PC mobile",
+     "position": {
+      "x": 25452,
+      "y": -696926
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SKP-11",
+       "count": 2
+      },
+      {
+       "type": "Ural-375 PBU",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z10 Frappe — état-major de Rio Gallegos",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Le poste de commandement rouge du sud de la Patagonie, dans les faubourgs de Rio Gallegos : bunkers, centre de transmissions, dépôt de carburant. Tout détruire ; défense SA-15 et Shilka, sous la QRA et le SA-10 de Rio Gallegos.\nPosition : bullseye 314°/54 nm (S51°37.356' W069°13.086'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 122 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 120 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": 25302,
+    "y": -696666
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-2",
+   "position": {
+    "x": 25302,
+    "y": -696466
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-3",
+   "position": {
+    "x": 25102,
+    "y": -696666
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-4",
+   "position": {
+    "x": 25302,
+    "y": -696866
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-5",
+   "position": {
+    "x": 25479,
+    "y": -696489
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Military-6",
+   "position": {
+    "x": 25125,
+    "y": -696489
+   },
+   "units": [
+    {
+     "type": "Military staff"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-7",
+   "position": {
+    "x": 25090,
+    "y": -696878
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_EtatMajorGallegos",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortSantaCruz",
+   "position": {
+    "x": 210675,
+    "y": -676629
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z11-1",
+     "position": {
+      "x": 210975,
+      "y": -676629
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z11-1"
+      }
+     ]
+    },
+    {
+     "name": "Z11-2",
+     "position": {
+      "x": 210375,
+      "y": -676629
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z11-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z11 Frappe — port de Puerto Santa Cruz",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Le port de Puerto Santa Cruz, au bord de l'estuaire : entrepôts de munitions et de matériel, réservoirs. Tout détruire ; ZU-23 sur place, sous le SA-11 permanent de la ville.\nPosition : bullseye 349°/140 nm (S50°01.198' W068°31.204'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 191 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 200 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Warehouse-1",
+   "position": {
+    "x": 210805,
+    "y": -676554
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Warehouse-2",
+   "position": {
+    "x": 210775,
+    "y": -676456
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Warehouse-3",
+   "position": {
+    "x": 210675,
+    "y": -676479
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Tank-4",
+   "position": {
+    "x": 210575,
+    "y": -676456
+   },
+   "units": [
+    {
+     "type": "Tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Tank-5",
+   "position": {
+    "x": 210483,
+    "y": -676468
+   },
+   "units": [
+    {
+     "type": "Tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Electric-6",
+   "position": {
+    "x": 210615,
+    "y": -676733
+   },
+   "units": [
+    {
+     "type": "Electric power box"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Workshop-7",
+   "position": {
+    "x": 210750,
+    "y": -676759
+   },
+   "units": [
+    {
+     "type": "Workshop A"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortSantaCruz",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_BaseNavaleUshuaia",
+   "position": {
+    "x": -316738,
+    "y": -577597
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z12-1",
+     "position": {
+      "x": -316438,
+      "y": -577597
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z12-1"
+      }
+     ]
+    },
+    {
+     "name": "Z12-2",
+     "position": {
+      "x": -317109,
+      "y": -577668
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z12-2"
+      }
+     ]
+    },
+    {
+     "name": "Z12-3",
+     "position": {
+      "x": -316738,
+      "y": -577197
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z12-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z12 Frappe — base navale d'Ushuaia",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "La base navale d'Ushuaia, sur le canal Beagle, à 24 nm de Puerto Williams : entrepôts, dépôts de carburant, poste de commandement. Tout détruire ; défense courte portée seulement (SA-15 permanent de la base, ZU-23), hors de la QRA de Rio Grande (65 nm).\nPosition : bullseye 170°/150 nm (S54°48.438' W068°18.505'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 225 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 201 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": -316738,
+    "y": -577597
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Warehouse-2",
+   "position": {
+    "x": -316738,
+    "y": -577397
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Warehouse-3",
+   "position": {
+    "x": -316763,
+    "y": -577380
+   },
+   "units": [
+    {
+     "type": "Warehouse"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-4",
+   "position": {
+    "x": -316888,
+    "y": -577597
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-5",
+   "position": {
+    "x": -317020,
+    "y": -577700
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-6",
+   "position": {
+    "x": -316738,
+    "y": -577847
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Barracks-7",
+   "position": {
+    "x": -316478,
+    "y": -577747
+   },
+   "units": [
+    {
+     "type": "Barracks 2"
+    }
+   ],
+   "for_combat_zone": "combatZone_BaseNavaleUshuaia",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_ScudRioChico",
+   "position": {
+    "x": 19604,
+    "y": -704092
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Lanceurs",
+     "position": {
+      "x": 19604,
+      "y": -704092
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Scud_B",
+       "count": 3
+      },
+      {
+       "type": "Ural-375",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "name": "Z13-1",
+     "position": {
+      "x": 19040,
+      "y": -704297
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #Z13-1"
+      }
+     ]
+    },
+    {
+     "name": "Z13-2",
+     "position": {
+      "x": 19804,
+      "y": -703746
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z13-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z13 Frappe — base de missiles sol-sol de Rio Chico",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Une base de missiles sol-sol à l'ouest de Rio Chico, d'où les Scud menacent Punta Arenas et les îles : lanceurs et camions de ravitaillement. Détruire les lanceurs ; défense SA-15 et Shilka.\nPosition : bullseye 309°/55 nm (S51°39.692' W069°20.202'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 117 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 115 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-1",
+   "position": {
+    "x": 19754,
+    "y": -704352
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_ScudRioChico",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Military-2",
+   "position": {
+    "x": 19910,
+    "y": -704349
+   },
+   "units": [
+    {
+     "type": "Military staff"
+    }
+   ],
+   "for_combat_zone": "combatZone_ScudRioChico",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortStanley",
+   "position": {
+    "x": 88125,
+    "y": 93868
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z14-1",
+     "position": {
+      "x": 88225,
+      "y": 94941
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #Z14-1"
+      }
+     ]
+    },
+    {
+     "name": "Z14-2",
+     "position": {
+      "x": 88225,
+      "y": 93168
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #Z14-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z14 OCA — base aérienne de Port Stanley",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "L'aérodrome de Port Stanley, tenu par le rouge à 27 nm de Mount Pleasant : chasseurs-bombardiers au parking, hangars et carburant. Tout détruire au sol ; défense SA-15 et Shilka, sous la QRA de la base.\nPosition : bullseye 080°/395 nm (S51°41.640' W057°46.679'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 82 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 72 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Su-24M-1",
+   "position": {
+    "x": 88425,
+    "y": 93868
+   },
+   "units": [
+    {
+     "type": "Su-24M"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Su-24M-2",
+   "position": {
+    "x": 88453,
+    "y": 93956
+   },
+   "units": [
+    {
+     "type": "Su-24M"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-MiG-29S-3",
+   "position": {
+    "x": 88355,
+    "y": 94061
+   },
+   "units": [
+    {
+     "type": "MiG-29S"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-MiG-29S-4",
+   "position": {
+    "x": 88344,
+    "y": 94128
+   },
+   "units": [
+    {
+     "type": "MiG-29S"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Hangar-5",
+   "position": {
+    "x": 88385,
+    "y": 93718
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-6",
+   "position": {
+    "x": 87654,
+    "y": 93797
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_PortStanley",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_Piedrabuena",
+   "position": {
+    "x": 208541,
+    "y": -707261
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z15-1",
+     "position": {
+      "x": 208541,
+      "y": -706261
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country russia\" #Z15-1"
+      }
+     ]
+    },
+    {
+     "name": "Z15-2",
+     "position": {
+      "x": 208541,
+      "y": -707861
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #Z15-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z15 OCA — base aérienne de Piedrabuena",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "L'aérodrome de Comandante Luis Piedrabuena, plateforme rouge du nord de la Patagonie : avions de transport et hélicoptères d'attaque au sol, hangars. Tout détruire au sol ; défense SA-6 et ZU-23, plus le SA-10 et le SA-15 permanents de la base.\nPosition : bullseye 342°/143 nm (S49°59.750' W068°56.596'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 180 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 191 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-IL-76MD-1",
+   "position": {
+    "x": 208841,
+    "y": -707261
+   },
+   "units": [
+    {
+     "type": "IL-76MD"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-IL-76MD-2",
+   "position": {
+    "x": 208898,
+    "y": -707131
+   },
+   "units": [
+    {
+     "type": "IL-76MD"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Mi-24V-3",
+   "position": {
+    "x": 208666,
+    "y": -707478
+   },
+   "units": [
+    {
+     "type": "Mi-24V"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Mi-24V-4",
+   "position": {
+    "x": 208727,
+    "y": -707483
+   },
+   "units": [
+    {
+     "type": "Mi-24V"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Mi-8MT-5",
+   "position": {
+    "x": 208758,
+    "y": -707386
+   },
+   "units": [
+    {
+     "type": "Mi-8MT"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Hangar-6",
+   "position": {
+    "x": 208241,
+    "y": -707261
+   },
+   "units": [
+    {
+     "type": "Hangar A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-7",
+   "position": {
+    "x": 208165,
+    "y": -707398
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Piedrabuena",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_BlocusStanley",
+   "position": {
+    "x": 95000,
+    "y": 125000
+   },
+   "radius": 6000,
+   "groups": [
+    {
+     "name": "Frégates",
+     "position": {
+      "x": 95000,
+      "y": 125000
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "NEUSTRASH",
+       "count": 1
+      },
+      {
+       "type": "REZKY",
+       "count": 2
+      }
+     ],
+     "route": [
+      {
+       "x": 95000,
+       "y": 125000
+      },
+      {
+       "x": 90000,
+       "y": 140000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z16 Antinavire — corvettes devant Port Stanley",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Trois frégates rouges croisent à l'est de Port Stanley, à 17 nm au large de la baie, pour couvrir l'enclave et couper la route de la flotte bleue. Les couler : frégates à défense courte portée (reprise de l'esprit de la v5, qui n'avait pas de navires).\nPosition : bullseye 080°/412 nm (S51°38.059' W057°19.628'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 94 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 84 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_DetroitLeMaire",
+   "position": {
+    "x": -285000,
+    "y": -360000
+   },
+   "radius": 6000,
+   "groups": [
+    {
+     "name": "Escadre",
+     "position": {
+      "x": -285000,
+      "y": -360000
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "MOSCOW",
+       "count": 1
+      },
+      {
+       "type": "NEUSTRASH",
+       "count": 1
+      },
+      {
+       "type": "REZKY",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": -285000,
+       "y": -360000
+      },
+      {
+       "x": -270000,
+       "y": -350000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z17 Antinavire — escadre du détroit de Le Maire",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Le croiseur lance-missiles rouge Moskva et deux frégates croisent dans le détroit de Le Maire, entre la Terre de Feu et l'île des États, pour fermer l'accès à la mer de la Terre de Feu. Les couler : le Moskva porte des missiles sol-air à 40 nm, les frégates à courte portée.\nPosition : bullseye 132°/194 nm (S54°47.567' W064°54.216'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 214 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 223 nm."
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 2",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -5592,
+    "y": -902433
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ }
+]

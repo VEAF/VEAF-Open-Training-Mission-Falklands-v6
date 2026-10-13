@@ -1,0 +1,68 @@
+[
+ {
+  "name": "edit_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "name": "Front du Chili",
+   "remove": true
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front du Chili",
+   "points": [
+    {
+     "x": -7112,
+     "y": -920278
+    },
+    {
+     "x": -24879,
+     "y": -912273
+    },
+    {
+     "x": -36565,
+     "y": -895814
+    },
+    {
+     "x": -42530,
+     "y": -884846
+    },
+    {
+     "x": -50889,
+     "y": -872058
+    },
+    {
+     "x": -25841,
+     "y": -742910
+    },
+    {
+     "x": -33058,
+     "y": -684266
+    },
+    {
+     "x": -43318,
+     "y": -625172
+    },
+    {
+     "x": -81442,
+     "y": -636349
+    },
+    {
+     "x": -230713,
+     "y": -611752
+    },
+    {
+     "x": -327959,
+     "y": -595498
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortStanley",
+   "radius": 800
+  }
+ },
+ {
+  "name": "edit_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "name": "Zone combatZone_PortStanley",
+   "remove": true
+  }
+ },
+ {
+  "name": "edit_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "name": "Zone combatZone_PortStanley étiquette",
+   "remove": true
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortStanley",
+   "position": {
+    "x": 88125,
+    "y": 93868
+   },
+   "radius": 800,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortStanley étiquette",
+   "position": {
+    "x": 89725,
+    "y": 93868
+   },
+   "text": "Z14 OCA — base aérienne de Port Stanley",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1 - Escort"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Reaper 1"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Overlord 1",
+   "unit_type": "E-3A",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 150000,
+    "y": -130000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 282.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add",
+   "position": {
+    "x": 150000,
+    "y": -70000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "name": "Overlord 1 - Escort",
+   "unit_type": "F-15C",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 147000,
+    "y": -133000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 282.0,
+   "task": "Escort",
+   "skill": "High",
+   "payload": "AIM-9*4,AIM-120*4,Fuel"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "Overlord 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Overlord 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 1",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 95250,
+    "y": -74000
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ }
+]

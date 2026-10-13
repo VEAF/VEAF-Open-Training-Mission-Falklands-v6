@@ -1,0 +1,2228 @@
+{
+ "name": "VEAF_OpenTraining_Falklands_ICAO_EGYP",
+ "date": {
+  "Day": 15,
+  "Month": 10,
+  "Year": 2026
+ },
+ "start": 32400,
+ "bullseye": {
+  "x": -43561.0,
+  "y": -624965.0,
+  "ddm": "S52°19.946' W068°21.454'"
+ },
+ "bases": [
+  {
+   "name": "Almirante Schroeders",
+   "side": "blue",
+   "x": -209214,
+   "y": -741523,
+   "be": "215°/109 nm",
+   "ddm": "S53°36.416' W070°28.572'",
+   "uhf": 229.0,
+   "vhf": 118.25,
+   "fm": 38.6
+  },
+  {
+   "name": "Goose Green",
+   "side": "blue",
+   "x": 72565,
+   "y": 11162,
+   "be": "080°/349 nm",
+   "ddm": "S51°49.189' W058°58.810'",
+   "uhf": 250.65,
+   "vhf": 126.0,
+   "fm": 39.05
+  },
+  {
+   "name": "Gull Point",
+   "side": "blue",
+   "x": 32794,
+   "y": 20420,
+   "be": "083°/351 nm",
+   "ddm": "S52°10.763' W058°51.641'",
+   "uhf": 234.5,
+   "vhf": 126.5,
+   "fm": 39.5
+  },
+  {
+   "name": "Mount Pleasant",
+   "side": "blue",
+   "x": 73318,
+   "y": 47169,
+   "be": "080°/368 nm",
+   "ddm": "S51°49.241' W058°27.464'",
+   "uhf": 250.8,
+   "vhf": 133.35,
+   "fm": 39.2
+  },
+  {
+   "name": "Porvenir",
+   "side": "blue",
+   "x": -168264,
+   "y": -738641,
+   "be": "222°/91 nm",
+   "ddm": "S53°15.221' W070°19.158'",
+   "uhf": 250.4,
+   "vhf": 126.7,
+   "fm": 38.8
+  },
+  {
+   "name": "Puerto Natales",
+   "side": "blue",
+   "x": -24059,
+   "y": -923009,
+   "be": "274°/161 nm",
+   "ddm": "S51°40.243' W072°31.691'",
+   "uhf": 250.15,
+   "vhf": 128.1,
+   "fm": 38.55
+  },
+  {
+   "name": "Puerto Williams",
+   "side": "blue",
+   "x": -323519,
+   "y": -531926,
+   "be": "162°/159 nm",
+   "ddm": "S54°55.859' W067°37.573'",
+   "uhf": 250.1,
+   "vhf": 118.5,
+   "fm": 38.5
+  },
+  {
+   "name": "Punta Arenas",
+   "side": "blue",
+   "x": -147785,
+   "y": -779609,
+   "be": "236°/101 nm",
+   "ddm": "S53°00.332' W070°51.415'",
+   "uhf": 251.1,
+   "vhf": 118.7,
+   "fm": 39.5
+  },
+  {
+   "name": "San Carlos FOB",
+   "side": "blue",
+   "x": 107939,
+   "y": 8484,
+   "be": "077°/352 nm",
+   "ddm": "S51°30.077' W059°00.295'",
+   "uhf": 250.85,
+   "vhf": 134.35,
+   "fm": 39.25
+  },
+  {
+   "name": "Rio Gallegos",
+   "side": "red",
+   "x": 25718,
+   "y": -703408,
+   "be": "311°/57 nm",
+   "ddm": "S51°36.531' W069°18.735'",
+   "uhf": 250.9,
+   "vhf": 119.1,
+   "fm": 39.3
+  },
+  {
+   "name": "Rio Grande",
+   "side": "red",
+   "x": -197145,
+   "y": -559488,
+   "be": "157°/90 nm",
+   "ddm": "S53°46.656' W067°44.993'",
+   "uhf": 250.95,
+   "vhf": 118.3,
+   "fm": 39.35
+  },
+  {
+   "name": "San Julian",
+   "side": "red",
+   "x": 297478,
+   "y": -636918,
+   "be": "358°/184 nm",
+   "ddm": "S49°18.402' W067°48.163'",
+   "uhf": 250.05,
+   "vhf": 118.05,
+   "fm": 38.45
+  }
+ ],
+ "farps": [
+  {
+   "name": "Port Howard",
+   "x": 88000.0,
+   "y": -32250.0,
+   "freq": "127.5",
+   "be": "077°/328 nm",
+   "ddm": "S51°40.134' W059°36.086'"
+  },
+  {
+   "name": "Teal Inlet",
+   "x": 102500.0,
+   "y": 43250.0,
+   "freq": "128",
+   "be": "078°/369 nm",
+   "ddm": "S51°33.460' W058°30.351'"
+  },
+  {
+   "name": "Torres del Paine",
+   "x": 39927.0,
+   "y": -960794.0,
+   "freq": "129.5",
+   "be": "284°/187 nm",
+   "ddm": "S51°02.702' W072°51.388'"
+  },
+  {
+   "name": "Sombrero",
+   "x": -105831.0,
+   "y": -679874.0,
+   "freq": "129",
+   "be": "221°/45 nm",
+   "ddm": "S52°48.000' W069°18.000'"
+  }
+ ],
+ "support": [
+  {
+   "name": "Texaco 1",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "50Y",
+   "freq": 290.0,
+   "alt_ft": 22000.0,
+   "a": {
+    "x": -25000,
+    "y": -40000,
+    "ddm": "S52°40.868' W059°46.552'"
+   },
+   "b": {
+    "x": -25000.0,
+    "y": 25000.0,
+    "ddm": "S52°41.985' W058°48.897'"
+   },
+   "mid_be": "088°/334 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 1",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "51Y",
+   "freq": 291.0,
+   "alt_ft": 18000.0,
+   "a": {
+    "x": -45000,
+    "y": -45000,
+    "ddm": "S52°51.537' W059°51.690'"
+   },
+   "b": {
+    "x": -45000.0,
+    "y": 20000.0,
+    "ddm": "S52°52.698' W058°53.802'"
+   },
+   "mid_be": "090°/331 nm",
+   "escort": true
+  },
+  {
+   "name": "Texaco 2",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "52Y",
+   "freq": 292.0,
+   "alt_ft": 24000.0,
+   "a": {
+    "x": -100000,
+    "y": -880000,
+    "ddm": "S52°24.588' W072°09.268'"
+   },
+   "b": {
+    "x": -100000.0,
+    "y": -960000.0,
+    "ddm": "S52°15.333' W073°17.073'"
+   },
+   "mid_be": "259°/162 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 2",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "53Y",
+   "freq": 293.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": -60000,
+    "y": -905000,
+    "ddm": "S52°00.966' W072°23.134'"
+   },
+   "b": {
+    "x": -60000.0,
+    "y": -985000.0,
+    "ddm": "S51°51.631' W073°30.268'"
+   },
+   "mid_be": "267°/173 nm",
+   "escort": true
+  },
+  {
+   "name": "Magic 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 283.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": -190000,
+    "y": -800000,
+    "ddm": "S53°20.278' W071°16.541'"
+   },
+   "b": {
+    "x": -190000.0,
+    "y": -740000.0,
+    "ddm": "S53°26.491' W070°23.982'"
+   },
+   "mid_be": "225°/111 nm",
+   "escort": true
+  },
+  {
+   "name": "Darkstar 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 285.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": -120000,
+    "y": -170000,
+    "ddm": "S53°28.301' W061°47.222'"
+   },
+   "b": {
+    "x": -120000.0,
+    "y": -100000.0,
+    "ddm": "S53°30.556' W060°44.094'"
+   },
+   "mid_be": "099°/268 nm",
+   "escort": false
+  },
+  {
+   "name": "Overlord 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 282.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 150000,
+    "y": -130000,
+    "ddm": "S51°04.379' W060°57.815'"
+   },
+   "b": {
+    "x": 150000.0,
+    "y": -70000.0,
+    "ddm": "S51°05.933' W060°06.514'"
+   },
+   "mid_be": "070°/302 nm",
+   "escort": true
+  },
+  {
+   "name": "Shell 1",
+   "side": "red",
+   "type": "IL-78M",
+   "kind": "tanker",
+   "tacan": null,
+   "freq": 294.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": 60000,
+    "y": -620000,
+    "ddm": "S51°25.554' W068°03.406'"
+   },
+   "b": {
+    "x": 60000.0,
+    "y": -540000.0,
+    "ddm": "S51°31.702' W066°55.445'"
+   },
+   "mid_be": "023°/61 nm",
+   "escort": true
+  },
+  {
+   "name": "Wizard 1",
+   "side": "red",
+   "type": "A-50",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 284.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": -60000,
+    "y": -520000,
+    "ddm": "S52°36.934' W066°52.443'"
+   },
+   "b": {
+    "x": -120000.0,
+    "y": -520000.0,
+    "ddm": "S53°08.811' W066°59.803'"
+   },
+   "mid_be": "114°/62 nm",
+   "escort": true
+  },
+  {
+   "name": "Focus 1",
+   "side": "red",
+   "type": "A-50",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 286.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": -280000,
+    "y": -170000,
+    "ddm": "S54°54.271' W061°57.354'"
+   },
+   "b": {
+    "x": -280000.0,
+    "y": -100000.0,
+    "ddm": "S54°56.647' W060°52.014'"
+   },
+   "mid_be": "116°/294 nm",
+   "escort": false
+  }
+ ],
+ "caps": [
+  {
+   "name": "CAP-Falkland-F15",
+   "side": "blue",
+   "type": "F-15C",
+   "a": {
+    "x": 100972,
+    "y": -39554,
+    "ddm": "S51°33.000' W059°42.000'"
+   },
+   "b": {
+    "x": 66518.0,
+    "y": -65863.0,
+    "ddm": "S51°51.000' W060°06.000'"
+   },
+   "mid_be": "077°/317 nm",
+   "n": 2,
+   "fl": 250,
+   "menu": "CAP bleue F-15C (Fox 3) — détroit des Falkland — FL250",
+   "briefing": "Deux F-15C britanniques couvrent le détroit des Falkland, de San Carlos à Goose Green, au FL250. Emport : AIM-9*4,AIM-120*4,Fuel."
+  },
+  {
+   "name": "CAP-Magellan-F16",
+   "side": "blue",
+   "type": "F-16C bl.52d",
+   "a": {
+    "x": -162754,
+    "y": -800324,
+    "ddm": "S53°06.000' W071°12.000'"
+   },
+   "b": {
+    "x": -121770.0,
+    "y": -766889.0,
+    "ddm": "S52°48.000' W070°36.000'"
+   },
+   "mid_be": "238°/101 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP bleue F-16C (Fox 3) — détroit de Magellan — FL220",
+   "briefing": "Deux F-16C chiliens patrouillent le détroit de Magellan, autour de Punta Arenas, au FL220. Emport : AIM-120C*4,AIM-9M*2,ECM,Fuel*2."
+  },
+  {
+   "name": "CAP-Beagle-F16",
+   "side": "blue",
+   "type": "F-16C bl.52d",
+   "a": {
+    "x": -340029,
+    "y": -514703,
+    "ddm": "S55°06.000' W067°24.000'"
+   },
+   "b": {
+    "x": -336913.0,
+    "y": -567224.0,
+    "ddm": "S55°00.000' W068°12.000'"
+   },
+   "mid_be": "164°/166 nm",
+   "n": 2,
+   "fl": 240,
+   "menu": "CAP bleue F-16C (Fox 3) — canal Beagle — FL240",
+   "briefing": "Deux F-16C chiliens patrouillent au-dessus de l'île Navarino et de Puerto Williams, au FL240. Emport : AIM-120C*4,AIM-9M*2,ECM,Fuel*2."
+  },
+  {
+   "name": "CAP-Santa-Cruz-MiG29",
+   "side": "red",
+   "type": "MiG-29S",
+   "a": {
+    "x": -9538,
+    "y": -682434,
+    "ddm": "S51°57.000' W069°06.000'"
+   },
+   "b": {
+    "x": -19388.0,
+    "y": -638755.0,
+    "ddm": "S52°06.000' W068°30.000'"
+   },
+   "mid_be": "309°/25 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP rouge MiG-29S (Fox 1) — Patagonie sud — FL220",
+   "briefing": "Deux MiG-29S armés de R-27R, R-73 et R-60 patrouillent entre Rio Gallegos et le cap Vierges, au FL220. Emport : R-73*2,R-60M*2,R-27R*2,Fuel-1500."
+  },
+  {
+   "name": "CAP-Fuego-Su27",
+   "side": "red",
+   "type": "Su-27",
+   "a": {
+    "x": -187063,
+    "y": -550960,
+    "ddm": "S53°42.000' W067°36.000'"
+   },
+   "b": {
+    "x": -136992.0,
+    "y": -517823.0,
+    "ddm": "S53°18.000' W067°00.000'"
+   },
+   "mid_be": "143°/81 nm",
+   "n": 2,
+   "fl": 260,
+   "menu": "CAP rouge Su-27 (Fox 1, longue portée) — Terre de Feu argentine — FL260",
+   "briefing": "Deux Su-27 armés de R-27ER et R-73 patrouillent au-dessus de la côte atlantique de la Terre de Feu, au nord-est de Rio Grande, au FL260. Emport : R-73*4,R-27ER*6."
+  },
+  {
+   "name": "CAP-Nord-MiG31",
+   "side": "red",
+   "type": "MiG-31",
+   "a": {
+    "x": 257424,
+    "y": -682428,
+    "ddm": "S49°36.000' W068°30.000'"
+   },
+   "b": {
+    "x": 312438.0,
+    "y": -616634.0,
+    "ddm": "S49°12.000' W067°30.000'"
+   },
+   "mid_be": "356°/178 nm",
+   "n": 2,
+   "fl": 380,
+   "menu": "CAP rouge MiG-31 (intercepteur haut et rapide, R-33) — Patagonie nord — FL380",
+   "briefing": "Deux MiG-31 armés de R-33 patrouillent haut et vite entre Puerto Santa Cruz et San Julian, au FL380. Emport : R-40R*2,R-33*4."
+  },
+  {
+   "name": "Raid-Tu22M",
+   "side": "red",
+   "type": "Tu-22M3",
+   "a": {
+    "x": -19837,
+    "y": -772256,
+    "ddm": "S51°54.000' W070°24.000'"
+   },
+   "b": {
+    "x": -57753.0,
+    "y": -730094.0,
+    "ddm": "S52°18.000' W069°54.000'"
+   },
+   "mid_be": "272°/68 nm",
+   "n": 2,
+   "fl": 300,
+   "menu": "Raid rouge Tu-22M3 à intercepter — Pali Aike — FL300",
+   "briefing": "Deux bombardiers Tu-22M3 chargés de bombes tournent à l'ouest de Rio Gallegos, au FL300, prêts à frapper Punta Arenas : les intercepter. Emport : FAB-500*33."
+  }
+ ],
+ "carriers": [
+  {
+   "name": "CSG-74 Stennis",
+   "x": -40000.0,
+   "y": -140000.0,
+   "tacan": "74X STN",
+   "icls": 11,
+   "link4": 336.0,
+   "tower": 305.0,
+   "group": "CSG-74 Stennis",
+   "escorts": 2,
+   "ddm": "S52°46.308' W061°15.881'",
+   "be": "090°/262 nm",
+   "deck": [
+    {
+     "group": "Stennis F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F/A-18C #2",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F-14B #1",
+     "type": "F-14B",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "name": "CSG-71 Roosevelt",
+   "x": -160000.0,
+   "y": -330000.0,
+   "tacan": "71X RSV",
+   "icls": 12,
+   "link4": 337.0,
+   "tower": 306.0,
+   "group": "CSG-71 Roosevelt",
+   "escorts": 2,
+   "ddm": "S53°42.478' W064°14.517'",
+   "be": "112°/171 nm",
+   "deck": [
+    {
+     "group": "Roosevelt F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #1",
+     "type": "F-14B",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #2",
+     "type": "F-14B",
+     "n": 2
+    }
+   ]
+  }
+ ],
+ "zones": [
+  {
+   "key": "combatZone_PortHoward_Easy",
+   "name": "H1 Hélico Port Howard — facile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": 78250,
+   "y": -38750,
+   "radius_nm": 1.349892008639309,
+   "be": "078°/323 nm",
+   "ddm": "S51°45.261' W059°42.032'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm",
+   "briefing": "Champ de tir hélicoptères de la Falkland occidentale, à 6 nm au sud-ouest du FARP Port Howard : cibles inertes (chars, blindés et camions immobiles, tir interdit)."
+  },
+  {
+   "key": "combatZone_PortHoward_Medium",
+   "name": "H2 Hélico Port Howard — moyen",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": 78250,
+   "y": -38750,
+   "radius_nm": 1.349892008639309,
+   "be": "078°/323 nm",
+   "ddm": "S51°45.261' W059°42.032'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm",
+   "briefing": "Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_PortHoward_Hard",
+   "name": "H3 Hélico Port Howard — difficile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": 78250,
+   "y": -38750,
+   "radius_nm": 1.349892008639309,
+   "be": "078°/323 nm",
+   "ddm": "S51°45.261' W059°42.032'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm",
+   "briefing": "Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge."
+  },
+  {
+   "key": "combatZone_MountAdam_Easy",
+   "name": "A1 Attaque Mount Adam — facile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 95250,
+   "y": -74000,
+   "radius_nm": 1.349892008639309,
+   "be": "076°/307 nm",
+   "ddm": "S51°35.334' W060°11.981'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm",
+   "briefing": "Champ de tir air-sol à l'ouest de Mount Adam, sur la Falkland occidentale, à 78 nm du front de Stanley : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement. Le drone Reaper 1 tourne au-dessus."
+  },
+  {
+   "key": "combatZone_MountAdam_Medium",
+   "name": "A2 Attaque Mount Adam — moyen",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 95250,
+   "y": -74000,
+   "radius_nm": 1.349892008639309,
+   "be": "076°/307 nm",
+   "ddm": "S51°35.334' W060°11.981'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm",
+   "briefing": "Champ de tir de Mount Adam : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_MountAdam_Hard",
+   "name": "A3 Attaque Mount Adam — difficile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 95250,
+   "y": -74000,
+   "radius_nm": 1.349892008639309,
+   "be": "076°/307 nm",
+   "ddm": "S51°35.334' W060°11.981'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm",
+   "briefing": "Champ de tir de Mount Adam : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka."
+  },
+  {
+   "key": "combatZone_PortStephens_Easy",
+   "name": "S1 SEAD Port Stephens — facile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 43750,
+   "y": -106750,
+   "radius_nm": 1.6198704103671706,
+   "be": "080°/284 nm",
+   "ddm": "S52°02.229' W060°42.557'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm",
+   "briefing": "Site SEAD au sud-ouest de la Falkland occidentale, près de Port Stephens, à 33 nm du champ de tir d'attaque : une batterie sol-air moyenne portée, SA-6 ou SA-11 tirée au sort."
+  },
+  {
+   "key": "combatZone_PortStephens_Medium",
+   "name": "S2 SEAD Port Stephens — moyen",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 43750,
+   "y": -106750,
+   "radius_nm": 1.6198704103671706,
+   "be": "080°/284 nm",
+   "ddm": "S52°02.229' W060°42.557'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm",
+   "briefing": "Site SEAD de Port Stephens : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8)."
+  },
+  {
+   "key": "combatZone_PortStephens_Hard",
+   "name": "S3 SEAD Port Stephens — difficile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 43750,
+   "y": -106750,
+   "radius_nm": 1.6198704103671706,
+   "be": "080°/284 nm",
+   "ddm": "S52°02.229' W060°42.557'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm",
+   "briefing": "Site SEAD de Port Stephens en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment."
+  },
+  {
+   "key": "combatZone_Paine",
+   "name": "T1 Tourisme — Torres del Paine",
+   "training": true,
+   "menu": "Tourisme",
+   "x": 45094,
+   "y": -963184,
+   "radius_nm": 0.8099352051835853,
+   "be": "285°/189 nm",
+   "ddm": "S50°59.747' W072°52.415'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 57 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 78 nm",
+   "briefing": "Visite aérienne de la Patagonie des glaciers, hors combat, au départ du FARP Torres del Paine (3 nm au nord-ouest). Circuit : les tours de granit (Las Torres), les Cuernos et le Paine Grande, puis le lac Grey et son glacier, un front de la grande calotte glaciaire de Patagonie. Une balise radio FM à chaque site ; survolez un site à moins de 1 500 ft sol et un guide vous le raconte. Excursion : le glacier Perito Moreno, de l'autre côté de la frontière, en territoire rouge (aucune défense permanente)."
+  },
+  {
+   "key": "combatZone_CapHorn",
+   "name": "T2 Tourisme — cap Horn",
+   "training": true,
+   "menu": "Tourisme",
+   "x": -319539,
+   "y": -526529,
+   "radius_nm": 0.8099352051835853,
+   "be": "160°/158 nm",
+   "ddm": "S54°54.187' W067°32.047'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 248 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 225 nm",
+   "briefing": "Visite aérienne du bout du monde, hors combat, au départ de Puerto Williams. Circuit : le canal Beagle, les îles Wollaston et le cap Horn. Une balise radio FM par site ; survolez-les à moins de 1 500 ft sol pour entendre le guide. Le circuit reste côté chilien, à plus de 20 nm de la base argentine d'Ushuaia."
+  },
+  {
+   "key": "combatZone_PortEgmont",
+   "name": "T3 Tourisme — Falkland occidentales",
+   "training": true,
+   "menu": "Tourisme",
+   "x": 120000,
+   "y": -67000,
+   "radius_nm": 0.8099352051835853,
+   "be": "074°/314 nm",
+   "ddm": "S51°22.163' W060°05.025'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 90 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 80 nm",
+   "briefing": "Visite aérienne des Falkland occidentales, hors combat, au départ du FARP Port Howard (26 nm au nord-ouest). Circuit : Pebble Island, Saunders Island et Port Egmont, Carcass Island. Une balise radio FM par site ; survolez-les à moins de 1 500 ft sol pour entendre le guide."
+  },
+  {
+   "key": "combatZone_CretesStanley",
+   "name": "Z01 Front des îles — crêtes de Mount Longdon et Wireless Ridge",
+   "training": false,
+   "menu": "Front",
+   "x": 90076,
+   "y": 81421,
+   "radius_nm": 1.349892008639309,
+   "be": "079°/388 nm",
+   "ddm": "S51°40.508' W057°57.460'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 80 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 69 nm",
+   "briefing": "Les crêtes à l'ouest de Port Stanley, tenues par une brigade mécanisée rouge : chars, blindés et lance-roquettes en position, à 21 nm de Mount Pleasant. Détruire les blindés et l'artillerie ; défense courte portée (SA-15, SA-13) et artillerie antiaérienne, sous la QRA de Port Stanley."
+  },
+  {
+   "key": "combatZone_RioTurbio",
+   "name": "Z02 Front de Patagonie — frontière de Rio Turbio",
+   "training": false,
+   "menu": "Front",
+   "x": -5592,
+   "y": -902433,
+   "radius_nm": 1.349892008639309,
+   "be": "278°/151 nm",
+   "ddm": "S51°32.940' W072°11.178'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 29 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 51 nm",
+   "briefing": "La ligne de défense rouge de Rio Turbio, à 15 nm de Puerto Natales, côté argentin : chars enterrés, blindés et artillerie automotrice. Défense courte portée seulement (SA-13, Shilka) : le drone Reaper 2 la désigne au laser."
+  },
+  {
+   "key": "combatZone_SanSebastian",
+   "name": "Z03 Front de Terre de Feu — carrefour de San Sebastián",
+   "training": false,
+   "menu": "Front",
+   "x": -100135,
+   "y": -632605,
+   "radius_nm": 1.349892008639309,
+   "be": "188°/31 nm",
+   "ddm": "S52°49.200' W068°36.000'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 149 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 134 nm",
+   "briefing": "Le poste frontière de San Sebastián, sur la route de Rio Grande, face au Chili : une brigade mécanisée rouge et ses lance-roquettes. Détruire les blindés et les Grad ; défense SA-8 et artillerie antiaérienne. Aucune QRA ne couvre le secteur (Rio Grande est à 66 nm)."
+  },
+  {
+   "key": "combatZone_MountKent",
+   "name": "Z04 SEAD — site SA-6 du Mount Kent",
+   "training": false,
+   "menu": "SEAD",
+   "x": 90113,
+   "y": 70886,
+   "radius_nm": 1.079913606911447,
+   "be": "079°/383 nm",
+   "ddm": "S51°40.408' W058°06.600'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 78 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm",
+   "briefing": "Le site SA-6 perché sur Mount Kent, au-dessus de la vallée de Stanley, relié à un radar d'alerte avancée en réseau Skynet, à 16 nm de Mount Pleasant. Détruire le radar de conduite de tir et les lanceurs ; un Shilka protège le site."
+  },
+  {
+   "key": "combatZone_PaliAike",
+   "name": "Z05 SEAD — site SA-11 de Pali Aike",
+   "training": false,
+   "menu": "SEAD",
+   "x": -20879,
+   "y": -726114,
+   "radius_nm": 1.079913606911447,
+   "be": "283°/56 nm",
+   "ddm": "S51°58.981' W069°44.932'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 99 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 93 nm",
+   "briefing": "Le site sol-air qui couvre la steppe de Pali Aike, entre Rio Gallegos et la frontière : une batterie SA-11 ou SA-6 tirée au sort, son radar d'alerte avancée et un Shilka. Sous la couverture lointaine du SA-10 de Rio Gallegos."
+  },
+  {
+   "key": "combatZone_RioGrandeSAM",
+   "name": "Z06 SEAD — site SA-11 de Rio Grande",
+   "training": false,
+   "menu": "SEAD",
+   "x": -207537,
+   "y": -553488,
+   "radius_nm": 1.079913606911447,
+   "be": "156°/97 nm",
+   "ddm": "S53°52.648' W067°41.041'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 206 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 186 nm",
+   "briefing": "Le site SA-11 au sud-sud-est de Rio Grande, sur la côte atlantique de la Terre de Feu, avec son radar d'alerte avancée en réseau Skynet et un SA-15. Détruire le radar de conduite de tir et les lanceurs."
+  },
+  {
+   "key": "combatZone_ConvoiStanley",
+   "name": "Z07 Convoi — Stanley vers Fitzroy",
+   "training": false,
+   "menu": "Convois",
+   "x": 87528,
+   "y": 86858,
+   "radius_nm": 0.8099352051835853,
+   "be": "080°/391 nm",
+   "ddm": "S51°41.919' W057°52.770'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 80 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 69 nm",
+   "briefing": "Un convoi de renforts quitte Port Stanley par la route de Fitzroy, vers le sud-ouest. L'arrêter avant Fitzroy, à 9 nm de Mount Pleasant ; il porte sa propre artillerie antiaérienne (ZU-23) et un SA-9."
+  },
+  {
+   "key": "combatZone_ConvoiRuta3",
+   "name": "Z08 Convoi — route 3, de Rio Gallegos vers Piedrabuena",
+   "training": false,
+   "menu": "Convois",
+   "x": 23604,
+   "y": -708934,
+   "radius_nm": 0.8099352051835853,
+   "be": "309°/58 nm",
+   "ddm": "S51°37.145' W069°23.720'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 115 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 114 nm",
+   "briefing": "Un convoi blindé quitte Rio Gallegos par la route 3 vers Piedrabuena pour renforcer le nord. Le détruire en route ; il est escorté par un SA-13, sous la QRA de Rio Gallegos au départ."
+  },
+  {
+   "key": "combatZone_ConvoiTolhuin",
+   "name": "Z09 Convoi — route 3, de Rio Grande vers Tolhuin",
+   "training": false,
+   "menu": "Convois",
+   "x": -200039,
+   "y": -551862,
+   "radius_nm": 0.8099352051835853,
+   "be": "155°/93 nm",
+   "ddm": "S53°48.806' W067°38.563'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 205 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 185 nm",
+   "briefing": "Un convoi de carburant roule de Rio Grande vers Tolhuin, sur la route 3 de Terre de Feu, pour ravitailler le front de San Sebastián et du canal Beagle. Le détruire avant Tolhuin ; il porte sa propre artillerie antiaérienne."
+  },
+  {
+   "key": "combatZone_EtatMajorGallegos",
+   "name": "Z10 Frappe — état-major de Rio Gallegos",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 25302,
+   "y": -696666,
+   "radius_nm": 0.8099352051835853,
+   "be": "314°/54 nm",
+   "ddm": "S51°37.356' W069°13.086'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 122 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 120 nm",
+   "briefing": "Le poste de commandement rouge du sud de la Patagonie, dans les faubourgs de Rio Gallegos : bunkers, centre de transmissions, dépôt de carburant. Tout détruire ; défense SA-15 et Shilka, sous la QRA et le SA-10 de Rio Gallegos."
+  },
+  {
+   "key": "combatZone_PortSantaCruz",
+   "name": "Z11 Frappe — port de Puerto Santa Cruz",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 210675,
+   "y": -676629,
+   "radius_nm": 0.8099352051835853,
+   "be": "349°/140 nm",
+   "ddm": "S50°01.198' W068°31.204'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 191 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 200 nm",
+   "briefing": "Le port de Puerto Santa Cruz, au bord de l'estuaire : entrepôts de munitions et de matériel, réservoirs. Tout détruire ; ZU-23 sur place, sous le SA-11 permanent de la ville."
+  },
+  {
+   "key": "combatZone_BaseNavaleUshuaia",
+   "name": "Z12 Frappe — base navale d'Ushuaia",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": -316738,
+   "y": -577597,
+   "radius_nm": 0.8099352051835853,
+   "be": "170°/150 nm",
+   "ddm": "S54°48.438' W068°18.505'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 225 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 201 nm",
+   "briefing": "La base navale d'Ushuaia, sur le canal Beagle, à 24 nm de Puerto Williams : entrepôts, dépôts de carburant, poste de commandement. Tout détruire ; défense courte portée seulement (SA-15 permanent de la base, ZU-23), hors de la QRA de Rio Grande (65 nm)."
+  },
+  {
+   "key": "combatZone_ScudRioChico",
+   "name": "Z13 Frappe — base de missiles sol-sol de Rio Chico",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 19604,
+   "y": -704092,
+   "radius_nm": 0.8099352051835853,
+   "be": "309°/55 nm",
+   "ddm": "S51°39.692' W069°20.202'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 117 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 115 nm",
+   "briefing": "Une base de missiles sol-sol à l'ouest de Rio Chico, d'où les Scud menacent Punta Arenas : lanceurs et camions de ravitaillement. Détruire les lanceurs ; défense SA-15 et Shilka."
+  },
+  {
+   "key": "combatZone_PortStanley",
+   "name": "Z14 OCA — base aérienne de Port Stanley",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 88125,
+   "y": 93868,
+   "radius_nm": 0.4319654427645788,
+   "be": "080°/395 nm",
+   "ddm": "S51°41.640' W057°46.679'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 82 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 72 nm",
+   "briefing": "L'aérodrome de Port Stanley, tenu par le rouge à 27 nm de Mount Pleasant : chasseurs-bombardiers au parking, hangars et carburant. Tout détruire au sol ; défense SA-15 et Shilka, sous la QRA de la base."
+  },
+  {
+   "key": "combatZone_Piedrabuena",
+   "name": "Z15 OCA — base aérienne de Piedrabuena",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 208541,
+   "y": -707261,
+   "radius_nm": 0.8099352051835853,
+   "be": "342°/143 nm",
+   "ddm": "S49°59.750' W068°56.596'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 180 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 191 nm",
+   "briefing": "L'aérodrome de Comandante Luis Piedrabuena, plateforme rouge du nord de la Patagonie : avions de transport et hélicoptères d'attaque au sol, hangars. Tout détruire au sol ; défense SA-6 et ZU-23, plus le SA-10 et le SA-15 permanents de la base."
+  },
+  {
+   "key": "combatZone_BlocusStanley",
+   "name": "Z16 Antinavire — corvettes devant Port Stanley",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 95000,
+   "y": 125000,
+   "radius_nm": 3.239740820734341,
+   "be": "080°/412 nm",
+   "ddm": "S51°38.059' W057°19.628'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 94 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 84 nm",
+   "briefing": "Trois frégates rouges croisent à l'est de Port Stanley, à 17 nm au large de la baie, pour couvrir l'enclave et couper la route de la flotte bleue. Les couler : frégates à défense courte portée."
+  },
+  {
+   "key": "combatZone_DetroitLeMaire",
+   "name": "Z17 Antinavire — escadre du détroit de Le Maire",
+   "training": false,
+   "menu": "Antinavire",
+   "x": -285000,
+   "y": -360000,
+   "radius_nm": 3.239740820734341,
+   "be": "132°/194 nm",
+   "ddm": "S54°47.567' W064°54.216'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 214 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 223 nm",
+   "briefing": "Le croiseur lance-missiles rouge Moskva et deux frégates croisent dans le détroit de Le Maire, entre la Terre de Feu et l'île des États, pour fermer l'accès à la mer de la Terre de Feu. Les couler : le Moskva porte des missiles sol-air à 40 nm, les frégates à courte portée."
+  }
+ ],
+ "qra": [
+  {
+   "name": "QRA Port Stanley",
+   "side": "red",
+   "x": 89000,
+   "y": 100000,
+   "radius_nm": 16,
+   "airport": "Port Stanley",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × MiG-29S",
+      "2 × Su-27"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × Su-30",
+      "4 × MiG-29S"
+     ]
+    }
+   ],
+   "ddm": "S51°41.202' W057°41.349'",
+   "be": "080°/398 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Rio Gallegos",
+   "side": "red",
+   "x": 25718,
+   "y": -703408,
+   "radius_nm": 25,
+   "airport": "Rio Gallegos",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × Su-27",
+      "2 × MiG-29S"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × Su-30",
+      "4 × Su-27"
+     ]
+    }
+   ],
+   "ddm": "S51°36.531' W069°18.735'",
+   "be": "311°/57 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Rio Grande",
+   "side": "red",
+   "x": -197145,
+   "y": -559488,
+   "radius_nm": 25,
+   "airport": "Rio Grande",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × MiG-29S",
+      "2 × Su-27"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × Su-30",
+      "4 × MiG-29S"
+     ]
+    }
+   ],
+   "ddm": "S53°46.656' W067°44.993'",
+   "be": "157°/90 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA San Julian",
+   "side": "red",
+   "x": 297478,
+   "y": -636918,
+   "radius_nm": 25,
+   "airport": "San Julian",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × Su-27",
+      "2 × MiG-29S"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × Su-30",
+      "4 × MiG-29S"
+     ]
+    }
+   ],
+   "ddm": "S49°18.402' W067°48.163'",
+   "be": "358°/184 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Mount Pleasant",
+   "side": "blue",
+   "x": 70000,
+   "y": 30000,
+   "radius_nm": 20,
+   "airport": "Mount Pleasant",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-15C",
+      "2 × F-16C bl.50"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-15C",
+      "4 × F-16C bl.50"
+     ]
+    }
+   ],
+   "ddm": "S51°50.829' W058°42.471'",
+   "be": "080°/359 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Punta Arenas",
+   "side": "blue",
+   "x": -155000,
+   "y": -795000,
+   "radius_nm": 25,
+   "airport": "Punta Arenas",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-16C bl.52d",
+      "2 × Mirage 2000-5"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-16C bl.52d",
+      "4 × Mirage 2000-5"
+     ]
+    }
+   ],
+   "ddm": "S53°02.506' W071°06.020'",
+   "be": "237°/110 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Puerto Natales",
+   "side": "blue",
+   "x": -35000,
+   "y": -945000,
+   "radius_nm": 20,
+   "airport": "Puerto Natales",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-16C bl.52d",
+      "2 × Mirage 2000-5"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-16C bl.52d",
+      "4 × Mirage 2000-5"
+     ]
+    }
+   ],
+   "ddm": "S51°43.406' W072°52.087'",
+   "be": "272°/173 nm",
+   "delay": 90,
+   "helos": false
+  }
+ ],
+ "sanctuaries": [
+  {
+   "name": "Sanctuaire Falkland",
+   "side": "blue",
+   "x": 70000,
+   "y": 25000,
+   "radius_nm": 26.997840172786177,
+   "radius_km": 50.0
+  },
+  {
+   "name": "Sanctuaire Magellan",
+   "side": "blue",
+   "x": -175000,
+   "y": -765000,
+   "radius_nm": 24.29805615550756,
+   "radius_km": 45.0
+  },
+  {
+   "name": "Sanctuaire San Julian",
+   "side": "red",
+   "x": 297478,
+   "y": -636918,
+   "radius_nm": 16.198704103671705,
+   "radius_km": 30.0
+  }
+ ],
+ "front": [
+  [
+   {
+    "x": 90113.0,
+    "y": 70886.0
+   },
+   {
+    "x": 88357.0,
+    "y": 76512.0
+   },
+   {
+    "x": 90499.0,
+    "y": 79980.0
+   },
+   {
+    "x": 89652.0,
+    "y": 82862.0
+   },
+   {
+    "x": 87802.0,
+    "y": 81142.0
+   },
+   {
+    "x": 86749.0,
+    "y": 82251.0
+   },
+   {
+    "x": 86949.0,
+    "y": 85932.0
+   }
+  ],
+  [
+   {
+    "x": -7112.0,
+    "y": -920278.0
+   },
+   {
+    "x": -24879.0,
+    "y": -912273.0
+   },
+   {
+    "x": -36565.0,
+    "y": -895814.0
+   },
+   {
+    "x": -42530.0,
+    "y": -884846.0
+   },
+   {
+    "x": -50889.0,
+    "y": -872058.0
+   },
+   {
+    "x": -25841.0,
+    "y": -742910.0
+   },
+   {
+    "x": -33058.0,
+    "y": -684266.0
+   },
+   {
+    "x": -43318.0,
+    "y": -625172.0
+   },
+   {
+    "x": -81442.0,
+    "y": -636349.0
+   },
+   {
+    "x": -230713.0,
+    "y": -611752.0
+   },
+   {
+    "x": -327959.0,
+    "y": -595498.0
+   }
+  ]
+ ],
+ "arena_zone": {
+  "x": -220000.0,
+  "y": -150000.0,
+  "radius_nm": 40,
+  "be": "110°/274 nm",
+  "ddm": "S54°22.761' W061°35.041'"
+ },
+ "ad": [
+  {
+   "name": "Mount Pleasant Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": 69089,
+   "y": 45630,
+   "ddm": "S51°51.505' W058°28.878'",
+   "be": "080°/367 nm"
+  },
+  {
+   "name": "Mount Pleasant Rapier",
+   "side": "blue",
+   "alias": "-rapier",
+   "x": 75667,
+   "y": 48024,
+   "ddm": "S51°47.983' W058°26.679'",
+   "be": "080°/369 nm"
+  },
+  {
+   "name": "Mount Pleasant Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 72463,
+   "y": 49518,
+   "ddm": "S51°49.727' W058°25.434'",
+   "be": "080°/370 nm"
+  },
+  {
+   "name": "Goose Green Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": 72590,
+   "y": 8061,
+   "ddm": "S51°49.129' W059°01.507'",
+   "be": "080°/348 nm"
+  },
+  {
+   "name": "Goose Green Rapier",
+   "side": "blue",
+   "alias": "-rapier",
+   "x": 72590,
+   "y": 11862,
+   "ddm": "S51°49.186' W058°58.200'",
+   "be": "080°/350 nm"
+  },
+  {
+   "name": "Gull Point NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": 30518,
+   "y": 20977,
+   "ddm": "S52°11.998' W058°51.203'",
+   "be": "083°/351 nm"
+  },
+  {
+   "name": "Gull Point Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 34695,
+   "y": 21314,
+   "ddm": "S52°09.751' W058°50.814'",
+   "be": "083°/352 nm"
+  },
+  {
+   "name": "San Carlos Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": 111439,
+   "y": 8484,
+   "ddm": "S51°28.190' W059°00.212'",
+   "be": "076°/352 nm"
+  },
+  {
+   "name": "San Carlos Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 106139,
+   "y": 8484,
+   "ddm": "S51°31.048' W059°00.337'",
+   "be": "077°/351 nm"
+  },
+  {
+   "name": "EWR Mount Usborne",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": 88578,
+   "y": 20858,
+   "ddm": "S51°40.692' W058°50.024'",
+   "be": "078°/356 nm"
+  },
+  {
+   "name": "EWR Mount Adam",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": 98561,
+   "y": -65544,
+   "ddm": "S51°33.746' W060°04.547'",
+   "be": "076°/312 nm"
+  },
+  {
+   "name": "Punta Arenas Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": -147982.0,
+   "y": -783417.0,
+   "ddm": "S53°00.041' W070°54.754'",
+   "be": "237°/102 nm"
+  },
+  {
+   "name": "Punta Arenas Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -152285,
+   "y": -779609,
+   "ddm": "S53°02.688' W070°52.186'",
+   "be": "235°/102 nm"
+  },
+  {
+   "name": "Punta Arenas Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -147767.0,
+   "y": -777091.0,
+   "ddm": "S53°00.582' W070°49.226'",
+   "be": "236°/100 nm"
+  },
+  {
+   "name": "Porvenir Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -168264,
+   "y": -735141,
+   "ddm": "S53°15.569' W070°16.095'",
+   "be": "221°/90 nm"
+  },
+  {
+   "name": "Porvenir Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -168264,
+   "y": -740441,
+   "ddm": "S53°15.042' W070°20.733'",
+   "be": "223°/92 nm"
+  },
+  {
+   "name": "Schroeders NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -211795.0,
+   "y": -741582.0,
+   "ddm": "S53°37.763' W070°29.063'",
+   "be": "215°/111 nm"
+  },
+  {
+   "name": "Schroeders Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -207414,
+   "y": -741523,
+   "ddm": "S53°35.472' W070°28.266'",
+   "be": "215°/109 nm"
+  },
+  {
+   "name": "Natales Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -26571,
+   "y": -922525,
+   "ddm": "S51°41.603' W072°31.745'",
+   "be": "273°/161 nm"
+  },
+  {
+   "name": "Natales NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -24059,
+   "y": -925509,
+   "ddm": "S51°39.959' W072°33.781'",
+   "be": "274°/163 nm"
+  },
+  {
+   "name": "Natales Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -22259,
+   "y": -923009,
+   "ddm": "S51°39.307' W072°31.363'",
+   "be": "274°/161 nm"
+  },
+  {
+   "name": "Williams Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": -327019,
+   "y": -531926,
+   "ddm": "S54°57.714' W067°38.068'",
+   "be": "162°/161 nm"
+  },
+  {
+   "name": "Williams NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -323590,
+   "y": -529855,
+   "ddm": "S54°56.065' W067°35.677'",
+   "be": "161°/160 nm"
+  },
+  {
+   "name": "Williams Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -323814.0,
+   "y": -533549.0,
+   "ddm": "S54°55.883' W067°39.108'",
+   "be": "162°/159 nm"
+  },
+  {
+   "name": "EWR Punta Arenas",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": -154679,
+   "y": -785394,
+   "ddm": "S53°03.342' W070°57.623'",
+   "be": "235°/105 nm"
+  },
+  {
+   "name": "EWR Natales",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": -36201.0,
+   "y": -922006.0,
+   "ddm": "S51°46.667' W072°33.070'",
+   "be": "271°/160 nm"
+  },
+  {
+   "name": "EWR Navarino",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": -339336.0,
+   "y": -527551.0,
+   "ddm": "S55°04.597' W067°35.777'",
+   "be": "162°/168 nm"
+  },
+  {
+   "name": "Port Stanley SA-6",
+   "side": "red",
+   "alias": "-sa6",
+   "x": 89438,
+   "y": 97533,
+   "ddm": "S51°40.952' W057°43.486'",
+   "be": "080°/397 nm"
+  },
+  {
+   "name": "Port Stanley SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 89995,
+   "y": 93347,
+   "ddm": "S51°40.629' W057°47.114'",
+   "be": "079°/395 nm"
+  },
+  {
+   "name": "Rio Gallegos SA-10",
+   "side": "red",
+   "alias": "-sa10",
+   "x": 29592,
+   "y": -697727,
+   "ddm": "S51°34.999' W069°13.368'",
+   "be": "315°/56 nm"
+  },
+  {
+   "name": "Rio Gallegos SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 23839,
+   "y": -704092,
+   "ddm": "S51°37.460' W069°19.587'",
+   "be": "310°/56 nm"
+  },
+  {
+   "name": "Rio Grande SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": -196068,
+   "y": -556563,
+   "ddm": "S53°46.322' W067°42.230'",
+   "be": "156°/90 nm"
+  },
+  {
+   "name": "Rio Grande SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": -199024,
+   "y": -560172,
+   "ddm": "S53°47.596' W067°45.863'",
+   "be": "157°/91 nm"
+  },
+  {
+   "name": "San Julian SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 297478,
+   "y": -641918,
+   "ddm": "S49°18.017' W067°52.216'",
+   "be": "357°/184 nm"
+  },
+  {
+   "name": "San Julian SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 297478,
+   "y": -634918,
+   "ddm": "S49°18.555' W067°46.542'",
+   "be": "358°/184 nm"
+  },
+  {
+   "name": "Rio Turbio SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": -12262,
+   "y": -901620,
+   "ddm": "S51°36.503' W072°11.685'",
+   "be": "276°/150 nm"
+  },
+  {
+   "name": "Ushuaia SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": -320410,
+   "y": -575022,
+   "ddm": "S54°50.602' W068°16.696'",
+   "be": "170°/152 nm"
+  },
+  {
+   "name": "Piedrabuena SA-10",
+   "side": "red",
+   "alias": "-sa10",
+   "x": 213541,
+   "y": -707861,
+   "ddm": "S49°57.059' W068°56.424'",
+   "be": "342°/146 nm"
+  },
+  {
+   "name": "Piedrabuena SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 206541,
+   "y": -707861,
+   "ddm": "S50°00.755' W068°57.353'",
+   "be": "342°/142 nm"
+  },
+  {
+   "name": "Santa Cruz SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 214341,
+   "y": -680892,
+   "ddm": "S49°58.907' W068°34.231'",
+   "be": "348°/142 nm"
+  },
+  {
+   "name": "Tolhuin SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": -269633,
+   "y": -510005,
+   "ddm": "S54°29.022' W067°10.104'",
+   "be": "153°/137 nm"
+  },
+  {
+   "name": "EWR Port Stanley",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 89349,
+   "y": 97389,
+   "ddm": "S51°41.000' W057°43.612'",
+   "be": "080°/397 nm"
+  },
+  {
+   "name": "EWR Rio Gallegos",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 31316,
+   "y": -701698,
+   "ddm": "S51°33.734' W069°16.480'",
+   "be": "314°/58 nm"
+  },
+  {
+   "name": "EWR Rio Grande",
+   "side": "red",
+   "alias": "-ewr",
+   "x": -194306,
+   "y": -558514,
+   "ddm": "S53°45.231' W067°43.734'",
+   "be": "156°/89 nm"
+  },
+  {
+   "name": "EWR San Julian",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 302176,
+   "y": -635208,
+   "ddm": "S49°16.042' W067°46.228'",
+   "be": "358°/187 nm"
+  },
+  {
+   "name": "EWR Santa Cruz",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 201884,
+   "y": -683970,
+   "ddm": "S50°05.236' W068°38.366'",
+   "be": "346°/136 nm"
+  }
+ ],
+ "drones": [
+  {
+   "name": "Reaper 2",
+   "type": "MQ-9 Reaper",
+   "where": "front de Rio Turbio",
+   "jtac": 1512,
+   "freq": "35.6",
+   "mod": "FM",
+   "be": "278°/151 nm",
+   "ddm": "S51°32.940' W072°11.178'"
+  },
+  {
+   "name": "Reaper 1",
+   "type": "MQ-9 Reaper",
+   "where": "champ de tir d'attaque",
+   "jtac": 1511,
+   "freq": "35.55",
+   "mod": "FM",
+   "be": "076°/307 nm",
+   "ddm": "S51°35.334' W060°11.981'"
+  }
+ ],
+ "arena_slots": [
+  {
+   "group": "Arène bleue F-14B Fox 3",
+   "side": "blue",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F-14B Fox 1",
+   "side": "blue",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F/A-18C Fox 3",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F/A-18C Fox 1",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue M-2000C Fox 1",
+   "side": "blue",
+   "type": "M-2000C",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F/A-18C Fox 3",
+   "side": "red",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F/A-18C Fox 1",
+   "side": "red",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge M-2000C Fox 1",
+   "side": "red",
+   "type": "M-2000C",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F-14B Fox 3",
+   "side": "red",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge F-14B Fox 1",
+   "side": "red",
+   "type": "F-14B",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  }
+ ],
+ "radio": {
+  "blue": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Overlord-1",
+    "3": "Magic-1",
+    "4": "Texaco-1",
+    "5": "Arco-1",
+    "6": "Texaco-2",
+    "7": "Arco-2",
+    "8": "Stennis",
+    "9": "Roosevelt",
+    "10": "S3B-Stennis",
+    "11": "S3B-Roosevelt",
+    "12": "Darkstar-1",
+    "13": "Base-Mount Pleasant",
+    "14": "Base-Goose Green",
+    "15": "Base-Gull Point",
+    "16": "Base-Punta Arenas",
+    "17": "Base-Puerto Natales",
+    "18": "Base-Puerto Williams",
+    "19": "Base-Porvenir"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "FARP-PortHoward",
+    "3": "FARP-TealInlet",
+    "4": "FARP-Torres",
+    "5": "FARP-Sombrero",
+    "6": "Archer",
+    "7": "Arctic",
+    "8": "Astro",
+    "9": "Nickel",
+    "10": "Base-Mount Pleasant",
+    "11": "Base-Goose Green",
+    "12": "Base-Gull Point",
+    "13": "Base-Punta Arenas",
+    "14": "Base-Puerto Natales",
+    "15": "Base-Puerto Williams",
+    "16": "Base-Porvenir",
+    "17": "Base-San Carlos FOB",
+    "18": "Base-Almirante Schroeders"
+   }
+  },
+  "red": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Wizard-1",
+    "3": "Shell-1",
+    "4": "Focus-1",
+    "5": "Base-Port Stanley",
+    "6": "Base-Rio Gallegos",
+    "7": "Base-Rio Grande",
+    "8": "Base-San Julian",
+    "9": "Base-Comandante Luis Piedrabuena",
+    "10": "Base-Puerto Santa Cruz",
+    "11": "Base-Tolhuin"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "Berkut",
+    "3": "Sokol",
+    "4": "Strizh",
+    "5": "Vityaz",
+    "6": "Kobra",
+    "7": "Rus",
+    "8": "Base-Port Stanley",
+    "9": "Base-Rio Gallegos",
+    "10": "Base-Rio Grande",
+    "11": "Base-San Julian",
+    "12": "Base-Comandante Luis Piedrabuena",
+    "13": "Base-Puerto Santa Cruz",
+    "14": "Base-Tolhuin"
+   }
+  }
+ },
+ "channels": {
+  "Guard": {
+   "uhf": 243,
+   "vhf": 121.5
+  },
+  "Overlord-1": {
+   "uhf": 282.0
+  },
+  "Magic-1": {
+   "uhf": 283.0
+  },
+  "Wizard-1": {
+   "uhf": 284.0
+  },
+  "Darkstar-1": {
+   "uhf": 285.0
+  },
+  "Focus-1": {
+   "uhf": 286.0
+  },
+  "Texaco-1": {
+   "uhf": 290.0
+  },
+  "Arco-1": {
+   "uhf": 291.0
+  },
+  "Texaco-2": {
+   "uhf": 292.0
+  },
+  "Arco-2": {
+   "uhf": 293.0
+  },
+  "Shell-1": {
+   "uhf": 294.0
+  },
+  "S3B-Stennis": {
+   "uhf": 296.0
+  },
+  "S3B-Roosevelt": {
+   "uhf": 297.0
+  },
+  "Stennis": {
+   "uhf": 305.0
+  },
+  "Roosevelt": {
+   "uhf": 306.0
+  },
+  "FARP-PortHoward": {
+   "vhf": 127.5
+  },
+  "FARP-TealInlet": {
+   "vhf": 128.0
+  },
+  "FARP-Torres": {
+   "vhf": 129.5
+  },
+  "FARP-Sombrero": {
+   "vhf": 129.0
+  },
+  "Archer": {
+   "vhf": 130.0,
+   "uhf": 390.0
+  },
+  "Arctic": {
+   "vhf": 130.1,
+   "uhf": 390.1
+  },
+  "Astro": {
+   "vhf": 130.2,
+   "uhf": 390.2
+  },
+  "Nickel": {
+   "vhf": 130.3,
+   "uhf": 390.3
+  },
+  "Berkut": {
+   "vhf": 130.4,
+   "uhf": 395.0
+  },
+  "Sokol": {
+   "vhf": 130.5,
+   "uhf": 395.1
+  },
+  "Strizh": {
+   "vhf": 130.6,
+   "uhf": 395.2
+  },
+  "Vityaz": {
+   "vhf": 130.7,
+   "uhf": 395.3
+  },
+  "Kobra": {
+   "vhf": 130.8,
+   "uhf": 395.4
+  },
+  "Rus": {
+   "vhf": 130.9,
+   "uhf": 395.5
+  },
+  "Base-Mount Pleasant": {
+   "uhf": 250.8,
+   "vhf": 133.35,
+   "fm": 39.2
+  },
+  "Base-Goose Green": {
+   "uhf": 250.65,
+   "vhf": 126.0,
+   "fm": 39.05
+  },
+  "Base-Gull Point": {
+   "uhf": 234.5,
+   "vhf": 126.5,
+   "fm": 39.5
+  },
+  "Base-Punta Arenas": {
+   "uhf": 251.1,
+   "vhf": 118.7,
+   "fm": 39.5
+  },
+  "Base-Puerto Natales": {
+   "uhf": 250.15,
+   "vhf": 128.1,
+   "fm": 38.55
+  },
+  "Base-Puerto Williams": {
+   "uhf": 250.1,
+   "vhf": 118.5,
+   "fm": 38.5
+  },
+  "Base-Porvenir": {
+   "uhf": 250.4,
+   "vhf": 126.7,
+   "fm": 38.8
+  },
+  "Base-San Carlos FOB": {
+   "uhf": 250.85,
+   "vhf": 134.35,
+   "fm": 39.25
+  },
+  "Base-Almirante Schroeders": {
+   "uhf": 229.0,
+   "vhf": 118.25,
+   "fm": 38.6
+  },
+  "Base-Port Stanley": {
+   "uhf": 250.45,
+   "vhf": 118.1,
+   "fm": 38.85
+  },
+  "Base-Rio Gallegos": {
+   "uhf": 250.9,
+   "vhf": 119.1,
+   "fm": 39.3
+  },
+  "Base-Rio Grande": {
+   "uhf": 250.95,
+   "vhf": 118.3,
+   "fm": 39.35
+  },
+  "Base-San Julian": {
+   "uhf": 250.05,
+   "vhf": 118.05,
+   "fm": 38.45
+  },
+  "Base-Comandante Luis Piedrabuena": {
+   "uhf": 250.3,
+   "vhf": 122.1,
+   "fm": 38.7
+  },
+  "Base-Puerto Santa Cruz": {
+   "uhf": 250.25,
+   "vhf": 118.6,
+   "fm": 38.65
+  },
+  "Base-Tolhuin": {
+   "uhf": 250.35,
+   "vhf": 118.15,
+   "fm": 38.75
+  }
+ },
+ "titles": {
+  "Guard": "Guard",
+  "Overlord-1": "Overlord 1 AWACS îles",
+  "Magic-1": "Magic 1 AWACS Chili",
+  "Wizard-1": "Wizard 1 AWACS",
+  "Darkstar-1": "Darkstar 1 Arène",
+  "Focus-1": "Focus 1 Arène",
+  "Texaco-1": "Texaco 1/BS/50Y",
+  "Arco-1": "Arco 1/BM/51Y",
+  "Texaco-2": "Texaco 2/BS/52Y",
+  "Arco-2": "Arco 2/BM/53Y",
+  "Shell-1": "Shell 1 IL-78",
+  "S3B-Stennis": "S-3B Stennis/56Y",
+  "S3B-Roosevelt": "S-3B Roosevelt/57Y",
+  "Stennis": "Stennis/74X/ICLS11",
+  "Roosevelt": "Roosevelt/71X/ICLS12",
+  "FARP-PortHoward": "FARP Port Howard",
+  "FARP-TealInlet": "FARP Teal Inlet",
+  "FARP-Torres": "FARP Torres del Paine",
+  "FARP-Sombrero": "FARP Sombrero",
+  "Archer": "Archer",
+  "Arctic": "Arctic",
+  "Astro": "Astro",
+  "Nickel": "Nickel",
+  "Berkut": "Berkut",
+  "Sokol": "Sokol",
+  "Strizh": "Strizh",
+  "Vityaz": "Vityaz",
+  "Kobra": "Kobra",
+  "Rus": "Rus",
+  "Base-Mount Pleasant": "Mount Pleasant / 59X",
+  "Base-Goose Green": "Goose Green",
+  "Base-Gull Point": "Gull Point",
+  "Base-Punta Arenas": "Punta Arenas",
+  "Base-Puerto Natales": "Puerto Natales",
+  "Base-Puerto Williams": "Puerto Williams",
+  "Base-Porvenir": "Porvenir",
+  "Base-San Carlos FOB": "San Carlos FOB",
+  "Base-Almirante Schroeders": "Almirante Schroeders",
+  "Base-Port Stanley": "Port Stanley",
+  "Base-Rio Gallegos": "Rio Gallegos",
+  "Base-Rio Grande": "Rio Grande / 31X",
+  "Base-San Julian": "San Julian",
+  "Base-Comandante Luis Piedrabuena": "Comandante Luis Piedrabuena",
+  "Base-Puerto Santa Cruz": "Puerto Santa Cruz",
+  "Base-Tolhuin": "Tolhuin"
+ },
+ "weather": {
+  "temperature": 6.0,
+  "wind_from": 270,
+  "wind_ms": 7.7166,
+  "clouds": "aucun",
+  "visibility_km": 10.0,
+  "sky": "quelques nuages à 2 800 ft"
+ },
+ "beacons": [
+  {
+   "code": "TOR",
+   "site": "Las Torres",
+   "mhz": 30.0,
+   "ddm": "S50°56.913' W072°57.734'",
+   "be": "285°/193 nm",
+   "x": 48933.0,
+   "y": -970507.0
+  },
+  {
+   "code": "PAI",
+   "site": "Cerro Paine Grande",
+   "mhz": 31.0,
+   "ddm": "S50°58.871' W073°05.334'",
+   "be": "284°/197 nm",
+   "x": 43369,
+   "y": -978521
+  },
+  {
+   "code": "GRE",
+   "site": "Glaciar Grey",
+   "mhz": 32.0,
+   "ddm": "S50°52.075' W073°22.022'",
+   "be": "284°/209 nm",
+   "x": 51474,
+   "y": -1000713
+  },
+  {
+   "code": "BEA",
+   "site": "Canal Beagle",
+   "mhz": 33.0,
+   "ddm": "S54°57.975' W067°36.669'",
+   "be": "162°/161 nm",
+   "x": -327273,
+   "y": -530368
+  },
+  {
+   "code": "WOL",
+   "site": "Îles Wollaston",
+   "mhz": 34.0,
+   "ddm": "S55°43.706' W067°22.903'",
+   "be": "162°/208 nm",
+   "x": -409374.0,
+   "y": -503058.0
+  },
+  {
+   "code": "HRN",
+   "site": "Cap Horn",
+   "mhz": 35.0,
+   "ddm": "S55°57.990' W067°16.676'",
+   "be": "161°/223 nm",
+   "x": -434734.0,
+   "y": -492627.0
+  },
+  {
+   "code": "PEB",
+   "site": "Pebble Island",
+   "mhz": 36.0,
+   "ddm": "S51°17.969' W059°30.489'",
+   "be": "074°/336 nm",
+   "x": 129300,
+   "y": -27208
+  },
+  {
+   "code": "EGM",
+   "site": "Port Egmont",
+   "mhz": 37.0,
+   "ddm": "S51°21.181' W060°04.061'",
+   "be": "074°/315 nm",
+   "x": 121867,
+   "y": -65958
+  },
+  {
+   "code": "CAR",
+   "site": "Carcass Island",
+   "mhz": 38.0,
+   "ddm": "S51°16.874' W060°33.721'",
+   "be": "072°/298 nm",
+   "x": 128290,
+   "y": -100757
+  }
+ ],
+ "fronts_nm": [
+  328,
+  11
+ ],
+ "combat_missions": [
+  {
+   "name": "Défense — raid rouge sur Mount Pleasant",
+   "briefing": "Deux Su-24M armés de missiles antiradar ouvrent la route à quatre Su-34 chargés de bombes, escortés de deux Su-30, partis de l'est de Port Stanley vers la base de Mount Pleasant, 27 nm plus à l'ouest. Abattez les bombardiers avant le largage.\nÉchec si la base est bombardée (constaté par vous : la mission ne le vérifie pas)."
+  },
+  {
+   "name": "Interception — transport VIP de Rio Gallegos à Rio Grande",
+   "briefing": "Un IL-76 emmène l'état-major rouge de Rio Gallegos vers Rio Grande, escorté par deux MiG-29S, en longeant la côte par le cap Vierges. Interceptez-le avant Rio Grande : la fin de la route est sous la QRA et les défenses de Rio Grande."
+  }
+ ]
+}

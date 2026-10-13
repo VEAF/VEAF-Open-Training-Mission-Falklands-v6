@@ -1,0 +1,1830 @@
+[
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front du Chili",
+   "points": [
+    {
+     "x": -7370,
+     "y": -910225
+    },
+    {
+     "x": -36080,
+     "y": -797446
+    },
+    {
+     "x": -40682,
+     "y": -698140
+    },
+    {
+     "x": -43210,
+     "y": -624494
+    },
+    {
+     "x": -81442,
+     "y": -636349
+    },
+    {
+     "x": -230713,
+     "y": -611752
+    },
+    {
+     "x": -327959,
+     "y": -595498
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Front du Chili étiquette",
+   "position": {
+    "x": -145477,
+    "y": -645631
+   },
+   "text": "FRONT DU CHILI (approximatif) : de Puerto Natales à Puerto Williams",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front des îles",
+   "points": [
+    {
+     "x": 90113,
+     "y": 70886
+    },
+    {
+     "x": 88357,
+     "y": 76512
+    },
+    {
+     "x": 90499,
+     "y": 79980
+    },
+    {
+     "x": 89652,
+     "y": 82862
+    },
+    {
+     "x": 87802,
+     "y": 81142
+    },
+    {
+     "x": 86749,
+     "y": 82251
+    },
+    {
+     "x": 86949,
+     "y": 85932
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Front des îles étiquette",
+   "position": {
+    "x": 110000,
+    "y": 80000
+   },
+   "text": "FRONT DES ÎLES (approximatif) : les crêtes à l'ouest de Stanley",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortHoward",
+   "position": {
+    "x": 78250,
+    "y": -38750
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortHoward étiquette",
+   "position": {
+    "x": 81550,
+    "y": -38750
+   },
+   "text": "H1-H3 Entraînement hélicoptères — Port Howard",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_MountAdam",
+   "position": {
+    "x": 95250,
+    "y": -74000
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_MountAdam étiquette",
+   "position": {
+    "x": 98550,
+    "y": -74000
+   },
+   "text": "A1-A3 Entraînement attaque — Mount Adam",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortStephens",
+   "position": {
+    "x": 43750,
+    "y": -106750
+   },
+   "radius": 3000,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortStephens étiquette",
+   "position": {
+    "x": 47550,
+    "y": -106750
+   },
+   "text": "S1-S3 Entraînement SEAD — Port Stephens",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Paine",
+   "position": {
+    "x": 45094,
+    "y": -963184
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Paine étiquette",
+   "position": {
+    "x": 47394,
+    "y": -963184
+   },
+   "text": "T1 Tourisme — Torres del Paine",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Circuit combatZone_Paine",
+   "points": [
+    {
+     "x": 39230,
+     "y": -960224
+    },
+    {
+     "x": 45094,
+     "y": -963184
+    },
+    {
+     "x": 49643,
+     "y": -970721
+    },
+    {
+     "x": 41869,
+     "y": -978021
+    },
+    {
+     "x": 51974,
+     "y": -1001713
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise TOR étiquette",
+   "position": {
+    "x": 49643,
+    "y": -968221
+   },
+   "text": "TOR FM 30.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise PAI étiquette",
+   "position": {
+    "x": 41869,
+    "y": -975521
+   },
+   "text": "PAI FM 31.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise GRE étiquette",
+   "position": {
+    "x": 51974,
+    "y": -999213
+   },
+   "text": "GRE FM 32.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CapHorn",
+   "position": {
+    "x": -320519,
+    "y": -526730
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CapHorn étiquette",
+   "position": {
+    "x": -318219,
+    "y": -526730
+   },
+   "text": "T2 Tourisme — cap Horn",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Circuit combatZone_CapHorn",
+   "points": [
+    {
+     "x": -323519,
+     "y": -531926
+    },
+    {
+     "x": -320519,
+     "y": -526730
+    },
+    {
+     "x": -327773,
+     "y": -530868
+    },
+    {
+     "x": -408331,
+     "y": -502468
+    },
+    {
+     "x": -436216,
+     "y": -493109
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise BEA étiquette",
+   "position": {
+    "x": -327773,
+    "y": -528368
+   },
+   "text": "BEA FM 33.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise WOL étiquette",
+   "position": {
+    "x": -408331,
+    "y": -499968
+   },
+   "text": "WOL FM 34.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise HRN étiquette",
+   "position": {
+    "x": -436216,
+    "y": -490609
+   },
+   "text": "HRN FM 35.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortEgmont",
+   "position": {
+    "x": 120000,
+    "y": -67000
+   },
+   "radius": 1500,
+   "color": "0x8b5a00ff",
+   "fill_color": "0x8b5a0018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortEgmont étiquette",
+   "position": {
+    "x": 122300,
+    "y": -67000
+   },
+   "text": "T3 Tourisme — Falkland occidentales",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Circuit combatZone_PortEgmont",
+   "points": [
+    {
+     "x": 88000,
+     "y": -32250
+    },
+    {
+     "x": 120000,
+     "y": -67000
+    },
+    {
+     "x": 129300,
+     "y": -27208
+    },
+    {
+     "x": 121367,
+     "y": -63208
+    },
+    {
+     "x": 128290,
+     "y": -101007
+    }
+   ],
+   "color": "0x8b5a00ff",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise PEB étiquette",
+   "position": {
+    "x": 129300,
+    "y": -24708
+   },
+   "text": "PEB FM 36.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise EGM étiquette",
+   "position": {
+    "x": 121367,
+    "y": -60708
+   },
+   "text": "EGM FM 37.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Balise CAR étiquette",
+   "position": {
+    "x": 128290,
+    "y": -98507
+   },
+   "text": "CAR FM 38.0",
+   "color": "0x8b5a00ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CretesStanley",
+   "position": {
+    "x": 90076,
+    "y": 81421
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CretesStanley étiquette",
+   "position": {
+    "x": 93376,
+    "y": 81421
+   },
+   "text": "Z01 Front des îles — crêtes de Mount Longdon et Wireless Ridge",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_RioTurbio",
+   "position": {
+    "x": -5592,
+    "y": -902433
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_RioTurbio étiquette",
+   "position": {
+    "x": -2292,
+    "y": -902433
+   },
+   "text": "Z02 Front de Patagonie — frontière de Rio Turbio",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_SanSebastian",
+   "position": {
+    "x": -100135,
+    "y": -632605
+   },
+   "radius": 2500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_SanSebastian étiquette",
+   "position": {
+    "x": -96835,
+    "y": -632605
+   },
+   "text": "Z03 Front de Terre de Feu — carrefour de San Sebastián",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_MountKent",
+   "position": {
+    "x": 90113,
+    "y": 70886
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_MountKent étiquette",
+   "position": {
+    "x": 92913,
+    "y": 70886
+   },
+   "text": "Z04 SEAD — site SA-6 du Mount Kent",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PaliAike",
+   "position": {
+    "x": -20879,
+    "y": -726114
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PaliAike étiquette",
+   "position": {
+    "x": -18079,
+    "y": -726114
+   },
+   "text": "Z05 SEAD — site SA-11 de Pali Aike",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_RioGrandeSAM",
+   "position": {
+    "x": -207537,
+    "y": -553488
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_RioGrandeSAM étiquette",
+   "position": {
+    "x": -204737,
+    "y": -553488
+   },
+   "text": "Z06 SEAD — site SA-11 de Rio Grande",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiStanley",
+   "position": {
+    "x": 87528,
+    "y": 86858
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiStanley étiquette",
+   "position": {
+    "x": 89828,
+    "y": 86858
+   },
+   "text": "Z07 Convoi — Stanley vers Fitzroy",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiRuta3",
+   "position": {
+    "x": 23604,
+    "y": -708934
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiRuta3 étiquette",
+   "position": {
+    "x": 25904,
+    "y": -708934
+   },
+   "text": "Z08 Convoi — route 3, de Rio Gallegos vers Piedrabuena",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ConvoiTolhuin",
+   "position": {
+    "x": -200039,
+    "y": -551862
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ConvoiTolhuin étiquette",
+   "position": {
+    "x": -197739,
+    "y": -551862
+   },
+   "text": "Z09 Convoi — route 3, de Rio Grande vers Tolhuin",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_EtatMajorGallegos",
+   "position": {
+    "x": 25302,
+    "y": -696666
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_EtatMajorGallegos étiquette",
+   "position": {
+    "x": 27602,
+    "y": -696666
+   },
+   "text": "Z10 Frappe — état-major de Rio Gallegos",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortSantaCruz",
+   "position": {
+    "x": 210675,
+    "y": -676629
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortSantaCruz étiquette",
+   "position": {
+    "x": 212975,
+    "y": -676629
+   },
+   "text": "Z11 Frappe — port de Puerto Santa Cruz",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_BaseNavaleUshuaia",
+   "position": {
+    "x": -316738,
+    "y": -577597
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_BaseNavaleUshuaia étiquette",
+   "position": {
+    "x": -314438,
+    "y": -577597
+   },
+   "text": "Z12 Frappe — base navale d'Ushuaia",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ScudRioChico",
+   "position": {
+    "x": 19604,
+    "y": -704092
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ScudRioChico étiquette",
+   "position": {
+    "x": 21904,
+    "y": -704092
+   },
+   "text": "Z13 Frappe — base de missiles sol-sol de Rio Chico",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_PortStanley",
+   "position": {
+    "x": 88125,
+    "y": 93868
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_PortStanley étiquette",
+   "position": {
+    "x": 90425,
+    "y": 93868
+   },
+   "text": "Z14 OCA — base aérienne de Port Stanley",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Piedrabuena",
+   "position": {
+    "x": 208541,
+    "y": -707261
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Piedrabuena étiquette",
+   "position": {
+    "x": 210841,
+    "y": -707261
+   },
+   "text": "Z15 OCA — base aérienne de Piedrabuena",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_BlocusStanley",
+   "position": {
+    "x": 95000,
+    "y": 125000
+   },
+   "radius": 6000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_BlocusStanley étiquette",
+   "position": {
+    "x": 101800,
+    "y": 125000
+   },
+   "text": "Z16 Antinavire — corvettes devant Port Stanley",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_DetroitLeMaire",
+   "position": {
+    "x": -285000,
+    "y": -360000
+   },
+   "radius": 6000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_DetroitLeMaire étiquette",
+   "position": {
+    "x": -278200,
+    "y": -360000
+   },
+   "text": "Z17 Antinavire — escadre du détroit de Le Maire",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Port Stanley",
+   "position": {
+    "x": 89000,
+    "y": 100000
+   },
+   "radius": 30000,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Port Stanley étiquette",
+   "position": {
+    "x": 113000,
+    "y": 100000
+   },
+   "text": "QRA Port Stanley (16 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Rio Gallegos",
+   "position": {
+    "x": 25718,
+    "y": -703408
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Rio Gallegos étiquette",
+   "position": {
+    "x": 66018,
+    "y": -703408
+   },
+   "text": "QRA Rio Gallegos (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Rio Grande",
+   "position": {
+    "x": -197145,
+    "y": -559488
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Rio Grande étiquette",
+   "position": {
+    "x": -156845,
+    "y": -559488
+   },
+   "text": "QRA Rio Grande (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA San Julian",
+   "position": {
+    "x": 297478,
+    "y": -636918
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA San Julian étiquette",
+   "position": {
+    "x": 337778,
+    "y": -636918
+   },
+   "text": "QRA San Julian (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Mount Pleasant",
+   "position": {
+    "x": 70000,
+    "y": 30000
+   },
+   "radius": 37000,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Mount Pleasant étiquette",
+   "position": {
+    "x": 101000,
+    "y": 30000
+   },
+   "text": "QRA Mount Pleasant (20 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Punta Arenas",
+   "position": {
+    "x": -155000,
+    "y": -795000
+   },
+   "radius": 46300,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Punta Arenas étiquette",
+   "position": {
+    "x": -114700,
+    "y": -795000
+   },
+   "text": "QRA Punta Arenas (25 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Puerto Natales",
+   "position": {
+    "x": -35000,
+    "y": -945000
+   },
+   "radius": 37000,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Puerto Natales étiquette",
+   "position": {
+    "x": -4000,
+    "y": -945000
+   },
+   "text": "QRA Puerto Natales (20 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Falkland",
+   "position": {
+    "x": 70000,
+    "y": 25000
+   },
+   "radius": 50000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Falkland étiquette",
+   "position": {
+    "x": 18500,
+    "y": 25000
+   },
+   "text": "Sanctuaire Falkland",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Magellan",
+   "position": {
+    "x": -175000,
+    "y": -765000
+   },
+   "radius": 45000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Magellan étiquette",
+   "position": {
+    "x": -221500,
+    "y": -765000
+   },
+   "text": "Sanctuaire Magellan",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire San Julian",
+   "position": {
+    "x": 297478,
+    "y": -636918
+   },
+   "radius": 30000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire San Julian étiquette",
+   "position": {
+    "x": 265978,
+    "y": -636918
+   },
+   "text": "Sanctuaire San Julian",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Arène cercle",
+   "position": {
+    "x": -220000,
+    "y": -150000
+   },
+   "radius": 74000,
+   "color": "0x008000ff",
+   "fill_color": "0x00000000",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Arène étiquette",
+   "position": {
+    "x": -143000,
+    "y": -150000
+   },
+   "text": "ARÈNE joueurs contre joueurs (slots en vol)",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 1",
+   "points": [
+    {
+     "x": -25000,
+     "y": -40000
+    },
+    {
+     "x": -25000,
+     "y": 25000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 1 étiquette",
+   "position": {
+    "x": -25000,
+    "y": -1500
+   },
+   "text": "Texaco 1 — TACAN 50Y — U290.0 — FL220",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 1",
+   "points": [
+    {
+     "x": -45000,
+     "y": -45000
+    },
+    {
+     "x": -45000,
+     "y": 20000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 1 étiquette",
+   "position": {
+    "x": -45000,
+    "y": -6500
+   },
+   "text": "Arco 1 — TACAN 51Y — U291.0 — FL180",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 2",
+   "points": [
+    {
+     "x": -100000,
+     "y": -880000
+    },
+    {
+     "x": -100000,
+     "y": -960000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 2 étiquette",
+   "position": {
+    "x": -100000,
+    "y": -914000
+   },
+   "text": "Texaco 2 — TACAN 52Y — U292.0 — FL240",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 2",
+   "points": [
+    {
+     "x": -60000,
+     "y": -905000
+    },
+    {
+     "x": -60000,
+     "y": -985000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 2 étiquette",
+   "position": {
+    "x": -60000,
+    "y": -939000
+   },
+   "text": "Arco 2 — TACAN 53Y — U293.0 — FL200",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Overlord 1",
+   "points": [
+    {
+     "x": 150000,
+     "y": -130000
+    },
+    {
+     "x": 150000,
+     "y": -70000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Overlord 1 étiquette",
+   "position": {
+    "x": 150000,
+    "y": -94000
+   },
+   "text": "Overlord 1 — AWACS — U282.0 — FL300",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Magic 1",
+   "points": [
+    {
+     "x": -190000,
+     "y": -800000
+    },
+    {
+     "x": -190000,
+     "y": -740000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Magic 1 étiquette",
+   "position": {
+    "x": -190000,
+    "y": -764000
+   },
+   "text": "Magic 1 — AWACS — U283.0 — FL300",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Shell 1",
+   "points": [
+    {
+     "x": 60000,
+     "y": -620000
+    },
+    {
+     "x": 60000,
+     "y": -540000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Shell 1 étiquette",
+   "position": {
+    "x": 60000,
+    "y": -574000
+   },
+   "text": "Shell 1 — IL-78M — U294.0 — FL200",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Wizard 1",
+   "points": [
+    {
+     "x": -60000,
+     "y": -520000
+    },
+    {
+     "x": -120000,
+     "y": -520000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Wizard 1 étiquette",
+   "position": {
+    "x": -90000,
+    "y": -514000
+   },
+   "text": "Wizard 1 — AWACS — U284.0 — FL300",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ }
+]

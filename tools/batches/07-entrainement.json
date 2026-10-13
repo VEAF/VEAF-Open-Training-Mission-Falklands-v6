@@ -1,0 +1,965 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortHoward_Easy",
+   "position": {
+    "x": 78250,
+    "y": -38750
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B-1",
+     "position": {
+      "x": 78850,
+      "y": -38750
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-2",
+     "position": {
+      "x": 78600,
+      "y": -38144
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-3",
+     "position": {
+      "x": 78000,
+      "y": -38317
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-4",
+     "position": {
+      "x": 77450,
+      "y": -38750
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BRDM-2-5",
+     "position": {
+      "x": 77950,
+      "y": -39270
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BRDM-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-6",
+     "position": {
+      "x": 78600,
+      "y": -39356
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-7",
+     "position": {
+      "x": 78596,
+      "y": -38950
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H1 Hélico Port Howard — facile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de la Falkland occidentale, à 6 nm au sud-ouest du FARP Port Howard : cibles inertes (chars, blindés et camions immobiles, tir interdit).\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortHoward_Medium",
+   "position": {
+    "x": 78250,
+    "y": -38750
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H2-1",
+     "position": {
+      "x": 77211,
+      "y": -39350
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-1"
+      }
+     ]
+    },
+    {
+     "name": "H2-2",
+     "position": {
+      "x": 78250,
+      "y": -39850
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-2"
+      }
+     ]
+    },
+    {
+     "name": "H2-3",
+     "position": {
+      "x": 77124,
+      "y": -38100
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-3"
+      }
+     ]
+    },
+    {
+     "name": "H2-4",
+     "position": {
+      "x": 77800,
+      "y": -39529
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #spawnchance=50 #H2-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H2 Hélico Port Howard — moyen",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm.",
+    "includes": [
+     "combatZone_PortHoward_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortHoward_Hard",
+   "position": {
+    "x": 78250,
+    "y": -38750
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H3-1",
+     "position": {
+      "x": 77310,
+      "y": -39092
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country russia\" #spawngroup=\"H3SR\" #spawncount=1 #H3-1"
+      }
+     ]
+    },
+    {
+     "name": "H3-2",
+     "position": {
+      "x": 77908,
+      "y": -39690
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country russia\" #spawngroup=\"H3SR\" #spawncount=1 #H3-2"
+      }
+     ]
+    },
+    {
+     "name": "H3-3",
+     "position": {
+      "x": 77101,
+      "y": -39714
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla manpad",
+       "name": "#command=\"-sa18, country russia\" #spawngroup=\"H3MP\" #spawncount=1 #H3-3"
+      }
+     ]
+    },
+    {
+     "name": "H3-4",
+     "position": {
+      "x": 76850,
+      "y": -38750
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla manpad",
+       "name": "#command=\"-sa18, country russia\" #spawngroup=\"H3MP\" #spawncount=1 #H3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H3 Hélico Port Howard — difficile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm.",
+    "includes": [
+     "combatZone_PortHoward_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_MountAdam_Easy",
+   "position": {
+    "x": 95250,
+    "y": -74000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B-1",
+     "position": {
+      "x": 95950,
+      "y": -74000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-2",
+     "position": {
+      "x": 95939,
+      "y": -73421
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B-3",
+     "position": {
+      "x": 95354,
+      "y": -73409
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-4",
+     "position": {
+      "x": 94850,
+      "y": -73307
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BMP-2-5",
+     "position": {
+      "x": 94780,
+      "y": -73829
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BMP-2",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-80-6",
+     "position": {
+      "x": 94592,
+      "y": -74239
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-80-7",
+     "position": {
+      "x": 94800,
+      "y": -74779
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-80",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-8",
+     "position": {
+      "x": 95354,
+      "y": -74591
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-375-9",
+     "position": {
+      "x": 95863,
+      "y": -74514
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-10",
+     "position": {
+      "x": 95644,
+      "y": -74069
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A1 Attaque Mount Adam — facile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir air-sol à l'ouest de Mount Adam, sur la Falkland occidentale, à 78 nm du front de Stanley : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement. Le drone Reaper 1 tourne au-dessus.\nPosition : bullseye 076°/307 nm (S51°35.334' W060°11.981'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_MountAdam_Medium",
+   "position": {
+    "x": 95250,
+    "y": -74000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A2-1",
+     "position": {
+      "x": 94254,
+      "y": -74836
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 0, country russia\" #A2-1"
+      }
+     ]
+    },
+    {
+     "name": "A2-2",
+     "position": {
+      "x": 96000,
+      "y": -72701
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-2"
+      }
+     ]
+    },
+    {
+     "name": "A2-3",
+     "position": {
+      "x": 95950,
+      "y": -75212
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23, country russia\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A2 Attaque Mount Adam — moyen",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de Mount Adam : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile.\nPosition : bullseye 076°/307 nm (S51°35.334' W060°11.981'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm.",
+    "includes": [
+     "combatZone_MountAdam_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_MountAdam_Hard",
+   "position": {
+    "x": 95250,
+    "y": -74000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A3-1",
+     "position": {
+      "x": 94972,
+      "y": -75576
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B",
+       "name": "#command=\"-armor, defense 1, country russia\" #A3-1"
+      }
+     ]
+    },
+    {
+     "name": "A3-2",
+     "position": {
+      "x": 94122,
+      "y": -74410
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13, country russia\" #spawngroup=\"A3SR\" #spawncount=1 #A3-2"
+      }
+     ]
+    },
+    {
+     "name": "A3-3",
+     "position": {
+      "x": 96169,
+      "y": -74771
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-1 9P31",
+       "name": "#command=\"-sa9, country russia\" #spawngroup=\"A3SR\" #spawncount=1 #A3-3"
+      }
+     ]
+    },
+    {
+     "name": "A3-4",
+     "position": {
+      "x": 94976,
+      "y": -74752
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka, country russia\" #A3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A3 Attaque Mount Adam — difficile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de Mount Adam : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka.\nPosition : bullseye 076°/307 nm (S51°35.334' W060°11.981'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 77 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 67 nm.",
+    "includes": [
+     "combatZone_MountAdam_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortStephens_Easy",
+   "position": {
+    "x": 43750,
+    "y": -106750
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S1-1",
+     "position": {
+      "x": 43750,
+      "y": -106750
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6, country russia\" #spawngroup=\"S1MR\" #spawncount=1 #S1-1"
+      }
+     ]
+    },
+    {
+     "name": "S1-2",
+     "position": {
+      "x": 43750,
+      "y": -106450
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11, country russia\" #spawngroup=\"S1MR\" #spawncount=1 #S1-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S1 SEAD Port Stephens — facile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD au sud-ouest de la Falkland occidentale, près de Port Stephens, à 33 nm du champ de tir d'attaque : une batterie sol-air moyenne portée, SA-6 ou SA-11 tirée au sort.\nPosition : bullseye 080°/284 nm (S52°02.229' W060°42.557'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortStephens_Medium",
+   "position": {
+    "x": 43750,
+    "y": -106750
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S2-1",
+     "position": {
+      "x": 44811,
+      "y": -105689
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #spawngroup=\"S2SR\" #spawncount=2 #S2-1"
+      }
+     ]
+    },
+    {
+     "name": "S2-2",
+     "position": {
+      "x": 42301,
+      "y": -106362
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8, country russia\" #spawngroup=\"S2SR\" #spawncount=2 #S2-2"
+      }
+     ]
+    },
+    {
+     "name": "S2-3",
+     "position": {
+      "x": 44138,
+      "y": -108199
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15, country russia\" #spawngroup=\"S2SR\" #spawncount=2 #S2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S2 SEAD Port Stephens — moyen",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD de Port Stephens : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8).\nPosition : bullseye 080°/284 nm (S52°02.229' W060°42.557'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm.",
+    "includes": [
+     "combatZone_PortStephens_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortStephens_Hard",
+   "position": {
+    "x": 43750,
+    "y": -106750
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S3-1",
+     "position": {
+      "x": 42650,
+      "y": -104845
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr, country russia\" #S3-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S3 SEAD Port Stephens — difficile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD de Port Stephens en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment.\nPosition : bullseye 080°/284 nm (S52°02.229' W060°42.557'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 58 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 52 nm.",
+    "includes": [
+     "combatZone_PortStephens_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-1",
+   "position": {
+    "x": 95059,
+    "y": -72917
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_MountAdam_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": 94840,
+    "y": -72872
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_MountAdam_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-3",
+   "position": {
+    "x": 96472,
+    "y": -73555
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_MountAdam_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_Paine",
+   "position": {
+    "x": 45094,
+    "y": -963184
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "Autocars",
+     "position": {
+      "x": 45094,
+      "y": -962584
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "LAZ Bus",
+       "count": 3
+      }
+     ]
+    },
+    {
+     "name": "4x4",
+     "position": {
+      "x": 45494,
+      "y": -962491
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Land_Rover_101_FC",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T1 Tourisme — Torres del Paine",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne de la Patagonie des glaciers, hors combat, au départ du FARP Torres del Paine (4 nm au nord-ouest). Circuit : les tours de granit (Las Torres), les Cuernos et le Paine Grande, puis le lac Grey et son glacier, un front de la grande calotte glaciaire de Patagonie. Une balise radio FM à chaque site ; survolez un site à moins de 1 500 ft sol et un guide vous le raconte. Excursion : le glacier Perito Moreno, de l'autre côté de la frontière, en territoire rouge (aucune défense permanente).\nPosition : bullseye 285°/189 nm (S50°59.747' W072°52.415')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_CapHorn",
+   "position": {
+    "x": -323519,
+    "y": -528926
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "4x4",
+     "position": {
+      "x": -323269,
+      "y": -528493
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Land_Rover_101_FC",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 63,
+   "country_name": "Chile",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T2 Tourisme — cap Horn",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne du bout du monde, hors combat, au départ de Puerto Williams. Circuit : le canal Beagle, les îles Wollaston et le cap Horn. Une balise radio FM par site ; survolez-les à moins de 1 500 ft sol pour entendre le guide. Le circuit reste côté chilien, à plus de 20 nm de la base argentine d'Ushuaia.\nPosition : bullseye 161°/160 nm (S54°56.103' W067°34.812')."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortEgmont",
+   "position": {
+    "x": 120000,
+    "y": -67000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "4x4",
+     "position": {
+      "x": 120077,
+      "y": -66667
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Land_Rover_101_FC",
+       "count": 3
+      }
+     ]
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 4,
+   "country_name": "UK",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "T3 Tourisme — Falkland occidentales",
+    "radio_group_name": "Tourisme",
+    "training": true,
+    "completable": false,
+    "briefing": "Visite aérienne des Falkland occidentales, hors combat, au départ du FARP Port Howard (26 nm au nord-ouest). Circuit : Pebble Island, Saunders Island et Port Egmont, Carcass Island. Une balise radio FM par site ; survolez-les à moins de 1 500 ft sol pour entendre le guide.\nPosition : bullseye 074°/314 nm (S51°22.163' W060°05.025')."
+   }
+  }
+ }
+]

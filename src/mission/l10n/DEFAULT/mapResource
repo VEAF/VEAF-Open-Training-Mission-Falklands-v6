@@ -1,0 +1,13 @@
+mapResource = 
+{
+  ResKey_ImageBriefing_carte = "carte.jpg",
+  ResKey_ImageBriefing_carte_01_falkland = "carte_01_falkland.jpg",
+  ResKey_ImageBriefing_carte_02_stanley = "carte_02_stanley.jpg",
+  ResKey_ImageBriefing_carte_03_falkland_ouest = "carte_03_falkland_ouest.jpg",
+  ResKey_ImageBriefing_carte_04_magellan = "carte_04_magellan.jpg",
+  ResKey_ImageBriefing_carte_05_natales = "carte_05_natales.jpg",
+  ResKey_ImageBriefing_carte_06_fuego = "carte_06_fuego.jpg",
+  ResKey_ImageBriefing_carte_07_caphorn = "carte_07_caphorn.jpg",
+  ResKey_ImageBriefing_carte_08_nord = "carte_08_nord.jpg",
+  ResKey_ImageBriefing_carte_09_arene = "carte_09_arene.jpg",
+}

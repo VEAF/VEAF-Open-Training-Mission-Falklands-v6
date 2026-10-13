@@ -1,0 +1,49 @@
+[
+ {
+  "name": "set_mission_date",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "date": "2026-10-15",
+   "start_time": "09:00"
+  }
+ },
+ {
+  "name": "set_weather",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "metar": "EGYP 151200Z 27015KT 9999 SCT025 06/02 Q1010"
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "blue",
+   "position": {
+    "x": -43561,
+    "y": -624965
+   }
+  }
+ },
+ {
+  "name": "set_bullseye",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "position": {
+    "x": -43561,
+    "y": -624965
+   }
+  }
+ },
+ {
+  "name": "set_briefing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "sortie": "VEAF Open Training — Falklands",
+   "situation": "VEAF Open Training — Falklands (moderne, octobre 2026).\nUne force hostile tient la côte atlantique de la Patagonie et de la Terre de Feu argentines, ainsi que Port Stanley aux Falkland. Le Royaume-Uni (îles) et le Chili, appuyés par les États-Unis et deux groupes aéronavals (Stennis, Roosevelt), la prennent en tenaille. Deux fronts : la frontière chilo-argentine, de Puerto Natales à Puerto Williams (environ 313 nm, tracé approximatif), et le cordon de crêtes à l'ouest de Port Stanley. Bullseye commun : le cap Vierges, à l'entrée atlantique du détroit de Magellan.\n\nBASES BLEUES (slots dynamiques) : Mount Pleasant (U250.80 / V133.35, TACAN 59X), Goose Green (U250.65 / V126.00), Gull Point (U234.50 / V126.50), San Carlos FOB (U250.85 / V134.35), Punta Arenas (U251.10 / V118.70), Porvenir (U250.40 / V126.70), Puerto Natales (U250.15 / V128.10), Puerto Williams (U250.10 / V118.50), Almirante Schroeders (U229.00 / V118.25). FARP Port Howard (V127.5), FARP Teal Inlet (V128.0), FARP Torres del Paine (V129.5), FARP Sombrero (V129.0).\nPORTE-AVIONS : Stennis U305.0, TACAN 74X, ICLS 11, Link 4 336.0 ; Roosevelt U306.0, TACAN 71X, ICLS 12, Link 4 337.0.\nSOUTIEN : AWACS Overlord 1 U282.0 (îles) et Magic 1 U283.0 (Chili). Ravitailleurs : Texaco 1 (perche) 50Y U290.0 FL220, Arco 1 (panier) 51Y U291.0 FL180, Texaco 2 (perche) 52Y U292.0 FL240, Arco 2 (panier) 53Y U293.0 FL200 ; S-3B du Stennis 56Y U296.0, du Roosevelt 57Y U297.0. Tous escortés. Drones laser : Reaper 1 (code 1511, FM 35.55) sur le champ de tir d'attaque, Reaper 2 (1512, FM 35.6) sur le front de Rio Turbio.\n\nENTRAÎNEMENT (menu F10 VEAF, zones) : H Port Howard (hélicoptères), A Mount Adam (attaque), S Port Stephens (SEAD), trois niveaux chacun, sur la Falkland occidentale.\nTOURISME : trois circuits hors combat, avec balises FM en morse et un guide qui raconte chaque site survolé bas : Torres del Paine (FARP Torres del Paine), le cap Horn (Puerto Williams) et les Falkland occidentales (FARP Port Howard).\nCOMBAT : 17 zones (front, SEAD, convois, frappes, bases aériennes, antinavire), chacune avec son briefing dans le menu. Missions à la demande : CAP rouges et bleues, raid rouge sur Mount Pleasant, interception d'un transport VIP.\nQRA rouges : Port Stanley (16 nm), Rio Gallegos (25 nm), Rio Grande (25 nm), San Julian (25 nm) ; QRA bleues : Mount Pleasant (20 nm), Punta Arenas (25 nm), Puerto Natales (20 nm). Décollage 90 s après l'entrée du premier intrus ; elles ignorent les hélicoptères. Couloirs sans QRA : la Falkland occidentale, la mer entre les deux théâtres, le nord de la Patagonie.\nJOUEURS CONTRE JOUEURS : libre hors des sanctuaires. Sanctuaires bleus : les Falkland (50 km) et le détroit de Magellan (45 km) ; rouge : San Julian (30 km). Un intrus y est détruit après 60 s ; un missile tiré sur un défenseur est détruit. Arène AirQuake en Atlantique sud, au sud des Falkland, slots en vol Fox 1 et Fox 3.\n\nPlan radio, cartes et détail de chaque zone : voir les images du briefing et le README de la mission.",
+   "blue_task": "Reprendre la côte et les crêtes : s'entraîner sur les champs de tir H, A et S, puis frapper les zones de combat rouges. Mount Pleasant est la base mère ; Goose Green, Gull Point et San Carlos tiennent les îles, Punta Arenas, Porvenir, Puerto Natales, Puerto Williams et Almirante Schroeders le Chili ; le Stennis et le Roosevelt croisent dans l'Atlantique sud.",
+   "red_task": "Tenir la Patagonie et Port Stanley. Bases rouges avec slots : Rio Gallegos (U250.90 / V119.10), Rio Grande (U250.95 / V118.30, TACAN 31X), San Julian (U250.05 / V118.05). AWACS Wizard 1 U284.0, ravitailleur Shell 1 (IL-78) U294.0 FL200. Arène : AWACS Focus 1 U286.0. Les sanctuaires bleus des Falkland et du détroit de Magellan détruisent tout appareil rouge qui y entre."
+  }
+ }
+]

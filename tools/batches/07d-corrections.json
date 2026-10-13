@@ -1,0 +1,41 @@
+[
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_Paine",
+   "radius": 1500
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_PortEgmont",
+   "radius": 1500
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "zone_name": "combatZone_CapHorn",
+   "position": {
+    "x": -319539,
+    "y": -526529
+   },
+   "radius": 1500
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "combatZone_CapHorn-4x4",
+   "move_to": {
+    "x": -319289,
+    "y": -526096
+   }
+  }
+ }
+]
