@@ -12,6 +12,28 @@ veaf.HideNamesFromSpawnedGroups = true
 
 veaf.config.language = "fr"
 
+-- ── Airfield channels of the mission's radio plan (src/presets.yaml, `bases`) ──────
+if veafAirbases then
+    veafAirbases.MissionChannels = {
+        [1] = { alias = "Base-Port Stanley", title = "Port Stanley", uhf = 250.45, vhf = 118.1, fm = 38.85 },
+        [2] = { alias = "Base-Mount Pleasant", title = "Mount Pleasant / 59X", uhf = 250.8, vhf = 133.35, fm = 39.2 },
+        [3] = { alias = "Base-San Carlos FOB", title = "San Carlos FOB", uhf = 250.85, vhf = 134.35, fm = 39.25 },
+        [5] = { alias = "Base-Rio Gallegos", title = "Rio Gallegos", uhf = 250.9, vhf = 119.1, fm = 39.3 },
+        [6] = { alias = "Base-Rio Grande", title = "Rio Grande / 31X", uhf = 250.95, vhf = 118.3, fm = 39.35 },
+        [9] = { alias = "Base-Punta Arenas", title = "Punta Arenas", uhf = 251.1, vhf = 118.7, fm = 39.5 },
+        [11] = { alias = "Base-San Julian", title = "San Julian", uhf = 250.05, vhf = 118.05, fm = 38.45 },
+        [12] = { alias = "Base-Puerto Williams", title = "Puerto Williams", uhf = 250.1, vhf = 118.5, fm = 38.5 },
+        [13] = { alias = "Base-Puerto Natales", title = "Puerto Natales", uhf = 250.15, vhf = 128.1, fm = 38.55 },
+        [15] = { alias = "Base-Puerto Santa Cruz", title = "Puerto Santa Cruz", uhf = 250.25, vhf = 118.6, fm = 38.65 },
+        [16] = { alias = "Base-Comandante Luis Piedrabuena", title = "Comandante Luis Piedrabuena", uhf = 250.3, vhf = 122.1, fm = 38.7 },
+        [17] = { alias = "Base-Tolhuin", title = "Tolhuin", uhf = 250.35, vhf = 118.15, fm = 38.75 },
+        [18] = { alias = "Base-Porvenir", title = "Porvenir", uhf = 250.4, vhf = 126.7, fm = 38.8 },
+        [19] = { alias = "Base-Almirante Schroeders", title = "Almirante Schroeders", uhf = 229.0, vhf = 118.25, fm = 38.6 },
+        [24] = { alias = "Base-Goose Green", title = "Goose Green", uhf = 250.65, vhf = 126.0, fm = 39.05 },
+        [29] = { alias = "Base-Gull Point", title = "Gull Point", uhf = 234.5, vhf = 126.5, fm = 39.5 },
+    }
+end
+
 -- ── Global log level ─────────────────────────────────────────────────────────
 veaf.ForcedLogLevel = "info"
 
