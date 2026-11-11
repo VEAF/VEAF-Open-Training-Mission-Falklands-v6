@@ -380,73 +380,53 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Overlord 1 AWACS îles | `282.0` |
-| Radio 1 (UHF) | `3` | Magic 1 AWACS Chili | `283.0` |
-| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
-| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
-| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
-| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
-| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
-| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
-| Radio 1 (UHF) | `10` | S-3B Stennis/56Y | `296.0` |
-| Radio 1 (UHF) | `11` | S-3B Roosevelt/57Y | `297.0` |
-| Radio 1 (UHF) | `12` | Darkstar 1 Arène | `285.0` |
-| Radio 1 (UHF) | `13` | Mount Pleasant / 59X | `250.8` |
-| Radio 1 (UHF) | `14` | Goose Green | `250.65` |
-| Radio 1 (UHF) | `15` | Gull Point | `234.5` |
-| Radio 1 (UHF) | `16` | Punta Arenas | `251.1` |
-| Radio 1 (UHF) | `17` | Puerto Natales | `250.15` |
-| Radio 1 (UHF) | `18` | Puerto Williams | `250.1` |
-| Radio 1 (UHF) | `19` | Porvenir | `250.4` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | FARP Port Howard | `127.5` |
-| Radio 2 (V/UHF) | `3` | FARP Teal Inlet | `128.0` |
-| Radio 2 (V/UHF) | `4` | FARP Torres del Paine | `129.5` |
-| Radio 2 (V/UHF) | `5` | FARP Sombrero | `129.0` |
-| Radio 2 (V/UHF) | `6` | Archer | `130.0` |
-| Radio 2 (V/UHF) | `7` | Arctic | `130.1` |
-| Radio 2 (V/UHF) | `8` | Astro | `130.2` |
-| Radio 2 (V/UHF) | `9` | Nickel | `130.3` |
-| Radio 2 (V/UHF) | `10` | Mount Pleasant / 59X | `133.35` |
-| Radio 2 (V/UHF) | `11` | Goose Green | `126.0` |
-| Radio 2 (V/UHF) | `12` | Gull Point | `126.5` |
-| Radio 2 (V/UHF) | `13` | Punta Arenas | `118.7` |
-| Radio 2 (V/UHF) | `14` | Puerto Natales | `128.1` |
-| Radio 2 (V/UHF) | `15` | Puerto Williams | `118.5` |
-| Radio 2 (V/UHF) | `16` | Porvenir | `126.7` |
-| Radio 2 (V/UHF) | `17` | San Carlos FOB | `134.35` |
-| Radio 2 (V/UHF) | `18` | Almirante Schroeders | `118.25` |
+| Radio 1 (UHF) | `1` | Overlord 1 AWACS îles | `282.0` |
+| Radio 1 (UHF) | `2` | Magic 1 AWACS Chili | `283.0` |
+| Radio 1 (UHF) | `3` | Texaco 1/BS/50Y | `290.0` |
+| Radio 1 (UHF) | `4` | Arco 1/BM/51Y | `291.0` |
+| Radio 1 (UHF) | `5` | Texaco 2/BS/52Y | `292.0` |
+| Radio 1 (UHF) | `6` | Arco 2/BM/53Y | `293.0` |
+| Radio 1 (UHF) | `7` | S-3B Stennis/56Y | `296.0` |
+| Radio 1 (UHF) | `8` | S-3B Roosevelt/57Y | `297.0` |
+| Radio 1 (UHF) | `9` | Stennis/74X/ICLS11 | `305.0` |
+| Radio 1 (UHF) | `10` | Roosevelt/71X/ICLS12 | `306.0` |
+| Radio 1 (UHF) | `11` | Archer | `390.0` |
+| Radio 1 (UHF) | `12` | Arctic | `390.1` |
+| Radio 1 (UHF) | `13` | Astro | `390.2` |
+| Radio 1 (UHF) | `14` | Nickel | `390.3` |
+| Radio 2 (V/UHF) | `1` | Mount Pleasant / 59X | `133.35` |
+| Radio 2 (V/UHF) | `2` | Goose Green | `126.0` |
+| Radio 2 (V/UHF) | `3` | Gull Point | `126.5` |
+| Radio 2 (V/UHF) | `4` | Punta Arenas | `118.7` |
+| Radio 2 (V/UHF) | `5` | Puerto Natales | `128.1` |
+| Radio 2 (V/UHF) | `6` | Puerto Williams | `118.5` |
+| Radio 2 (V/UHF) | `7` | Porvenir | `126.7` |
+| Radio 2 (V/UHF) | `8` | San Carlos FOB | `134.35` |
+| Radio 2 (V/UHF) | `9` | Almirante Schroeders | `118.25` |
+| Radio 2 (V/UHF) | `10` | FARP Port Howard | `127.5` |
+| Radio 2 (V/UHF) | `11` | FARP Teal Inlet | `128.0` |
+| Radio 2 (V/UHF) | `12` | FARP Torres del Paine | `129.5` |
+| Radio 2 (V/UHF) | `13` | FARP Sombrero | `129.0` |
 
 ### Rouge
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Wizard 1 AWACS | `284.0` |
-| Radio 1 (UHF) | `3` | Shell 1 IL-78 | `294.0` |
-| Radio 1 (UHF) | `4` | Focus 1 Arène | `286.0` |
-| Radio 1 (UHF) | `5` | Port Stanley | `250.45` |
-| Radio 1 (UHF) | `6` | Rio Gallegos | `250.9` |
-| Radio 1 (UHF) | `7` | Rio Grande / 31X | `250.95` |
-| Radio 1 (UHF) | `8` | San Julian | `250.05` |
-| Radio 1 (UHF) | `9` | Comandante Luis Piedrabuena | `250.3` |
-| Radio 1 (UHF) | `10` | Puerto Santa Cruz | `250.25` |
-| Radio 1 (UHF) | `11` | Tolhuin | `250.35` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Berkut | `130.4` |
-| Radio 2 (V/UHF) | `3` | Sokol | `130.5` |
-| Radio 2 (V/UHF) | `4` | Strizh | `130.6` |
-| Radio 2 (V/UHF) | `5` | Vityaz | `130.7` |
-| Radio 2 (V/UHF) | `6` | Kobra | `130.8` |
-| Radio 2 (V/UHF) | `7` | Rus | `130.9` |
-| Radio 2 (V/UHF) | `8` | Port Stanley | `118.1` |
-| Radio 2 (V/UHF) | `9` | Rio Gallegos | `119.1` |
-| Radio 2 (V/UHF) | `10` | Rio Grande / 31X | `118.3` |
-| Radio 2 (V/UHF) | `11` | San Julian | `118.05` |
-| Radio 2 (V/UHF) | `12` | Comandante Luis Piedrabuena | `122.1` |
-| Radio 2 (V/UHF) | `13` | Puerto Santa Cruz | `118.6` |
-| Radio 2 (V/UHF) | `14` | Tolhuin | `118.15` |
+| Radio 1 (UHF) | `1` | Wizard 1 AWACS | `284.0` |
+| Radio 1 (UHF) | `2` | Shell 1 IL-78 | `294.0` |
+| Radio 1 (UHF) | `3` | Berkut | `395.0` |
+| Radio 1 (UHF) | `4` | Sokol | `395.1` |
+| Radio 1 (UHF) | `5` | Strizh | `395.2` |
+| Radio 1 (UHF) | `6` | Vityaz | `395.3` |
+| Radio 1 (UHF) | `7` | Kobra | `395.4` |
+| Radio 1 (UHF) | `8` | Rus | `395.5` |
+| Radio 2 (V/UHF) | `1` | Port Stanley | `118.1` |
+| Radio 2 (V/UHF) | `2` | Rio Gallegos | `119.1` |
+| Radio 2 (V/UHF) | `3` | Rio Grande / 31X | `118.3` |
+| Radio 2 (V/UHF) | `4` | San Julian | `118.05` |
+| Radio 2 (V/UHF) | `5` | Comandante Luis Piedrabuena | `122.1` |
+| Radio 2 (V/UHF) | `6` | Puerto Santa Cruz | `118.6` |
+| Radio 2 (V/UHF) | `7` | Tolhuin | `118.15` |
 
 Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz. Les canaux VEAF sont hors de la bande des tours des Falkland (UHF 250.0-251.1 plus 229.0, 234.5 et 235.0 ; FM 38.4-39.6 ; une partie de la VHF 118.0-134.35) ; patrouilles en VHF 130.0-130.9 et UHF 390-395.5. Les FARP Port Howard (127.5), Teal Inlet (128.0), Sombrero (129.0) et Torres del Paine (129.5, et non 128.5, qui est la tour de Franco Bianco) sont sur la radio 2 ; les balises touristiques sont en FM 30.0 à 38.0, sur les canaux FM 1 à 9.
 
