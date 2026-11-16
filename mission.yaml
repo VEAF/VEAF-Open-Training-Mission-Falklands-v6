@@ -419,7 +419,7 @@ modules:
         training: true
         includes:
           - combatZone_PortHoward_Easy
-        briefing: "Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm."
+        briefing: "Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm."
       - type: zone
         zone_name: combatZone_PortHoward_Hard
         friendly_name: H3 Hélico Port Howard — difficile
@@ -427,7 +427,7 @@ modules:
         training: true
         includes:
           - combatZone_PortHoward_Medium
-        briefing: "Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm."
+        briefing: "Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.\nPosition : bullseye 078°/323 nm (S51°45.261' W059°42.032'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm."
       - type: zone
         zone_name: combatZone_MountAdam_Easy
         friendly_name: A1 Attaque Mount Adam — facile

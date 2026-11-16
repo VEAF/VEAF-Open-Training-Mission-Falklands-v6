@@ -1,0 +1,107 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "combatZone_PortHoward_Hard-H3-1",
+   "new_name": "combatZone_PortHoward_Medium-H3-1",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "combatZone_PortHoward_Hard-H3-2",
+   "new_name": "combatZone_PortHoward_Medium-H3-2",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "combatZone_PortHoward_Hard-H3-3",
+   "new_name": "combatZone_PortHoward_Medium-H3-3",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "group_name": "combatZone_PortHoward_Hard-H3-4",
+   "new_name": "combatZone_PortHoward_Medium-H3-4",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-1",
+   "position": {
+    "x": 76767,
+    "y": -38977
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_PortHoward_Hard",
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#command=\"-sa15, country russia\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-1"
+    }
+   ],
+   "country_id": 0
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-2",
+   "position": {
+    "x": 77002,
+    "y": -39582
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_PortHoward_Hard",
+   "units": [
+    {
+     "type": "2S6 Tunguska",
+     "name": "#command=\"-sa19, country russia\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-2"
+    }
+   ],
+   "country_id": 0
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Falklands-v6",
+   "coalition": "red",
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-3",
+   "position": {
+    "x": 77470,
+    "y": -40032
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_PortHoward_Hard",
+   "units": [
+    {
+     "type": "Osa 9A33 ln",
+     "name": "#command=\"-sa8, country russia\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-3"
+    }
+   ],
+   "country_id": 0
+  }
+ }
+]

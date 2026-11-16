@@ -99,8 +99,8 @@ Sur la Falkland occidentale, à quelques minutes des bases britanniques et loin 
 `S51°45.261' W059°42.032'` · bullseye `078°/323 nm` · rayon 1.3 nm · menu F10 « Entraînement hélicoptères » · Arco 1 (panier, TACAN 51Y, 291.0) à 67 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 56 nm
 
 - **H1 Hélico Port Howard — facile** — Champ de tir hélicoptères de la Falkland occidentale, à 6 nm au sud-ouest du FARP Port Howard : cibles inertes (chars, blindés et camions immobiles, tir interdit).
-- **H2 Hélico Port Howard — moyen** — Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.
-- **H3 Hélico Port Howard — difficile** — Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.
+- **H2 Hélico Port Howard — moyen** — Champ de tir hélicoptères de la Falkland occidentale : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.
+- **H3 Hélico Port Howard — difficile** — Champ de tir hélicoptères de la Falkland occidentale, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.
 
 ### Attaque — Mount Adam (à l'ouest de la montagne)
 
