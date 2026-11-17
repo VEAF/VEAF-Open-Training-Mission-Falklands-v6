@@ -1,0 +1,186 @@
+{
+  "name": "porthoward-medium",
+  "title": "H2 Hélico Port Howard — moyen",
+  "heading_deg": 273.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3900.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortHoward_Medium",
+  "camera": {
+    "position": [
+      77667.92285621281,
+      2019.9999999999998,
+      -35828.917170339104
+    ],
+    "forward": [
+      0.045324267637740244,
+      -0.49999999999999994,
+      -0.8648385460668959
+    ],
+    "up": [
+      0.02616797812147197,
+      0.8660254037844387,
+      -0.49931476737728686
+    ],
+    "right": [
+      0.9986295347545738,
+      0.0,
+      0.052335956242943946
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 77844.6875,
+    "z": -39201.7875,
+    "alt_m": 70.0,
+    "lat": -51.7578325604753,
+    "lon": -59.70728779638292,
+    "dms": "S51°45'28.20\" W059°42'26.24\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-T-72B-2#10409",
+      "type": "T-72B",
+      "x": 78598.1,
+      "z": -38151.7,
+      "alt": 30.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-BMP-2-4#10408",
+      "type": "BMP-2",
+      "x": 77492.9,
+      "z": -38761.1,
+      "alt": 48.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Strela-10M3#10406",
+      "type": "Strela-10M3",
+      "x": 77929.3,
+      "z": -39675.9,
+      "alt": 63.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] ZSU-23-4 Shilka#10404",
+      "type": "ZSU-23-4 Shilka",
+      "x": 77912.8,
+      "z": -39488.8,
+      "alt": 57.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-T-72B-1#10403",
+      "type": "T-72B",
+      "x": 78885.6,
+      "z": -38764.5,
+      "alt": 63.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Red Manpad Squad#10402",
+      "type": "SA-18 Igla manpad",
+      "x": 77152.4,
+      "z": -39648.4,
+      "alt": 67.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Red Manpad Squad#10402",
+      "type": "Infantry AK",
+      "x": 77207.4,
+      "z": -39670.4,
+      "alt": 68.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Red Manpad Squad#10402",
+      "type": "Infantry AK",
+      "x": 77183.4,
+      "z": -39801.4,
+      "alt": 71.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Red Manpad Squad#10402",
+      "type": "Infantry AK",
+      "x": 77226.4,
+      "z": -39716.4,
+      "alt": 69.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Red Manpad Squad#10402",
+      "type": "UAZ-469",
+      "x": 77267.4,
+      "z": -39723.4,
+      "alt": 70.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-Ural-375-7#10401",
+      "type": "Ural-375",
+      "x": 78601.7,
+      "z": -38920.3,
+      "alt": 49.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-BMP-2-3#10400",
+      "type": "BMP-2",
+      "x": 78044.0,
+      "z": -38307.8,
+      "alt": 35.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-Ural-375-6#10399",
+      "type": "Ural-375",
+      "x": 78643.1,
+      "z": -39350.2,
+      "alt": 78.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Ural-375 ZU-23#10397",
+      "type": "Ural-375 ZU-23",
+      "x": 78355.4,
+      "z": -39779.4,
+      "alt": 116.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] Ural-375 ZU-23#10395",
+      "type": "Ural-375 ZU-23",
+      "x": 77043.8,
+      "z": -38200.5,
+      "alt": 174.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Medium [r] combatZone_PortHoward_Easy-Inert-BRDM-2-5#10394",
+      "type": "BRDM-2",
+      "x": 77971.3,
+      "z": -39268.4,
+      "alt": 53.5
+    }
+  ],
+  "image": "porthoward-medium.jpg",
+  "heading": 273,
+  "pitch": -30.0,
+  "x": 77667.92285621281,
+  "y": -35828.917170339104,
+  "altitude_m": 2020,
+  "order": 2
+}

@@ -1,0 +1,218 @@
+{
+  "name": "porthoward-hard",
+  "title": "H3 Hélico Port Howard — difficile",
+  "heading_deg": 273.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4300.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortHoward_Hard",
+  "camera": {
+    "position": [
+      77449.22064915772,
+      2223.5599999999995,
+      -35490.06925191235
+    ],
+    "forward": [
+      0.045324267637740244,
+      -0.49999999999999994,
+      -0.8648385460668959
+    ],
+    "up": [
+      0.02616797812147197,
+      0.8660254037844387,
+      -0.49931476737728686
+    ],
+    "right": [
+      0.9986295347545738,
+      0.0,
+      0.052335956242943946
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 77644.115,
+    "z": -39208.875,
+    "alt_m": 73.56,
+    "lat": -51.75963159471369,
+    "lon": -59.70749818284633,
+    "dms": "S51°45'34.67\" W059°42'26.99\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-T-72B-2#10427",
+      "type": "T-72B",
+      "x": 78589.9,
+      "z": -38142.7,
+      "alt": 30.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-BMP-2-4#10426",
+      "type": "BMP-2",
+      "x": 77429.5,
+      "z": -38750.0,
+      "alt": 50.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-BRDM-2-5#10425",
+      "type": "BRDM-2",
+      "x": 77949.1,
+      "z": -39246.7,
+      "alt": 54.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] ZSU-23-4 Shilka#10423",
+      "type": "ZSU-23-4 Shilka",
+      "x": 77736.0,
+      "z": -39497.8,
+      "alt": 65.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-T-72B-1#10422",
+      "type": "T-72B",
+      "x": 78832.5,
+      "z": -38753.1,
+      "alt": 56.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Red Manpad Squad#10421",
+      "type": "SA-18 Igla manpad",
+      "x": 77271.7,
+      "z": -39614.0,
+      "alt": 68.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Red Manpad Squad#10421",
+      "type": "SA-18 Igla manpad",
+      "x": 77214.7,
+      "z": -39687.0,
+      "alt": 69.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Red Manpad Squad#10421",
+      "type": "Infantry AK",
+      "x": 77294.7,
+      "z": -39707.0,
+      "alt": 70.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Red Manpad Squad#10421",
+      "type": "Infantry AK",
+      "x": 77139.7,
+      "z": -39746.0,
+      "alt": 69.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Red Manpad Squad#10421",
+      "type": "UAZ-469",
+      "x": 77200.7,
+      "z": -39656.0,
+      "alt": 68.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-Ural-375-7#10420",
+      "type": "Ural-375",
+      "x": 78571.1,
+      "z": -38947.9,
+      "alt": 49.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-BMP-2-3#10419",
+      "type": "BMP-2",
+      "x": 78022.4,
+      "z": -38321.6,
+      "alt": 35.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] combatZone_PortHoward_Easy-Inert-Ural-375-6#10418",
+      "type": "Ural-375",
+      "x": 78602.0,
+      "z": -39338.0,
+      "alt": 77.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] SA15#10417",
+      "type": "Tor 9A331",
+      "x": 76761.0,
+      "z": -38983.0,
+      "alt": 111.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] SA15#10417",
+      "type": "GAZ-66",
+      "x": 76774.0,
+      "z": -38962.0,
+      "alt": 114.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] SA19#10416",
+      "type": "2S6 Tunguska",
+      "x": 77066.7,
+      "z": -39616.2,
+      "alt": 63.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] SA19#10416",
+      "type": "Ural-375",
+      "x": 77091.7,
+      "z": -39592.2,
+      "alt": 64.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Ural-375 ZU-23#10414",
+      "type": "Ural-375 ZU-23",
+      "x": 77190.6,
+      "z": -38013.0,
+      "alt": 159.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Ural-375 ZU-23#10412",
+      "type": "Ural-375 ZU-23",
+      "x": 78293.3,
+      "z": -39958.4,
+      "alt": 129.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Hard [r] Strela-10M3#10410",
+      "type": "Strela-10M3",
+      "x": 77851.0,
+      "z": -39644.9,
+      "alt": 63.7
+    }
+  ],
+  "image": "porthoward-hard.jpg",
+  "heading": 273,
+  "pitch": -30.0,
+  "x": 77449.22064915772,
+  "y": -35490.06925191235,
+  "altitude_m": 2224,
+  "order": 3
+}

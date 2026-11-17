@@ -1,0 +1,114 @@
+{
+  "name": "porthoward-easy",
+  "title": "H1 Hélico Port Howard — facile",
+  "heading_deg": 273.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortHoward_Easy",
+  "camera": {
+    "position": [
+      78177.91404699902,
+      1350.542857142857,
+      -36541.07692308321
+    ],
+    "forward": [
+      0.045324267637740244,
+      -0.49999999999999994,
+      -0.8648385460668959
+    ],
+    "up": [
+      0.02616797812147197,
+      0.8660254037844387,
+      -0.49931476737728686
+    ],
+    "right": [
+      0.9986295347545738,
+      0.0,
+      0.052335956242943946
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 78295.75714285715,
+    "z": -38789.65714285714,
+    "alt_m": 50.542857142857144,
+    "lat": -51.753918670257676,
+    "lon": -59.701081420890596,
+    "dms": "S51°45'14.11\" W059°42'03.89\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:47",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-Ural-375-6#10598",
+      "type": "Ural-375",
+      "x": 78603.8,
+      "z": -39335.6,
+      "alt": 77.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-Ural-375-7#10597",
+      "type": "Ural-375",
+      "x": 78577.4,
+      "z": -38955.8,
+      "alt": 49.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-T-72B-2#10596",
+      "type": "T-72B",
+      "x": 78602.4,
+      "z": -38154.3,
+      "alt": 30.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-T-72B-1#10595",
+      "type": "T-72B",
+      "x": 78828.4,
+      "z": -38756.8,
+      "alt": 56.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-BMP-2-4#10594",
+      "type": "BMP-2",
+      "x": 77432.3,
+      "z": -38747.0,
+      "alt": 50.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-BRDM-2-5#10593",
+      "type": "BRDM-2",
+      "x": 77978.6,
+      "z": -39262.9,
+      "alt": 53.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortHoward_Easy [r] combatZone_PortHoward_Easy-Inert-BMP-2-3#10592",
+      "type": "BMP-2",
+      "x": 78047.4,
+      "z": -38315.2,
+      "alt": 36.0
+    }
+  ],
+  "image": "porthoward-easy.jpg",
+  "heading": 273,
+  "pitch": -30.0,
+  "x": 78177.91404699902,
+  "y": -36541.07692308321,
+  "altitude_m": 1351,
+  "order": 1
+}

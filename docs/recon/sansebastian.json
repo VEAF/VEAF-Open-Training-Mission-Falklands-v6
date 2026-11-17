@@ -1,0 +1,234 @@
+{
+  "name": "sansebastian",
+  "title": "Z03 Front de Terre de Feu — carrefour de San Sebastián",
+  "heading_deg": 256.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_SanSebastian",
+  "camera": {
+    "position": [
+      -99149.16007218021,
+      1983.5136363636361,
+      -629528.9707934374
+    ],
+    "forward": [
+      -0.20951050732099913,
+      -0.49999999999999994,
+      -0.8403007481384851
+    ],
+    "up": [
+      -0.12096094779983388,
+      0.8660254037844387,
+      -0.4851478631379982
+    ],
+    "right": [
+      0.9702957262759965,
+      0.0,
+      -0.24192189559966779
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -99945.3,
+    "z": -632722.1136363636,
+    "alt_m": 83.51363636363637,
+    "lat": -52.8181606881295,
+    "lon": -68.60125351055645,
+    "dms": "S52°49'05.38\" W068°36'04.51\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Ural-375 ZU-23#10515",
+      "type": "Ural-375 ZU-23",
+      "x": -99260.5,
+      "z": -631997.9,
+      "alt": 90.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Lance-roquettes#10514",
+      "type": "Grad-URAL",
+      "x": -100540.9,
+      "z": -633831.1,
+      "alt": 67.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Lance-roquettes#10514",
+      "type": "Grad-URAL",
+      "x": -100520.9,
+      "z": -633831.1,
+      "alt": 67.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Lance-roquettes#10514",
+      "type": "Grad-URAL",
+      "x": -100500.9,
+      "z": -633831.1,
+      "alt": 68.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Lance-roquettes#10514",
+      "type": "Grad-URAL",
+      "x": -100480.9,
+      "z": -633831.1,
+      "alt": 68.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10512",
+      "type": "BMP-2",
+      "x": -100137.0,
+      "z": -631791.2,
+      "alt": 82.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10512",
+      "type": "Ural-375 ZU-23",
+      "x": -99929.0,
+      "z": -631717.2,
+      "alt": 84.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10512",
+      "type": "VAB_Mephisto",
+      "x": -100072.0,
+      "z": -631639.2,
+      "alt": 82.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10512",
+      "type": "BMP-2",
+      "x": -99990.0,
+      "z": -631774.2,
+      "alt": 83.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10512",
+      "type": "BMP-1",
+      "x": -99972.0,
+      "z": -631646.2,
+      "alt": 83.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] SA8#10510",
+      "type": "Osa 9A33 ln",
+      "x": -100705.0,
+      "z": -632802.0,
+      "alt": 64.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] SA8#10510",
+      "type": "GAZ-66",
+      "x": -100704.0,
+      "z": -632821.0,
+      "alt": 65.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "CHAP_T64BV",
+      "x": -99427.5,
+      "z": -632986.6,
+      "alt": 95.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "Strela-1 9P31",
+      "x": -99340.5,
+      "z": -632868.6,
+      "alt": 95.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "T-72B",
+      "x": -99353.5,
+      "z": -632988.6,
+      "alt": 95.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "T-72B",
+      "x": -99300.5,
+      "z": -633039.6,
+      "alt": 96.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "T-72B",
+      "x": -99335.5,
+      "z": -632943.6,
+      "alt": 95.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "ZSU-23-4 Shilka",
+      "x": -99356.5,
+      "z": -632882.6,
+      "alt": 95.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_SanSebastian [r] Armored Platoon#10508",
+      "type": "BMP-3",
+      "x": -99429.5,
+      "z": -632874.6,
+      "alt": 95.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Static-Bunker-3#10509 #315",
+      "type": "Bunker",
+      "x": -100345.0,
+      "z": -632969.0,
+      "alt": 77.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Static-Bunker-2#10511 #314",
+      "type": "Bunker",
+      "x": -100360.0,
+      "z": -632215.0,
+      "alt": 89.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_SanSebastian [r] combatZone_SanSebastian-Static-Bunker-1#10513 #313",
+      "type": "Bunker",
+      "x": -99735.0,
+      "z": -632605.0,
+      "alt": 92.7
+    }
+  ],
+  "image": "sansebastian.jpg",
+  "heading": 256,
+  "pitch": -30.0,
+  "x": -99149.16007218021,
+  "y": -629528.9707934374,
+  "altitude_m": 1984,
+  "order": 12
+}

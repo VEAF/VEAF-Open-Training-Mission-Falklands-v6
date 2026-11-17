@@ -1,0 +1,114 @@
+{
+  "name": "convoiruta3",
+  "title": "Z08 Convoi — route 3, de Rio Gallegos vers Piedrabuena",
+  "heading_deg": 266.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiRuta3",
+  "camera": {
+    "position": [
+      23715.089384147355,
+      320.38571428571424,
+      -708420.8790857723
+    ],
+    "forward": [
+      -0.06041087834083495,
+      -0.49999999999999994,
+      -0.8639158094271043
+    ],
+    "up": [
+      -0.03487823687206278,
+      0.8660254037844387,
+      -0.49878202512991204
+    ],
+    "right": [
+      0.9975640502598242,
+      0.0,
+      -0.06975647374412558
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 23678.842857142856,
+    "z": -708939.2285714286,
+    "alt_m": 20.385714285714283,
+    "lat": -51.61842353755964,
+    "lon": -69.39522683402944,
+    "dms": "S51°37'06.32\" W069°23'42.82\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "T-72B",
+      "x": 23598.0,
+      "z": -708979.7,
+      "alt": 20.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "T-72B",
+      "x": 23638.9,
+      "z": -708934.4,
+      "alt": 20.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "BMP-2",
+      "x": 23663.0,
+      "z": -708932.1,
+      "alt": 20.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "BMP-2",
+      "x": 23683.0,
+      "z": -708932.1,
+      "alt": 20.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "Ural-375",
+      "x": 23703.0,
+      "z": -708932.1,
+      "alt": 20.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "Ural-375",
+      "x": 23723.0,
+      "z": -708932.1,
+      "alt": 20.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiRuta3 [r] combatZone_ConvoiRuta3-Convoi#10529",
+      "type": "Strela-10M3",
+      "x": 23743.0,
+      "z": -708932.1,
+      "alt": 20.3
+    }
+  ],
+  "image": "convoiruta3.jpg",
+  "heading": 266,
+  "pitch": -30.0,
+  "x": 23715.089384147355,
+  "y": -708420.8790857723,
+  "altitude_m": 320,
+  "order": 17
+}

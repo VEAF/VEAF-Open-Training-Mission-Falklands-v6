@@ -1,0 +1,98 @@
+{
+  "name": "convoitolhuin",
+  "title": "Z09 Convoi — route 3, de Rio Grande vers Tolhuin",
+  "heading_deg": 245.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiTolhuin",
+  "camera": {
+    "position": [
+      -199749.44110953758,
+      305.03999999999996,
+      -551393.3286596672
+    ],
+    "forward": [
+      -0.3659981507706666,
+      -0.49999999999999994,
+      -0.784885567221396
+    ],
+    "up": [
+      -0.21130913087034955,
+      0.8660254037844387,
+      -0.453153893518325
+    ],
+    "right": [
+      0.9063077870366502,
+      0.0,
+      -0.42261826174069916
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -199969.03999999998,
+    "z": -551864.26,
+    "alt_m": 5.04,
+    "lat": -53.81280688179603,
+    "lon": -67.642583859904,
+    "dms": "S53°48'46.10\" W067°38'33.30\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiTolhuin [r] combatZone_ConvoiTolhuin-Convoi#10530",
+      "type": "BTR-80",
+      "x": -200047.2,
+      "z": -551845.2,
+      "alt": 5.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiTolhuin [r] combatZone_ConvoiTolhuin-Convoi#10530",
+      "type": "ATZ-10",
+      "x": -199984.0,
+      "z": -551865.8,
+      "alt": 5.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiTolhuin [r] combatZone_ConvoiTolhuin-Convoi#10530",
+      "type": "ATZ-10",
+      "x": -199958.0,
+      "z": -551870.1,
+      "alt": 5.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiTolhuin [r] combatZone_ConvoiTolhuin-Convoi#10530",
+      "type": "ATZ-10",
+      "x": -199938.0,
+      "z": -551870.1,
+      "alt": 4.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiTolhuin [r] combatZone_ConvoiTolhuin-Convoi#10530",
+      "type": "Ural-375 ZU-23",
+      "x": -199918.0,
+      "z": -551870.1,
+      "alt": 4.6
+    }
+  ],
+  "image": "convoitolhuin.jpg",
+  "heading": 245,
+  "pitch": -30.0,
+  "x": -199749.44110953758,
+  "y": -551393.3286596672,
+  "altitude_m": 305,
+  "order": 18
+}

@@ -1,0 +1,82 @@
+{
+  "name": "blocusstanley",
+  "title": "Z16 Antinavire — corvettes devant Port Stanley",
+  "heading_deg": 75.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_BlocusStanley",
+  "camera": {
+    "position": [
+      95171.40770419104,
+      900.0666666666666,
+      123569.70398660528
+    ],
+    "forward": [
+      0.2241438680420134,
+      -0.49999999999999994,
+      0.8365163037378079
+    ],
+    "up": [
+      0.12940952255126034,
+      0.8660254037844387,
+      0.4829629131445341
+    ],
+    "right": [
+      -0.9659258262890683,
+      0.0,
+      0.25881904510252074
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 95574.86666666665,
+    "z": 125075.43333333333,
+    "alt_m": 0.06666666666666667,
+    "lat": -51.62914349654146,
+    "lon": -57.326000768917964,
+    "dms": "S51°37'44.92\" W057°19'33.60\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:45",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_BlocusStanley [r] combatZone_BlocusStanley-Frégates#10590",
+      "type": "NEUSTRASH",
+      "x": 94974.9,
+      "z": 125075.3,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BlocusStanley [r] combatZone_BlocusStanley-Frégates#10590",
+      "type": "REZKY",
+      "x": 95574.9,
+      "z": 125075.4,
+      "alt": 0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BlocusStanley [r] combatZone_BlocusStanley-Frégates#10590",
+      "type": "REZKY",
+      "x": 96174.8,
+      "z": 125075.6,
+      "alt": 0.1
+    }
+  ],
+  "image": "blocusstanley.jpg",
+  "heading": 75,
+  "pitch": -30.0,
+  "x": 95171.40770419104,
+  "y": 123569.70398660528,
+  "altitude_m": 900,
+  "order": 25
+}

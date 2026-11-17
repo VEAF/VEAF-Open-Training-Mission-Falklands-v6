@@ -1,0 +1,130 @@
+{
+  "name": "portsantacruz",
+  "title": "Z11 Frappe — port de Puerto Santa Cruz",
+  "heading_deg": 281.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1250.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortSantaCruz",
+  "camera": {
+    "position": [
+      210437.30987008332,
+      639.4333333333332,
+      -675524.5462915001
+    ],
+    "forward": [
+      0.16524543726667557,
+      -0.49999999999999994,
+      -0.8501140779110444
+    ],
+    "up": [
+      0.09540449768827254,
+      0.8660254037844387,
+      -0.4908135917238319
+    ],
+    "right": [
+      0.9816271834476639,
+      0.0,
+      0.1908089953765451
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 210643.86666666667,
+    "z": -676587.1888888889,
+    "alt_m": 14.433333333333334,
+    "lat": -50.02029769123786,
+    "lon": -68.51956716988525,
+    "dms": "S50°01'13.07\" W068°31'10.44\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortSantaCruz [r] Ural-375 ZU-23#10549",
+      "type": "Ural-375 ZU-23",
+      "x": 210241.3,
+      "z": -676672.4,
+      "alt": 13.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortSantaCruz [r] Ural-375 ZU-23#10547",
+      "type": "Ural-375 ZU-23",
+      "x": 210875.5,
+      "z": -676707.3,
+      "alt": 14.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Warehouse-2#10542 #360",
+      "type": "Warehouse",
+      "x": 210775.0,
+      "z": -676456.0,
+      "alt": 15.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Workshop-7#10543 #365",
+      "type": "Workshop A",
+      "x": 210750.0,
+      "z": -676759.0,
+      "alt": 18.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Tank-5#10544 #363",
+      "type": "Tank",
+      "x": 210483.0,
+      "z": -676468.0,
+      "alt": 13.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Warehouse-1#10545 #359",
+      "type": "Warehouse",
+      "x": 210805.0,
+      "z": -676554.0,
+      "alt": 14.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Electric-6#10546 #364",
+      "type": "Electric power box",
+      "x": 210615.0,
+      "z": -676733.0,
+      "alt": 13.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Warehouse-3#10551 #361",
+      "type": "Warehouse",
+      "x": 210675.0,
+      "z": -676479.0,
+      "alt": 13.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortSantaCruz [r] combatZone_PortSantaCruz-Static-Tank-4#10552 #362",
+      "type": "Tank",
+      "x": 210575.0,
+      "z": -676456.0,
+      "alt": 13.5
+    }
+  ],
+  "image": "portsantacruz.jpg",
+  "heading": 281,
+  "pitch": -30.0,
+  "x": 210437.30987008332,
+  "y": -675524.5462915001,
+  "altitude_m": 639,
+  "order": 20
+}

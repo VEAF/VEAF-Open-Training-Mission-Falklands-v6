@@ -1,0 +1,194 @@
+{
+  "name": "piedrabuena",
+  "title": "Z15 OCA — base aérienne de Piedrabuena",
+  "heading_deg": 280.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2950.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Piedrabuena",
+  "camera": {
+    "position": [
+      208130.7503400589,
+      1489.4235294117645,
+      -704276.0378307403
+    ],
+    "forward": [
+      0.150383733180435,
+      -0.49999999999999994,
+      -0.8528685319524434
+    ],
+    "up": [
+      0.08682408883346497,
+      0.8660254037844387,
+      -0.492403876506104
+    ],
+    "right": [
+      0.9848077530122081,
+      0.0,
+      0.17364817766692997
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 208574.38235294117,
+    "z": -706792.0,
+    "alt_m": 14.423529411764704,
+    "lat": -49.996213865634545,
+    "lon": -68.93678629105257,
+    "dms": "S49°59'46.37\" W068°56'12.43\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:45",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "Kub 1S91 str",
+      "x": 208557.0,
+      "z": -706253.0,
+      "alt": 8.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "Kub 2P25 ln",
+      "x": 208590.0,
+      "z": -706252.0,
+      "alt": 9.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "Kub 2P25 ln",
+      "x": 208546.0,
+      "z": -706304.0,
+      "alt": 8.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "Kub 2P25 ln",
+      "x": 208547.0,
+      "z": -706207.0,
+      "alt": 8.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "ZSU-23-4 Shilka",
+      "x": 208536.0,
+      "z": -706212.0,
+      "alt": 8.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "ATZ-5",
+      "x": 208555.0,
+      "z": -706269.0,
+      "alt": 8.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "ZIL-135",
+      "x": 208577.0,
+      "z": -706277.0,
+      "alt": 9.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "ZIL-135",
+      "x": 208519.0,
+      "z": -706231.0,
+      "alt": 8.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] SA6#10589",
+      "type": "Ural-375 PBU",
+      "x": 208535.0,
+      "z": -706289.0,
+      "alt": 8.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Piedrabuena [r] Ural-375 ZU-23#10583",
+      "type": "Ural-375 ZU-23",
+      "x": 208506.5,
+      "z": -707772.0,
+      "alt": 21.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-Mi-24V-4#10580 #398",
+      "type": "Mi-24V",
+      "x": 208727.0,
+      "z": -707483.0,
+      "alt": 23.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-IL-76MD-2#10581 #396",
+      "type": "IL-76MD",
+      "x": 208898.0,
+      "z": -707131.0,
+      "alt": 25.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-Mi-24V-3#10582 #397",
+      "type": "Mi-24V",
+      "x": 208666.0,
+      "z": -707478.0,
+      "alt": 22.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-IL-76MD-1#10585 #395",
+      "type": "IL-76MD",
+      "x": 208841.0,
+      "z": -707261.0,
+      "alt": 25.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-Hangar-6#10586 #400",
+      "type": "Hangar A",
+      "x": 208241.0,
+      "z": -707261.0,
+      "alt": 12.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-Fuel-7#10587 #401",
+      "type": "Fuel tank",
+      "x": 208165.0,
+      "z": -707398.0,
+      "alt": 12.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Piedrabuena [r] combatZone_Piedrabuena-Static-Mi-8MT-5#10588 #399",
+      "type": "Mi-8MT",
+      "x": 208758.0,
+      "z": -707386.0,
+      "alt": 23.8
+    }
+  ],
+  "image": "piedrabuena.jpg",
+  "heading": 280,
+  "pitch": -30.0,
+  "x": 208130.7503400589,
+  "y": -704276.0378307403,
+  "altitude_m": 1489,
+  "order": 24
+}

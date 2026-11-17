@@ -1,0 +1,170 @@
+{
+  "name": "mountkent",
+  "title": "Z04 SEAD — site SA-6 du Mount Kent",
+  "heading_deg": 56.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3650.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_MountKent",
+  "camera": {
+    "position": [
+      88313.295300921,
+      2220.1714285714284,
+      68569.81826538575
+    ],
+    "forward": [
+      0.48427526002164617,
+      -0.49999999999999994,
+      0.7179675985244509
+    ],
+    "up": [
+      0.27959645173537334,
+      0.8660254037844387,
+      0.4145187862775208
+    ],
+    "right": [
+      -0.8290375725550417,
+      0.0,
+      0.5591929034707468
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 90080.90000000001,
+    "z": 71190.4,
+    "alt_m": 395.1714285714285,
+    "lat": -51.673791845826905,
+    "lon": -58.10560292361977,
+    "dms": "S51°40'25.65\" W058°06'20.17\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:48",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] ZSU-23-4 Shilka#10610",
+      "type": "ZSU-23-4 Shilka",
+      "x": 89624.6,
+      "z": 70762.6,
+      "alt": 383.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Kub 1S91 str",
+      "x": 90128.0,
+      "z": 70865.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Kub 2P25 ln",
+      "x": 90161.0,
+      "z": 70861.0,
+      "alt": 437.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Kub 2P25 ln",
+      "x": 90131.0,
+      "z": 70852.0,
+      "alt": 437.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Kub 2P25 ln",
+      "x": 90140.0,
+      "z": 70925.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Kub 2P25 ln",
+      "x": 90072.0,
+      "z": 70873.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "ZSU-23-4 Shilka",
+      "x": 90086.0,
+      "z": 70907.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "ZSU-23-4 Shilka",
+      "x": 90087.0,
+      "z": 70854.0,
+      "alt": 438.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "ATZ-5",
+      "x": 90118.0,
+      "z": 70865.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "ZIL-135",
+      "x": 90153.0,
+      "z": 70849.0,
+      "alt": 437.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] SA6#10609",
+      "type": "Ural-375 PBU",
+      "x": 90074.0,
+      "z": 70882.0,
+      "alt": 438.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] Red EWR#10608",
+      "type": "55G6 EWR",
+      "x": 90138.0,
+      "z": 72385.0,
+      "alt": 255.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] Red EWR#10608",
+      "type": "SA-18 Igla manpad",
+      "x": 90119.0,
+      "z": 72412.0,
+      "alt": 251.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountKent [r] Red EWR#10608",
+      "type": "Ural-375 PBU",
+      "x": 90101.0,
+      "z": 72373.0,
+      "alt": 260.2
+    }
+  ],
+  "image": "mountkent.jpg",
+  "heading": 56,
+  "pitch": -30.0,
+  "x": 88313.295300921,
+  "y": 68569.81826538575,
+  "altitude_m": 2220,
+  "order": 13
+}

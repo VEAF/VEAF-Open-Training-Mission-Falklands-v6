@@ -1,0 +1,138 @@
+{
+  "name": "basenavaleushuaia",
+  "title": "Z12 Frappe — base navale d'Ushuaia",
+  "heading_deg": 238.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1200.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_BaseNavaleUshuaia",
+  "camera": {
+    "position": [
+      -316185.65174626315,
+      618.1799999999998,
+      -576687.312566117
+    ],
+    "forward": [
+      -0.45892354478071407,
+      -0.49999999999999994,
+      -0.7344311949024933
+    ],
+    "up": [
+      -0.26495963211660245,
+      0.8660254037844387,
+      -0.4240240480782129
+    ],
+    "right": [
+      0.848048096156426,
+      0.0,
+      -0.529919264233205
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -316736.36,
+    "z": -577568.63,
+    "alt_m": 18.18,
+    "lat": -54.807327784381634,
+    "lon": -68.30797759545244,
+    "dms": "S54°48'26.38\" W068°18'28.72\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_BaseNavaleUshuaia [r] ZSU-23-4 Shilka#10564",
+      "type": "ZSU-23-4 Shilka",
+      "x": -316667.3,
+      "z": -577211.3,
+      "alt": 7.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BaseNavaleUshuaia [r] Ural-375 ZU-23#10558",
+      "type": "Ural-375 ZU-23",
+      "x": -316993.1,
+      "z": -577689.0,
+      "alt": 5.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BaseNavaleUshuaia [r] Ural-375 ZU-23#10553",
+      "type": "Ural-375 ZU-23",
+      "x": -316340.2,
+      "z": -577521.0,
+      "alt": 47.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Warehouse-3#10555 #371",
+      "type": "Warehouse",
+      "x": -316763.0,
+      "z": -577380.0,
+      "alt": 9.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Comms-6#10556 #374",
+      "type": "Comms tower M",
+      "x": -316738.0,
+      "z": -577847.0,
+      "alt": 31.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Command-1#10557 #369",
+      "type": ".Command Center",
+      "x": -316738.0,
+      "z": -577597.0,
+      "alt": 16.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Warehouse-2#10560 #370",
+      "type": "Warehouse",
+      "x": -316738.0,
+      "z": -577397.0,
+      "alt": 11.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Fuel-4#10561 #372",
+      "type": "Fuel tank",
+      "x": -316888.0,
+      "z": -577597.0,
+      "alt": 8.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Fuel-5#10562 #373",
+      "type": "Fuel tank",
+      "x": -317020.0,
+      "z": -577700.0,
+      "alt": 1.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_BaseNavaleUshuaia [r] combatZone_BaseNavaleUshuaia-Static-Barracks-7#10563 #375",
+      "type": "Barracks 2",
+      "x": -316478.0,
+      "z": -577747.0,
+      "alt": 43.5
+    }
+  ],
+  "image": "basenavaleushuaia.jpg",
+  "heading": 238,
+  "pitch": -30.0,
+  "x": -316185.65174626315,
+  "y": -576687.312566117,
+  "altitude_m": 618,
+  "order": 21
+}

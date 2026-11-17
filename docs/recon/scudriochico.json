@@ -1,0 +1,138 @@
+{
+  "name": "scudriochico",
+  "title": "Z13 Frappe — base de missiles sol-sol de Rio Chico",
+  "heading_deg": 266.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1750.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ScudRioChico",
+  "camera": {
+    "position": [
+      19689.12903709646,
+      895.2699999999999,
+      -702620.1973335026
+    ],
+    "forward": [
+      -0.06041087834083495,
+      -0.49999999999999994,
+      -0.8639158094271043
+    ],
+    "up": [
+      -0.03487823687206278,
+      0.8660254037844387,
+      -0.49878202512991204
+    ],
+    "right": [
+      0.9975640502598242,
+      0.0,
+      -0.06975647374412558
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 19583.41,
+    "z": -704132.05,
+    "alt_m": 20.270000000000003,
+    "lat": -51.66165115774259,
+    "lon": -69.33731095485993,
+    "dms": "S51°39'41.94\" W069°20'14.32\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] SA15#10571",
+      "type": "Tor 9A331",
+      "x": 19055.0,
+      "z": -704283.0,
+      "alt": 21.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] SA15#10571",
+      "type": "GAZ-66",
+      "x": 19035.0,
+      "z": -704309.0,
+      "alt": 21.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Lanceurs#10568",
+      "type": "Scud_B",
+      "x": 19601.9,
+      "z": -704073.7,
+      "alt": 20.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Lanceurs#10568",
+      "type": "Scud_B",
+      "x": 19621.9,
+      "z": -704073.7,
+      "alt": 20.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Lanceurs#10568",
+      "type": "Scud_B",
+      "x": 19641.9,
+      "z": -704073.7,
+      "alt": 20.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Lanceurs#10568",
+      "type": "Ural-375",
+      "x": 19661.9,
+      "z": -704073.7,
+      "alt": 20.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Lanceurs#10568",
+      "type": "Ural-375",
+      "x": 19681.9,
+      "z": -704073.7,
+      "alt": 20.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ScudRioChico [r] ZSU-23-4 Shilka#10566",
+      "type": "ZSU-23-4 Shilka",
+      "x": 19870.6,
+      "z": -703659.0,
+      "alt": 19.6
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Static-Military-2#10569 #384",
+      "type": "Military staff",
+      "x": 19910.0,
+      "z": -704349.0,
+      "alt": 20.1
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_ScudRioChico [r] combatZone_ScudRioChico-Static-Bunker-1#10570 #383",
+      "type": "Bunker",
+      "x": 19754.0,
+      "z": -704352.0,
+      "alt": 20.3
+    }
+  ],
+  "image": "scudriochico.jpg",
+  "heading": 266,
+  "pitch": -30.0,
+  "x": 19689.12903709646,
+  "y": -702620.1973335026,
+  "altitude_m": 895,
+  "order": 22
+}

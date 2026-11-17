@@ -1,0 +1,194 @@
+{
+  "name": "riograndesam",
+  "title": "Z06 SEAD — site SA-11 de Rio Grande",
+  "heading_deg": 245.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_RioGrandeSAM",
+  "camera": {
+    "position": [
+      -206209.20702707148,
+      1926.4882352941174,
+      -550259.3760210293
+    ],
+    "forward": [
+      -0.3659981507706666,
+      -0.49999999999999994,
+      -0.784885567221396
+    ],
+    "up": [
+      -0.21130913087034955,
+      0.8660254037844387,
+      -0.453153893518325
+    ],
+    "right": [
+      0.9063077870366502,
+      0.0,
+      -0.42261826174069916
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -207600.0,
+    "z": -553241.9411764706,
+    "alt_m": 26.488235294117647,
+    "lat": -53.878360346823435,
+    "lon": -67.68048837162357,
+    "dms": "S53°52'42.10\" W067°40'49.76\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:48",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] Red EWR#10614",
+      "type": "55G6 EWR",
+      "x": -207522.0,
+      "z": -551972.0,
+      "alt": 14.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] Red EWR#10614",
+      "type": "SA-18 Igla manpad",
+      "x": -207541.0,
+      "z": -552004.0,
+      "alt": 15.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] Red EWR#10614",
+      "type": "Ural-375 PBU",
+      "x": -207520.0,
+      "z": -551996.0,
+      "alt": 14.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk SR 9S18M1",
+      "x": -207535.0,
+      "z": -553445.0,
+      "alt": 27.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk CC 9S470M1",
+      "x": -207529.0,
+      "z": -553504.0,
+      "alt": 28.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207476.0,
+      "z": -553546.0,
+      "alt": 28.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207470.0,
+      "z": -553462.0,
+      "alt": 27.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207483.0,
+      "z": -553427.0,
+      "alt": 27.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207584.0,
+      "z": -553424.0,
+      "alt": 28.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207602.0,
+      "z": -553482.0,
+      "alt": 29.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -207601.0,
+      "z": -553421.0,
+      "alt": 28.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "ZSU-23-4 Shilka",
+      "x": -207490.0,
+      "z": -553535.0,
+      "alt": 28.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "ZSU-23-4 Shilka",
+      "x": -207550.0,
+      "z": -553530.0,
+      "alt": 29.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "ATZ-5",
+      "x": -207514.0,
+      "z": -553522.0,
+      "alt": 28.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA11#10613",
+      "type": "Ural-375",
+      "x": -207578.0,
+      "z": -553463.0,
+      "alt": 28.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA15#10612",
+      "type": "Tor 9A331",
+      "x": -208098.0,
+      "z": -553679.0,
+      "alt": 32.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioGrandeSAM [r] SA15#10612",
+      "type": "GAZ-66",
+      "x": -208107.0,
+      "z": -553701.0,
+      "alt": 33.8
+    }
+  ],
+  "image": "riograndesam.jpg",
+  "heading": 245,
+  "pitch": -30.0,
+  "x": -206209.20702707148,
+  "y": -550259.3760210293,
+  "altitude_m": 1926,
+  "order": 15
+}

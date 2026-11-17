@@ -1,0 +1,138 @@
+{
+  "name": "portstephens-easy",
+  "title": "S1 SEAD Port Stephens — facile",
+  "heading_deg": 259.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortStephens_Easy",
+  "camera": {
+    "position": [
+      43850.94726236001,
+      350.8399999999999,
+      -106232.73155325338
+    ],
+    "forward": [
+      -0.16524543726667515,
+      -0.49999999999999994,
+      -0.8501140779110444
+    ],
+    "up": [
+      -0.09540449768827229,
+      0.8660254037844387,
+      -0.49081359172383193
+    ],
+    "right": [
+      0.981627183447664,
+      0.0,
+      -0.1908089953765446
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 43751.8,
+    "z": -106742.8,
+    "alt_m": 50.839999999999996,
+    "lat": -52.037143332906325,
+    "lon": -60.709173233172926,
+    "dms": "S52°02'13.72\" W060°42'33.02\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Kub 1S91 str",
+      "x": 43778.0,
+      "z": -106740.0,
+      "alt": 49.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Kub 2P25 ln",
+      "x": 43796.0,
+      "z": -106733.0,
+      "alt": 49.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Kub 2P25 ln",
+      "x": 43767.0,
+      "z": -106793.0,
+      "alt": 52.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Kub 2P25 ln",
+      "x": 43775.0,
+      "z": -106706.0,
+      "alt": 48.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Kub 2P25 ln",
+      "x": 43705.0,
+      "z": -106740.0,
+      "alt": 51.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "ZSU-23-4 Shilka",
+      "x": 43758.0,
+      "z": -106725.0,
+      "alt": 49.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "ZSU-23-4 Shilka",
+      "x": 43731.0,
+      "z": -106747.0,
+      "alt": 51.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "ATZ-5",
+      "x": 43728.0,
+      "z": -106702.0,
+      "alt": 49.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "ZIL-135",
+      "x": 43747.0,
+      "z": -106764.0,
+      "alt": 52.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Easy [r] SA6#10478",
+      "type": "Ural-375 PBU",
+      "x": 43733.0,
+      "z": -106778.0,
+      "alt": 53.3
+    }
+  ],
+  "image": "portstephens-easy.jpg",
+  "heading": 259,
+  "pitch": -30.0,
+  "x": 43850.94726236001,
+  "y": -106232.73155325338,
+  "altitude_m": 351,
+  "order": 7
+}

@@ -1,0 +1,210 @@
+{
+  "name": "rioturbio",
+  "title": "Z02 Front de Patagonie — frontière de Rio Turbio",
+  "heading_deg": 265.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4700.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_RioTurbio",
+  "camera": {
+    "position": [
+      -5248.916710718317,
+      2752.5736842105257,
+      -898235.0325542794
+    ],
+    "forward": [
+      -0.0754790873051734,
+      -0.49999999999999994,
+      -0.862729915662821
+    ],
+    "up": [
+      -0.04357787137382912,
+      0.8660254037844387,
+      -0.4980973490458727
+    ],
+    "right": [
+      0.9961946980917455,
+      0.0,
+      -0.08715574274765825
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -5603.668421052632,
+    "z": -902289.8631578947,
+    "alt_m": 402.5736842105263,
+    "lat": -51.5493701731544,
+    "lon": -72.18434644358938,
+    "dms": "S51°32'57.73\" W072°11'03.65\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:47",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] ZSU-23-4 Shilka#10606",
+      "type": "ZSU-23-4 Shilka",
+      "x": -5543.5,
+      "z": -901802.1,
+      "alt": 405.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "BTR-82A",
+      "x": -4887.4,
+      "z": -901937.1,
+      "alt": 452.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "Ural-375 ZU-23",
+      "x": -4940.4,
+      "z": -902033.1,
+      "alt": 447.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "BMP-2",
+      "x": -4984.4,
+      "z": -902043.1,
+      "alt": 443.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "BTR-82A",
+      "x": -4931.4,
+      "z": -902143.1,
+      "alt": 445.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "T-55",
+      "x": -4817.4,
+      "z": -901934.1,
+      "alt": 454.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10604",
+      "type": "T-55",
+      "x": -4845.4,
+      "z": -902009.1,
+      "alt": 454.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "VAB_Mephisto",
+      "x": -6280.5,
+      "z": -901814.4,
+      "alt": 383.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "BMP-2",
+      "x": -6328.5,
+      "z": -901860.4,
+      "alt": 380.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "BMP-2",
+      "x": -6300.5,
+      "z": -901975.4,
+      "alt": 375.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "T-55",
+      "x": -6185.5,
+      "z": -901924.4,
+      "alt": 380.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "T-55",
+      "x": -6368.5,
+      "z": -901905.4,
+      "alt": 377.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Armored Platoon#10603",
+      "type": "BMP-2",
+      "x": -6240.5,
+      "z": -901873.4,
+      "alt": 381.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] Strela-10M3#10600",
+      "type": "Strela-10M3",
+      "x": -5472.8,
+      "z": -903121.6,
+      "alt": 373.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] combatZone_RioTurbio-Artillerie#10599",
+      "type": "SAU Msta",
+      "x": -6585.0,
+      "z": -903033.9,
+      "alt": 330.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] combatZone_RioTurbio-Artillerie#10599",
+      "type": "SAU Msta",
+      "x": -6565.0,
+      "z": -903033.9,
+      "alt": 329.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_RioTurbio [r] combatZone_RioTurbio-Artillerie#10599",
+      "type": "SAU Msta",
+      "x": -6545.0,
+      "z": -903033.9,
+      "alt": 328.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RioTurbio [r] combatZone_RioTurbio-Static-Barracks-2#10602 #304",
+      "type": "Barracks 2",
+      "x": -4182.0,
+      "z": -902946.0,
+      "alt": 458.2
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_RioTurbio [r] combatZone_RioTurbio-Static-Barracks-1#10605 #303",
+      "type": "Barracks 2",
+      "x": -4466.0,
+      "z": -903083.0,
+      "alt": 446.0
+    }
+  ],
+  "image": "rioturbio.jpg",
+  "heading": 265,
+  "pitch": -30.0,
+  "x": -5248.916710718317,
+  "y": -898235.0325542794,
+  "altitude_m": 2753,
+  "order": 11
+}

@@ -1,0 +1,82 @@
+{
+  "name": "detroitlemaire",
+  "title": "Z17 Antinavire — escadre du détroit de Le Maire",
+  "heading_deg": 229.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_DetroitLeMaire",
+  "camera": {
+    "position": [
+      -283311.5718527884,
+      900.0666666666666,
+      -358779.6908625523
+    ],
+    "forward": [
+      -0.5681637854879309,
+      -0.49999999999999994,
+      -0.6535976689524103
+    ],
+    "up": [
+      -0.3280295144952536,
+      0.8660254037844387,
+      -0.37735479011138595
+    ],
+    "right": [
+      0.754709580222772,
+      0.0,
+      -0.6560590289905073
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -284334.26666666666,
+    "z": -359956.1666666667,
+    "alt_m": 0.06666666666666667,
+    "lat": -54.78690212612464,
+    "lon": -64.9017582086216,
+    "dms": "S54°47'12.85\" W064°54'06.33\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:45",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_DetroitLeMaire [r] combatZone_DetroitLeMaire-Escadre#10591",
+      "type": "MOSCOW",
+      "x": -284934.4,
+      "z": -359956.3,
+      "alt": 0.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DetroitLeMaire [r] combatZone_DetroitLeMaire-Escadre#10591",
+      "type": "NEUSTRASH",
+      "x": -284334.2,
+      "z": -359956.1,
+      "alt": 0.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_DetroitLeMaire [r] combatZone_DetroitLeMaire-Escadre#10591",
+      "type": "REZKY",
+      "x": -283734.2,
+      "z": -359956.1,
+      "alt": -0.1
+    }
+  ],
+  "image": "detroitlemaire.jpg",
+  "heading": 229,
+  "pitch": -30.0,
+  "x": -283311.5718527884,
+  "y": -358779.6908625523,
+  "altitude_m": 900,
+  "order": 26
+}

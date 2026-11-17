@@ -1,0 +1,306 @@
+{
+  "name": "mountadam-hard",
+  "title": "A3 Attaque Mount Adam — difficile",
+  "heading_deg": 280.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5350.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_MountAdam_Hard",
+  "camera": {
+    "position": [
+      94228.93735006532,
+      2761.545161290322,
+      -70035.92432179637
+    ],
+    "forward": [
+      0.150383733180435,
+      -0.49999999999999994,
+      -0.8528685319524434
+    ],
+    "up": [
+      0.08682408883346497,
+      0.8660254037844387,
+      -0.492403876506104
+    ],
+    "right": [
+      0.9848077530122081,
+      0.0,
+      0.17364817766692997
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 95033.49032258065,
+    "z": -74598.77096774193,
+    "alt_m": 86.54516129032258,
+    "lat": -51.59060182498386,
+    "lon": -60.208446479582754,
+    "dms": "S51°35'26.17\" W060°12'30.41\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-BMP-2-5#10477",
+      "type": "BMP-2",
+      "x": 94757.2,
+      "z": -73836.4,
+      "alt": 47.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "Ural-375 ZU-23",
+      "x": 95213.4,
+      "z": -75566.0,
+      "alt": 126.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "BMP-3",
+      "x": 95126.4,
+      "z": -75640.0,
+      "alt": 135.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "T-72B",
+      "x": 95197.4,
+      "z": -75595.0,
+      "alt": 128.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "Chieftain_mk3",
+      "x": 95130.4,
+      "z": -75467.0,
+      "alt": 120.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "CHAP_T64BV",
+      "x": 95128.4,
+      "z": -75417.0,
+      "alt": 117.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "CHAP_T64BV",
+      "x": 95084.4,
+      "z": -75617.0,
+      "alt": 137.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "CHAP_BMPT",
+      "x": 94971.4,
+      "z": -75630.0,
+      "alt": 143.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10476",
+      "type": "Chieftain_mk3",
+      "x": 95024.4,
+      "z": -75510.0,
+      "alt": 127.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BMP-1",
+      "x": 94242.3,
+      "z": -74893.0,
+      "alt": 102.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BMP-1",
+      "x": 94436.3,
+      "z": -74921.0,
+      "alt": 100.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BMP-2",
+      "x": 94268.3,
+      "z": -74877.0,
+      "alt": 102.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BMP-1",
+      "x": 94301.3,
+      "z": -74927.0,
+      "alt": 103.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BMP-2",
+      "x": 94367.3,
+      "z": -74907.0,
+      "alt": 101.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BTR-82A",
+      "x": 94369.3,
+      "z": -74741.0,
+      "alt": 98.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Armored Platoon#10475",
+      "type": "BTR-82A",
+      "x": 94306.3,
+      "z": -74807.0,
+      "alt": 100.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-BTR-80-6#10474",
+      "type": "BTR-80",
+      "x": 94630.3,
+      "z": -74227.6,
+      "alt": 61.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-T-72B-1#10473",
+      "type": "T-72B",
+      "x": 95970.5,
+      "z": -73992.7,
+      "alt": 45.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-KAMAZ-10#10472",
+      "type": "KAMAZ Truck",
+      "x": 95623.7,
+      "z": -74100.3,
+      "alt": 44.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] ZSU-23-4 Shilka#10470",
+      "type": "ZSU-23-4 Shilka",
+      "x": 95078.8,
+      "z": -74849.3,
+      "alt": 69.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-BTR-80-7#10469",
+      "type": "BTR-80",
+      "x": 94838.8,
+      "z": -74780.4,
+      "alt": 76.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-Ural-375-8#10465",
+      "type": "Ural-375",
+      "x": 95390.0,
+      "z": -74588.6,
+      "alt": 51.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Strela-10M3#10463",
+      "type": "Strela-10M3",
+      "x": 94128.1,
+      "z": -74358.3,
+      "alt": 111.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-BMP-2-4#10462",
+      "type": "BMP-2",
+      "x": 94895.6,
+      "z": -73307.8,
+      "alt": 44.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-T-72B-2#10461",
+      "type": "T-72B",
+      "x": 95914.8,
+      "z": -73423.5,
+      "alt": 49.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] Ural-375 ZU-23#10459",
+      "type": "Ural-375 ZU-23",
+      "x": 96010.3,
+      "z": -75347.8,
+      "alt": 85.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-Ural-375-9#10458",
+      "type": "Ural-375",
+      "x": 95865.2,
+      "z": -74492.9,
+      "alt": 50.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Inert-T-72B-3#10457",
+      "type": "T-72B",
+      "x": 95396.6,
+      "z": -73397.3,
+      "alt": 44.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Static-Command-3#10466 #265",
+      "type": ".Command Center",
+      "x": 96472.0,
+      "z": -73555.0,
+      "alt": 62.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Static-Fuel-2#10467 #264",
+      "type": "Fuel tank",
+      "x": 94840.0,
+      "z": -72872.0,
+      "alt": 45.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_MountAdam_Hard [r] combatZone_MountAdam_Easy-Static-Fuel-1#10468 #263",
+      "type": "Fuel tank",
+      "x": 95059.0,
+      "z": -72917.0,
+      "alt": 46.2
+    }
+  ],
+  "image": "mountadam-hard.jpg",
+  "heading": 280,
+  "pitch": -30.0,
+  "x": 94228.93735006532,
+  "y": -70035.92432179637,
+  "altitude_m": 2762,
+  "order": 6
+}
