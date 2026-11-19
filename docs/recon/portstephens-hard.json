@@ -1,0 +1,194 @@
+{
+  "name": "portstephens-hard",
+  "title": "S3 SEAD Port Stephens — difficile",
+  "heading_deg": 259.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5850.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortStephens_Hard",
+  "camera": {
+    "position": [
+      44692.50933742181,
+      2971.8529411764703,
+      -101484.4208795145
+    ],
+    "forward": [
+      -0.16524543726667515,
+      -0.49999999999999994,
+      -0.8501140779110444
+    ],
+    "up": [
+      -0.09540449768827229,
+      0.8660254037844387,
+      -0.49081359172383193
+    ],
+    "right": [
+      0.981627183447664,
+      0.0,
+      -0.1908089953765446
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 43725.82352941176,
+    "z": -106457.58823529411,
+    "alt_m": 46.85294117647059,
+    "lat": -52.037507113263175,
+    "lon": -60.705043242490774,
+    "dms": "S52°02'15.03\" W060°42'18.16\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] Red EWR#10485",
+      "type": "55G6 EWR",
+      "x": 42656.0,
+      "z": -104850.0,
+      "alt": 6.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] Red EWR#10485",
+      "type": "SA-18 Igla manpad",
+      "x": 42632.0,
+      "z": -104861.0,
+      "alt": 11.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] Red EWR#10485",
+      "type": "Ural-375 PBU",
+      "x": 42671.0,
+      "z": -104819.0,
+      "alt": 11.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA15#10484",
+      "type": "Tor 9A331",
+      "x": 44798.0,
+      "z": -105697.0,
+      "alt": 41.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA15#10484",
+      "type": "GAZ-66",
+      "x": 44828.0,
+      "z": -105690.0,
+      "alt": 39.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA15#10483",
+      "type": "Tor 9A331",
+      "x": 44123.0,
+      "z": -108206.0,
+      "alt": 89.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA15#10483",
+      "type": "GAZ-66",
+      "x": 44142.0,
+      "z": -108206.0,
+      "alt": 87.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Kub 1S91 str",
+      "x": 43759.0,
+      "z": -106753.0,
+      "alt": 51.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Kub 2P25 ln",
+      "x": 43805.0,
+      "z": -106746.0,
+      "alt": 49.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Kub 2P25 ln",
+      "x": 43755.0,
+      "z": -106793.0,
+      "alt": 53.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Kub 2P25 ln",
+      "x": 43757.0,
+      "z": -106705.0,
+      "alt": 49.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Kub 2P25 ln",
+      "x": 43694.0,
+      "z": -106754.0,
+      "alt": 52.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "ZSU-23-4 Shilka",
+      "x": 43782.0,
+      "z": -106772.0,
+      "alt": 51.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "ZSU-23-4 Shilka",
+      "x": 43723.0,
+      "z": -106727.0,
+      "alt": 51.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "ATZ-5",
+      "x": 43734.0,
+      "z": -106730.0,
+      "alt": 50.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "ZIL-135",
+      "x": 43694.0,
+      "z": -106768.0,
+      "alt": 53.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStephens_Hard [r] SA6#10482",
+      "type": "Ural-375 PBU",
+      "x": 43786.0,
+      "z": -106702.0,
+      "alt": 48.7
+    }
+  ],
+  "image": "portstephens-hard.jpg",
+  "heading": 259,
+  "pitch": -30.0,
+  "x": 44692.50933742181,
+  "y": -101484.4208795145,
+  "altitude_m": 2972,
+  "order": 9
+}

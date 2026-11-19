@@ -1,0 +1,114 @@
+{
+  "name": "convoistanley",
+  "title": "Z07 Convoi — Stanley vers Fitzroy",
+  "heading_deg": 71.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ConvoiStanley",
+  "camera": {
+    "position": [
+      87438.27268168899,
+      347.1714285714285,
+      86356.59413626856
+    ],
+    "forward": [
+      0.2819502924231137,
+      -0.49999999999999994,
+      0.8188431062190856
+    ],
+    "up": [
+      0.16278407722857835,
+      0.8660254037844387,
+      0.4727592877996583
+    ],
+    "right": [
+      -0.9455185755993167,
+      0.0,
+      0.32556815445715676
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 87607.44285714286,
+    "z": 86847.90000000001,
+    "alt_m": 47.17142857142857,
+    "lat": -51.69794205846834,
+    "lon": -57.87962976905655,
+    "dms": "S51°41'52.59\" W057°52'46.67\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "BTR-80",
+      "x": 87530.0,
+      "z": 86844.6,
+      "alt": 53.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Ural-375",
+      "x": 87569.6,
+      "z": 86847.2,
+      "alt": 50.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Ural-375",
+      "x": 87590.5,
+      "z": 86848.7,
+      "alt": 48.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Ural-375",
+      "x": 87610.5,
+      "z": 86848.7,
+      "alt": 47.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Ural-375",
+      "x": 87630.5,
+      "z": 86848.7,
+      "alt": 45.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Ural-375 ZU-23",
+      "x": 87650.5,
+      "z": 86848.7,
+      "alt": 43.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ConvoiStanley [r] combatZone_ConvoiStanley-Convoi#10528",
+      "type": "Strela-1 9P31",
+      "x": 87670.5,
+      "z": 86848.7,
+      "alt": 41.9
+    }
+  ],
+  "image": "convoistanley.jpg",
+  "heading": 71,
+  "pitch": -30.0,
+  "x": 87438.27268168899,
+  "y": 86356.59413626856,
+  "altitude_m": 347,
+  "order": 16
+}

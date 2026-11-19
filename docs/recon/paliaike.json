@@ -1,0 +1,186 @@
+{
+  "name": "paliaike",
+  "title": "Z05 SEAD — site SA-11 de Pali Aike",
+  "heading_deg": 263.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PaliAike",
+  "camera": {
+    "position": [
+      -20771.51165800584,
+      1579.9499999999998,
+      -723545.5769547503
+    ],
+    "forward": [
+      -0.105541947331387,
+      -0.49999999999999994,
+      -0.8595701817498667
+    ],
+    "up": [
+      -0.06093467170257358,
+      0.8660254037844387,
+      -0.496273075820661
+    ],
+    "right": [
+      0.9925461516413221,
+      0.0,
+      -0.12186934340514717
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -21088.1375,
+    "z": -726124.2875,
+    "alt_m": 79.95,
+    "lat": -51.98484275093963,
+    "lon": -69.7495363852135,
+    "dms": "S51°59'05.43\" W069°44'58.33\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:40",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] Red EWR#10524",
+      "type": "55G6 EWR",
+      "x": -22071.0,
+      "z": -726141.0,
+      "alt": 102.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] Red EWR#10524",
+      "type": "SA-18 Igla manpad",
+      "x": -22096.0,
+      "z": -726118.0,
+      "alt": 102.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] Red EWR#10524",
+      "type": "Ural-375 PBU",
+      "x": -22063.0,
+      "z": -726092.0,
+      "alt": 102.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk SR 9S18M1",
+      "x": -20873.0,
+      "z": -726100.0,
+      "alt": 74.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk CC 9S470M1",
+      "x": -20885.0,
+      "z": -726167.0,
+      "alt": 74.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20838.0,
+      "z": -726182.0,
+      "alt": 73.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20835.0,
+      "z": -726131.0,
+      "alt": 74.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20831.0,
+      "z": -726040.0,
+      "alt": 74.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20894.0,
+      "z": -726047.0,
+      "alt": 75.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20914.0,
+      "z": -726144.0,
+      "alt": 74.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": -20926.0,
+      "z": -726038.0,
+      "alt": 75.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "ZSU-23-4 Shilka",
+      "x": -20859.0,
+      "z": -726068.0,
+      "alt": 74.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "ZSU-23-4 Shilka",
+      "x": -20911.0,
+      "z": -726084.0,
+      "alt": 75.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "ATZ-5",
+      "x": -20873.0,
+      "z": -726052.0,
+      "alt": 75.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] SA11#10523",
+      "type": "Ural-375",
+      "x": -20923.0,
+      "z": -726186.0,
+      "alt": 74.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PaliAike [r] ZSU-23-4 Shilka#10521",
+      "type": "ZSU-23-4 Shilka",
+      "x": -20618.2,
+      "z": -726398.6,
+      "alt": 73.5
+    }
+  ],
+  "image": "paliaike.jpg",
+  "heading": 263,
+  "pitch": -30.0,
+  "x": -20771.51165800584,
+  "y": -723545.5769547503,
+  "altitude_m": 1580,
+  "order": 14
+}

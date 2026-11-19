@@ -1,0 +1,218 @@
+{
+  "name": "cretesstanley",
+  "title": "Z01 Front des îles — crêtes de Mount Longdon et Wireless Ridge",
+  "heading_deg": 65.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_CretesStanley",
+  "camera": {
+    "position": [
+      88611.55841399347,
+      2346.6699999999996,
+      78379.00066914265
+    ],
+    "forward": [
+      0.36599815077066683,
+      -0.49999999999999994,
+      0.7848855672213958
+    ],
+    "up": [
+      0.2113091308703497,
+      0.8660254037844387,
+      0.4531538935183249
+    ],
+    "right": [
+      -0.9063077870366499,
+      0.0,
+      0.42261826174069944
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 90276.85,
+    "z": 81950.23000000001,
+    "alt_m": 71.67,
+    "lat": -51.673391646060615,
+    "lon": -57.94998391636357,
+    "dms": "S51°40'24.21\" W057°56'59.94\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Ural-375 ZU-23#10497",
+      "type": "Ural-375 ZU-23",
+      "x": 90618.8,
+      "z": 80480.8,
+      "alt": 116.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Strela-10M3#10495",
+      "type": "Strela-10M3",
+      "x": 89697.8,
+      "z": 80909.0,
+      "alt": 81.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] combatZone_CretesStanley-Artillerie#10493",
+      "type": "SAU Msta",
+      "x": 90094.2,
+      "z": 82719.8,
+      "alt": 69.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] combatZone_CretesStanley-Artillerie#10493",
+      "type": "SAU Msta",
+      "x": 90114.2,
+      "z": 82719.8,
+      "alt": 68.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] combatZone_CretesStanley-Artillerie#10493",
+      "type": "SAU Msta",
+      "x": 90134.2,
+      "z": 82719.8,
+      "alt": 68.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "BMP-1",
+      "x": 90787.4,
+      "z": 81474.6,
+      "alt": 69.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": 90931.4,
+      "z": 81455.6,
+      "alt": 65.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "BMP-1",
+      "x": 90898.4,
+      "z": 81555.6,
+      "alt": 67.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "BMP-1",
+      "x": 90870.4,
+      "z": 81381.6,
+      "alt": 67.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "ZSU_57_2",
+      "x": 90773.4,
+      "z": 81534.6,
+      "alt": 70.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "VAB_Mephisto",
+      "x": 90849.4,
+      "z": 81395.6,
+      "alt": 68.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10492",
+      "type": "BMP-2",
+      "x": 90984.4,
+      "z": 81478.6,
+      "alt": 62.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "BTR-82A",
+      "x": 89602.5,
+      "z": 82118.7,
+      "alt": 80.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": 89455.5,
+      "z": 82245.7,
+      "alt": 53.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "BMP-2",
+      "x": 89553.5,
+      "z": 82219.7,
+      "alt": 70.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": 89496.5,
+      "z": 82357.7,
+      "alt": 60.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "VAB_Mephisto",
+      "x": 89596.5,
+      "z": 82173.7,
+      "alt": 79.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CretesStanley [r] Armored Platoon#10491",
+      "type": "ZSU_57_2",
+      "x": 89595.5,
+      "z": 82325.7,
+      "alt": 76.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CretesStanley [r] combatZone_CretesStanley-Static-Fuel-2#10490 #295",
+      "type": "Fuel tank",
+      "x": 90657.0,
+      "z": 83018.0,
+      "alt": 77.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_CretesStanley [r] combatZone_CretesStanley-Static-Command-1#10494 #294",
+      "type": ".Command Center",
+      "x": 90826.0,
+      "z": 82720.0,
+      "alt": 59.7
+    }
+  ],
+  "image": "cretesstanley.jpg",
+  "heading": 65,
+  "pitch": -30.0,
+  "x": 88611.55841399347,
+  "y": 78379.00066914265,
+  "altitude_m": 2347,
+  "order": 10
+}

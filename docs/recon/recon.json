@@ -1,0 +1,161 @@
+{
+  "operation": "Open Training Falklands",
+  "shots": [
+    {
+      "name": "porthoward-easy",
+      "title": "H1 Hélico Port Howard — facile",
+      "image": "porthoward-easy.jpg",
+      "metadata": "porthoward-easy.json"
+    },
+    {
+      "name": "porthoward-medium",
+      "title": "H2 Hélico Port Howard — moyen",
+      "image": "porthoward-medium.jpg",
+      "metadata": "porthoward-medium.json"
+    },
+    {
+      "name": "porthoward-hard",
+      "title": "H3 Hélico Port Howard — difficile",
+      "image": "porthoward-hard.jpg",
+      "metadata": "porthoward-hard.json"
+    },
+    {
+      "name": "mountadam-easy",
+      "title": "A1 Attaque Mount Adam — facile",
+      "image": "mountadam-easy.jpg",
+      "metadata": "mountadam-easy.json"
+    },
+    {
+      "name": "mountadam-medium",
+      "title": "A2 Attaque Mount Adam — moyen",
+      "image": "mountadam-medium.jpg",
+      "metadata": "mountadam-medium.json"
+    },
+    {
+      "name": "mountadam-hard",
+      "title": "A3 Attaque Mount Adam — difficile",
+      "image": "mountadam-hard.jpg",
+      "metadata": "mountadam-hard.json"
+    },
+    {
+      "name": "portstephens-easy",
+      "title": "S1 SEAD Port Stephens — facile",
+      "image": "portstephens-easy.jpg",
+      "metadata": "portstephens-easy.json"
+    },
+    {
+      "name": "portstephens-medium",
+      "title": "S2 SEAD Port Stephens — moyen",
+      "image": "portstephens-medium.jpg",
+      "metadata": "portstephens-medium.json"
+    },
+    {
+      "name": "portstephens-hard",
+      "title": "S3 SEAD Port Stephens — difficile",
+      "image": "portstephens-hard.jpg",
+      "metadata": "portstephens-hard.json"
+    },
+    {
+      "name": "cretesstanley",
+      "title": "Z01 Front des îles — crêtes de Mount Longdon et Wireless Ridge",
+      "image": "cretesstanley.jpg",
+      "metadata": "cretesstanley.json"
+    },
+    {
+      "name": "rioturbio",
+      "title": "Z02 Front de Patagonie — frontière de Rio Turbio",
+      "image": "rioturbio.jpg",
+      "metadata": "rioturbio.json"
+    },
+    {
+      "name": "sansebastian",
+      "title": "Z03 Front de Terre de Feu — carrefour de San Sebastián",
+      "image": "sansebastian.jpg",
+      "metadata": "sansebastian.json"
+    },
+    {
+      "name": "mountkent",
+      "title": "Z04 SEAD — site SA-6 du Mount Kent",
+      "image": "mountkent.jpg",
+      "metadata": "mountkent.json"
+    },
+    {
+      "name": "paliaike",
+      "title": "Z05 SEAD — site SA-11 de Pali Aike",
+      "image": "paliaike.jpg",
+      "metadata": "paliaike.json"
+    },
+    {
+      "name": "riograndesam",
+      "title": "Z06 SEAD — site SA-11 de Rio Grande",
+      "image": "riograndesam.jpg",
+      "metadata": "riograndesam.json"
+    },
+    {
+      "name": "convoistanley",
+      "title": "Z07 Convoi — Stanley vers Fitzroy",
+      "image": "convoistanley.jpg",
+      "metadata": "convoistanley.json"
+    },
+    {
+      "name": "convoiruta3",
+      "title": "Z08 Convoi — route 3, de Rio Gallegos vers Piedrabuena",
+      "image": "convoiruta3.jpg",
+      "metadata": "convoiruta3.json"
+    },
+    {
+      "name": "convoitolhuin",
+      "title": "Z09 Convoi — route 3, de Rio Grande vers Tolhuin",
+      "image": "convoitolhuin.jpg",
+      "metadata": "convoitolhuin.json"
+    },
+    {
+      "name": "etatmajorgallegos",
+      "title": "Z10 Frappe — état-major de Rio Gallegos",
+      "image": "etatmajorgallegos.jpg",
+      "metadata": "etatmajorgallegos.json"
+    },
+    {
+      "name": "portsantacruz",
+      "title": "Z11 Frappe — port de Puerto Santa Cruz",
+      "image": "portsantacruz.jpg",
+      "metadata": "portsantacruz.json"
+    },
+    {
+      "name": "basenavaleushuaia",
+      "title": "Z12 Frappe — base navale d'Ushuaia",
+      "image": "basenavaleushuaia.jpg",
+      "metadata": "basenavaleushuaia.json"
+    },
+    {
+      "name": "scudriochico",
+      "title": "Z13 Frappe — base de missiles sol-sol de Rio Chico",
+      "image": "scudriochico.jpg",
+      "metadata": "scudriochico.json"
+    },
+    {
+      "name": "portstanley",
+      "title": "Z14 OCA — base aérienne de Port Stanley",
+      "image": "portstanley.jpg",
+      "metadata": "portstanley.json"
+    },
+    {
+      "name": "piedrabuena",
+      "title": "Z15 OCA — base aérienne de Piedrabuena",
+      "image": "piedrabuena.jpg",
+      "metadata": "piedrabuena.json"
+    },
+    {
+      "name": "blocusstanley",
+      "title": "Z16 Antinavire — corvettes devant Port Stanley",
+      "image": "blocusstanley.jpg",
+      "metadata": "blocusstanley.json"
+    },
+    {
+      "name": "detroitlemaire",
+      "title": "Z17 Antinavire — escadre du détroit de Le Maire",
+      "image": "detroitlemaire.jpg",
+      "metadata": "detroitlemaire.json"
+    }
+  ]
+}

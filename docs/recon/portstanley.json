@@ -1,0 +1,122 @@
+{
+  "name": "portstanley",
+  "title": "Z14 OCA — base aérienne de Port Stanley",
+  "heading_deg": 73.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_PortStanley",
+  "camera": {
+    "position": [
+      87789.50011745222,
+      912.3124999999999,
+      92472.66841763703
+    ],
+    "forward": [
+      0.2532013236376528,
+      -0.49999999999999994,
+      0.8281842124238669
+    ],
+    "up": [
+      0.14618585236136836,
+      0.8660254037844387,
+      0.47815237798151766
+    ],
+    "right": [
+      -0.9563047559630354,
+      0.0,
+      0.29237170472273677
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 88245.2625,
+    "z": 93963.4,
+    "alt_m": 12.3125,
+    "lat": -51.69293335631321,
+    "lon": -57.77658493352157,
+    "dms": "S51°41'34.56\" W057°46'35.71\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStanley [r] ZSU-23-4 Shilka#10576",
+      "type": "ZSU-23-4 Shilka",
+      "x": 88121.7,
+      "z": 93238.3,
+      "alt": 1.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_PortStanley-Z14-1",
+      "type": "Tor 9A331",
+      "x": 88225.0,
+      "z": 94941.0,
+      "alt": 0.5
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-Hangar-5#10572 #391",
+      "type": "Hangar A",
+      "x": 88385.0,
+      "z": 93718.0,
+      "alt": 18.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-Su-24M-2#10573 #388",
+      "type": "Su-24M",
+      "x": 88452.9,
+      "z": 93956.0,
+      "alt": 23.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-MiG-29S-3#10574 #389",
+      "type": "MiG-29S",
+      "x": 88354.8,
+      "z": 94061.0,
+      "alt": 16.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-Su-24M-1#10575 #387",
+      "type": "Su-24M",
+      "x": 88424.9,
+      "z": 93867.9,
+      "alt": 22.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-Fuel-6#10578 #392",
+      "type": "Fuel tank",
+      "x": 87654.0,
+      "z": 93797.0,
+      "alt": 1.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_PortStanley [r] combatZone_PortStanley-Static-MiG-29S-4#10579 #390",
+      "type": "MiG-29S",
+      "x": 88343.8,
+      "z": 94128.0,
+      "alt": 14.7
+    }
+  ],
+  "image": "portstanley.jpg",
+  "heading": 73,
+  "pitch": -30.0,
+  "x": 87789.50011745222,
+  "y": 92472.66841763703,
+  "altitude_m": 912,
+  "order": 23
+}

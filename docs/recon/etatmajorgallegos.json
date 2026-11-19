@@ -1,0 +1,162 @@
+{
+  "name": "etatmajorgallegos",
+  "title": "Z10 Frappe — état-major de Rio Gallegos",
+  "heading_deg": 266.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_EtatMajorGallegos",
+  "camera": {
+    "position": [
+      25331.129169120602,
+      788.7076923076922,
+      -695385.7612646188
+    ],
+    "forward": [
+      -0.06041087834083495,
+      -0.49999999999999994,
+      -0.8639158094271043
+    ],
+    "up": [
+      -0.03487823687206278,
+      0.8660254037844387,
+      -0.49878202512991204
+    ],
+    "right": [
+      0.9975640502598242,
+      0.0,
+      -0.06975647374412558
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 25237.492307692308,
+    "z": -696724.8307692308,
+    "alt_m": 13.707692307692307,
+    "lat": -51.62308303740433,
+    "lon": -69.21908939081136,
+    "dms": "S51°37'23.10\" W069°13'08.72\""
+  },
+  "theatre": "Falklands",
+  "date": "2026-10-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] ZSU-23-4 Shilka#10538",
+      "type": "ZSU-23-4 Shilka",
+      "x": 25435.4,
+      "z": -696390.8,
+      "alt": 12.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] SA15#10535",
+      "type": "Tor 9A331",
+      "x": 24767.0,
+      "z": -696853.0,
+      "alt": 21.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] SA15#10535",
+      "type": "GAZ-66",
+      "x": 24742.0,
+      "z": -696881.0,
+      "alt": 12.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-PC mobile#10534",
+      "type": "SKP-11",
+      "x": 25477.0,
+      "z": -696926.0,
+      "alt": 13.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-PC mobile#10534",
+      "type": "SKP-11",
+      "x": 25472.0,
+      "z": -696926.0,
+      "alt": 13.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-PC mobile#10534",
+      "type": "Ural-375 PBU",
+      "x": 25492.0,
+      "z": -696926.0,
+      "alt": 13.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Fuel-7#10531 #356",
+      "type": "Fuel tank",
+      "x": 25090.0,
+      "z": -696878.0,
+      "alt": 12.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Comms-5#10532 #354",
+      "type": "Comms tower M",
+      "x": 25479.0,
+      "z": -696489.0,
+      "alt": 12.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Command-1#10537 #350",
+      "type": ".Command Center",
+      "x": 25302.0,
+      "z": -696666.0,
+      "alt": 13.8
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Military-6#10541 #355",
+      "type": "Military staff",
+      "x": 25125.0,
+      "z": -696489.0,
+      "alt": 13.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Bunker-3#10533 #352",
+      "type": "Bunker",
+      "x": 25102.0,
+      "z": -696666.0,
+      "alt": 13.9
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Bunker-4#10536 #353",
+      "type": "Bunker",
+      "x": 25302.0,
+      "z": -696866.0,
+      "alt": 12.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_EtatMajorGallegos [r] combatZone_EtatMajorGallegos-Static-Bunker-2#10540 #351",
+      "type": "Bunker",
+      "x": 25302.0,
+      "z": -696466.0,
+      "alt": 13.5
+    }
+  ],
+  "image": "etatmajorgallegos.jpg",
+  "heading": 266,
+  "pitch": -30.0,
+  "x": 25331.129169120602,
+  "y": -695385.7612646188,
+  "altitude_m": 789,
+  "order": 19
+}
